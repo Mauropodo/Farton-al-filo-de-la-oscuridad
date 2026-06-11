@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NPC/Sacerdote de Farton.md",
+                "file": "Dialogos/Rupert Merriweather/Bienvenida.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sacerdote de Farton"
+              "title": "Bienvenida"
             }
           }
         ]
@@ -94,7 +94,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NPC/Sacerdote de Farton.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes de Sacerdote de Farton"
+              "title": "Enlaces entrantes"
             }
           },
           {
@@ -113,12 +112,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NPC/Sacerdote de Farton.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Enlaces salientes de Sacerdote de Farton"
+              "title": "Enlaces salientes"
             }
           },
           {
@@ -156,13 +154,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NPC/Sacerdote de Farton.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Esquema de Sacerdote de Farton"
+              "title": "Esquema"
             }
           },
           {
@@ -180,7 +177,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 587.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -194,29 +191,44 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2863a62552ee7e2f",
+  "active": "ec8f685ce17f9e83",
   "lastOpenFiles": [
+    "Dialogos/Rupert Merriweather/Bienvenida.md",
+    "Dialogos/Rupert Merriweather/Componentes.md",
+    "Dialogos/Rupert Merriweather/Entidad.md",
+    "NPC/Rupert Merriweather.md",
+    "Dialogos/Rupert Merriweather/Despedida.md",
+    "Dialogos/Rupert Merriweather/La Abominacion Muerte.md",
+    "Dialogos/Rupert Merriweather/La Abominacion.md",
+    "Dialogos/Rupert Merriweather/El Complejo.md",
+    "Dialogos/Rupert Merriweather/La Torre Verdad.md",
+    "Dialogos/Rupert Merriweather/La Torre.md",
+    "Dialogos/Rupert Merriweather/La Tumba de Marion.md",
+    "Dialogos/Rupert Merriweather/La Muerte de Marion.md",
+    "Dialogos/Rupert Merriweather/Marion.md",
+    "Dialogos/Rupert Merriweather/El Escondite.md",
+    "Dialogos/Rupert Merriweather/Las Notas.md",
+    "Dialogos/Rupert Merriweather/El Ritual.md",
+    "Dialogos/Rupert Merriweather/La Vision.md",
+    "Dialogos/Rupert Merriweather/Por Que No Fui.md",
+    "Dialogos/Rupert Merriweather/La Maldicion.md",
+    "Dialogos/Rupert Merriweather/El Sello Hoy.md",
+    "Dialogos/Rupert Merriweather/El Sello.md",
+    "Dialogos/Rupert Merriweather/La Invocacion.md",
+    "Dialogos/Rupert Merriweather/Respuesta Hostil.md",
+    "Dialogos/Rupert Merriweather/La Recompensa.md",
+    "Dialogos/Rupert Merriweather/La Mision.md",
+    "Dialogos/Rupert Merriweather/Quien Eres.md",
+    "Dialogos/Abominación de carne",
+    "Dialogos/Sacerdote de Farton",
+    "Dialogos/Podrik Wols",
+    "Dialogos/Marion Allen",
+    "Dialogos/Rupert Merriweather",
     "DOC REFERENCIA/La_Bestia_de_Farton (1).pdf",
     "DOC REFERENCIA/La Colina Oscura.pdf",
     "DOC REFERENCIA/edge-of-darkness.pdf",
     "DOC REFERENCIA",
     "Nueva carpeta",
-    "CONTEXT.MD",
-    "Nuevo Documento de texto.txt",
-    "Resumen.md",
-    "NPC/Sacerdote de Farton.md",
-    "NPC/Podrik Wols.md",
-    "NPC/Marion Allen.md",
-    "Combates",
-    "Creaturas",
-    "Secretos/ritual de destierro.md",
-    "NPC/Abominación de carne.md",
-    "Objetos y pistas/caja con extraños grabados.md",
-    "Objetos y pistas",
-    "NPC/Rupert Merriweather.md",
-    "Ubicaciones/Pueblo de Farton.md",
-    "Sin título.canvas",
-    "Sin título.base",
-    "Dialogos"
+    "Sin título.canvas"
   ]
 }

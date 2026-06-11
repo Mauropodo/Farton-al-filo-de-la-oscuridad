@@ -84,21 +84,23 @@ Investigando nuevas fuentes de magia descubrieron una entidad oculta bajo una co
 
 
 
-Intentaron estudiarla.
+Intentaron contactarla mediante un ritual de invocación.
 
 
 
-Liberaron accidentalmente la entidad.
+El ritual despertó a la entidad. La liberaron accidentalmente.
 
 
 
-Marion consiguió contenerla mediante un ritual.
+Marion logró un sello de contención de emergencia.
 
 
 
-Para evitar que alguien volviera a liberar la entidad:
+El sello se ancló a la vida de los participantes y a la Abominación Guardiana que creó Marion.
 
 
+
+Para proteger el sello:
 
 \- creó una Abominación Guardiana.
 
@@ -108,7 +110,27 @@ Para evitar que alguien volviera a liberar la entidad:
 
 
 
-Con el paso de los años todos los participantes murieron.
+La entidad los marcó a todos. Una maldición lenta que los consumió desde dentro: pesadillas, enfermedad, terror, paranoia.
+
+
+
+Marion investigó enloquecidamente una solución. Descubrió el ritual de destierro en textos antiguos.
+
+
+
+Murió en extrañas circunstancias antes de poder ejecutarlo.
+
+
+
+El ritual de destierro quedó en sus notas. Nadie lo completó.
+
+
+
+Sin Marion, el terror y el trauma impidieron que nadie volviera a la colina.
+
+
+
+Uno a uno, los estudiosos murieron consumidos por la maldición.
 
 
 
@@ -136,19 +158,35 @@ NO es una batería mágica.
 
 
 
-Es simplemente el último superviviente que recuerda fragmentos de la verdad.
+La maldición lo carcome. Su enfermedad terminal es la marca de la entidad.
 
 
 
-Está enfermo y agonizando.
+Ha visto morir a todos sus compañeros, uno a uno, consumidos por el mismo horror.
 
 
 
-Teme que al morir desaparezca el último conocimiento sobre la entidad.
+El miedo, el terror y la culpa lo paralizaron durante décadas.
 
 
 
-Por eso busca aventureros.
+Nunca pudo volver a la colina.
+
+
+
+Sabe que los sellos de contención se debilitan con cada muerte del grupo original.
+
+
+
+Cuando él muera —y sabe que es cuestión de tiempo— el último ancla desaparecerá.
+
+
+
+La entidad quedará completamente libre.
+
+
+
+Busca aventureros no para salvarse (está condenado), sino porque alguien debe hacer lo que él nunca pudo.
 
 
 
@@ -164,7 +202,7 @@ Su papel debe mantenerse lo más cercano posible al Rupert original de Al Filo d
 
 
 
-Tras la muerte de Rupert los jugadores reciben una caja que contiene:
+Rupert entrega a los jugadores una caja (antes de morir o al contactarlos) que contiene:
 
 
 

@@ -6,11 +6,17 @@ Los aventureros son convocados por [[NPC/Rupert Merriweather]], un anciano mago 
 
 Décadas atrás, Rupert formó parte de un círculo de estudiosos liderado por [[NPC/Marion Allen]]. Investigando nuevas fuentes de magia descubrieron una entidad oculta bajo una colina cercana al bosque.
 
-Durante sus experimentos liberaron accidentalmente aquella entidad.
+Intentaron contactarla mediante un ritual de invocación. La liberaron accidentalmente.
 
-Marion logró contenerla mediante un ritual, ocultando el acceso a un complejo subterráneo construido bajo una torre en la colina al norte del [[Pueblo de Farton]]. . Con el tiempo todos los participantes murieron, quedando únicamente Rupert con fragmentos del conocimiento.
+Marion logró un sello de contención de emergencia, anclado a la vida del grupo, y creó una [[Abominación de carne]] como guardiana. Ocultó el acceso al complejo subterráneo bajo una torre en la colina al norte del [[Pueblo de Farton]].
 
-Ahora Rupert agoniza. Recientemente han comenzado a aparecer animales y personas sin corazón en los alrededores de [[Pueblo de Farton]].. El sabe que al morir el sello se romperá, entrega a los aventureros una [[caja con extraños grabados]] antes de morir.
+La entidad los marcó a todos. Una maldición lenta que los consumió. Marion investigó y descubrió el ritual de destierro, pero murió en extrañas circunstancias antes de ejecutarlo. El ritual quedó en sus notas.
+
+El terror y el trauma impidieron que nadie volviera a la colina. Uno a uno, los estudiosos murieron. Rupert es el último.
+
+Ahora Rupert agoniza, consumido por la misma maldición que mató a los demás. Los sellos de contención se debilitan con cada muerte del grupo. Recientemente han comenzado a aparecer animales y personas sin corazón en los alrededores de [[Pueblo de Farton]].
+
+Rupert sabe que cuando él muera el último ancla desaparecerá. Busca aventureros para que hagan lo que él nunca pudo: volver a la colina.
 
 Los personajes creen inicialmente que deben encontrar y eliminar una bestia que habita en el bosque.
 
@@ -27,7 +33,7 @@ Los aventureros deberán reconstruir la verdad investigando lugares relacionados
 
 ## NPC Principales
 
-- [Rupert Merriweather]()
+- [[Rupert Merriweather]]
 - [[Marion Allen]]
 - [[Podrik Wols]]
 - [[Sacerdote de Farton]]
@@ -84,27 +90,23 @@ Los aventureros deberán reconstruir la verdad investigando lugares relacionados
 
 ## Diagrama General
 
-Rupert
-↓
-Muerte de Rupert
+Contacto con Rupert
 ↓
 Caja + Llave + Diario
 ↓
 Investigación en Farton
 ↓
-Bosque
+Bosque → Lobos
 ↓
-Lobos
+Menhir / Cabaña / Arañas (opcional)
 ↓
-Menhir / Cabaña / Arañas
-↓
-Colina
-↓
-Abominación
+Colina → Abominación
 ↓
 Ruinas Ocultas
 ↓
 Complejo Subterráneo
+↓
+Descubrimiento del ritual de destierro (notas de Marion)
 ↓
 Ritual Final
 ↓
