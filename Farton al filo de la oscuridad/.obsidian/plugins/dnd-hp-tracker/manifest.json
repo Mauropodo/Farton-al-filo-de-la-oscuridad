@@ -1,0 +1,10 @@
+{
+	"id": "dnd-hp-tracker",
+	"name": "DnD HP Tracker",
+	"version": "1.2.2",
+	"minAppVersion": "1.7.2",
+	"description": "Track hit points, temporary HP, and apply damage/healing with resistance and vulnerability options for D&D characters.",
+	"author": "Miłosz Kucharski",
+	"fundingUrl": "https://buymeacoffee.com/butterski",
+	"isDesktopOnly": false
+}
