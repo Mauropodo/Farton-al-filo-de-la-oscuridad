@@ -1,3 +1,7 @@
+﻿---
+tags:
+  - secreto
+---
 # La Entidad Sellada
 
 ## Naturaleza

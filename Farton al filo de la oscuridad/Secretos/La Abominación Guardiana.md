@@ -1,3 +1,7 @@
+﻿---
+tags:
+  - secreto
+---
 # La Abominación Guardiana
 
 ## Qué es

@@ -13,12 +13,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dialogos/Rupert Merriweather/Bienvenida.md",
+                "file": "Dialogos/Rupert Merriweather/La Recompensa.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Bienvenida"
+              "title": "La Recompensa"
+            }
+          },
+          {
+            "id": "3c83806cc8e907c6",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Vista gráfica"
             }
           }
         ]
@@ -191,13 +201,24 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ec8f685ce17f9e83",
+  "active": "2863a62552ee7e2f",
   "lastOpenFiles": [
-    "Dialogos/Rupert Merriweather/Bienvenida.md",
-    "Dialogos/Rupert Merriweather/Componentes.md",
+    "Dialogos/Rupert Merriweather/La Recompensa.md",
+    "Dialogos/Rupert Merriweather/La Vision.md",
+    "Dialogos/Rupert Merriweather/La Mision.md",
+    "Dialogos/Rupert Merriweather/La Maldicion.md",
     "Dialogos/Rupert Merriweather/Entidad.md",
-    "NPC/Rupert Merriweather.md",
     "Dialogos/Rupert Merriweather/Despedida.md",
+    "Dialogos/Rupert Merriweather/Bienvenida.md",
+    "NPC/Rupert Merriweather.md",
+    "NPC/Marion Allen.md",
+    "Resumen.md",
+    "CONTEXT.MD",
+    "DOC REFERENCIA/La_Bestia_de_Farton (1).pdf",
+    "DOC REFERENCIA/La Colina Oscura.pdf",
+    "DOC REFERENCIA/edge-of-darkness.pdf",
+    "Dialogos/Rupert Merriweather/Quien Eres.md",
+    "Dialogos/Rupert Merriweather/Componentes.md",
     "Dialogos/Rupert Merriweather/La Abominacion Muerte.md",
     "Dialogos/Rupert Merriweather/La Abominacion.md",
     "Dialogos/Rupert Merriweather/El Complejo.md",
@@ -209,24 +230,13 @@
     "Dialogos/Rupert Merriweather/El Escondite.md",
     "Dialogos/Rupert Merriweather/Las Notas.md",
     "Dialogos/Rupert Merriweather/El Ritual.md",
-    "Dialogos/Rupert Merriweather/La Vision.md",
     "Dialogos/Rupert Merriweather/Por Que No Fui.md",
-    "Dialogos/Rupert Merriweather/La Maldicion.md",
     "Dialogos/Rupert Merriweather/El Sello Hoy.md",
-    "Dialogos/Rupert Merriweather/El Sello.md",
-    "Dialogos/Rupert Merriweather/La Invocacion.md",
-    "Dialogos/Rupert Merriweather/Respuesta Hostil.md",
-    "Dialogos/Rupert Merriweather/La Recompensa.md",
-    "Dialogos/Rupert Merriweather/La Mision.md",
-    "Dialogos/Rupert Merriweather/Quien Eres.md",
     "Dialogos/Abominación de carne",
     "Dialogos/Sacerdote de Farton",
     "Dialogos/Podrik Wols",
     "Dialogos/Marion Allen",
     "Dialogos/Rupert Merriweather",
-    "DOC REFERENCIA/La_Bestia_de_Farton (1).pdf",
-    "DOC REFERENCIA/La Colina Oscura.pdf",
-    "DOC REFERENCIA/edge-of-darkness.pdf",
     "DOC REFERENCIA",
     "Nueva carpeta",
     "Sin título.canvas"

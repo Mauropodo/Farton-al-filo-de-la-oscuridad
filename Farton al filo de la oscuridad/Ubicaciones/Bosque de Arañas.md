@@ -1,3 +1,7 @@
+﻿---
+tags:
+  - ubicacion
+---
 # Bosque de Arañas
 
 ## Descripción

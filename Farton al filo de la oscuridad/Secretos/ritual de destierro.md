@@ -1,3 +1,7 @@
+﻿---
+tags:
+  - secreto
+---
 # Ritual de Destierro
 
 ## Origen

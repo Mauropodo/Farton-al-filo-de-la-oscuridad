@@ -1,3 +1,7 @@
+﻿---
+tags:
+  - secreto
+---
 # La Maldición de la Entidad
 
 ## Origen

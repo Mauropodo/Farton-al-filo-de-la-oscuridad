@@ -1,3 +1,7 @@
+﻿---
+tags:
+  - ubicacion
+---
 
 ## Descripción general
 

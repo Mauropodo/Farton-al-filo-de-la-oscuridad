@@ -1,3 +1,7 @@
+﻿---
+tags:
+  - secreto
+---
 # El Ritual Original
 
 ## Qué fue

@@ -1,3 +1,7 @@
+﻿---
+tags:
+  - ubicacion
+---
 # Cabaña de Leñadores
 
 ## Descripción

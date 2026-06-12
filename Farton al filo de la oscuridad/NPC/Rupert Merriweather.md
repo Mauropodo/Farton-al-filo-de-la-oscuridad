@@ -1,3 +1,7 @@
+﻿---
+tags:
+  - npc
+---
 # Rupert Merriweather
 
 ## Arquetipo
