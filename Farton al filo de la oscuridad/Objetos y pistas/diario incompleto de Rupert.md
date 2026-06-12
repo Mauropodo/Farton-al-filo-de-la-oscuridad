@@ -14,7 +14,7 @@ El diario cubre los meses en que el círculo de estudiosos investigó la colina.
 - Cómo encontraron la colina guiados por Marion
 - La primera vez que sintieron la presencia de algo bajo tierra
 - El miedo que algunos empezaron a sentir —y que otros negaban
-- El día que todo cambió (la entrada está arrancada)
+- El día que todo cambió (la hoja  está arrancada)
 
 **Lo que NO cuenta:**
 - No describe el ritual. Esa sección está arrancada.

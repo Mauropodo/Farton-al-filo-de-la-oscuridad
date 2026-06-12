@@ -1,18 +1,15 @@
 param([string]$VaultPath = $PWD.Path)
 
+# Restaura solo graph.json desde los colores de Iconize
+# Ejecutar con Obsidian CERRADO
+
 $obsidian = Join-Path $VaultPath ".obsidian"
 $dataPath = Join-Path $obsidian "plugins\obsidian-icon-folder\data.json"
 $graphPath = Join-Path $obsidian "graph.json"
-$cssPath = Join-Path $obsidian "snippets\colores-carpetas.css"
-
-Write-Host "=== Sincronizando colores desde Iconize ===" -ForegroundColor Cyan
 
 if (-not (Test-Path $dataPath)) { Write-Host "ERROR: no se encuentra data.json" -ForegroundColor Red; exit 1 }
 
-# Leer data.json
 $data = Get-Content $dataPath -Raw | ConvertFrom-Json
-
-# Extraer folders con color (excluir 'settings', solo entries con iconColor)
 $folders = @()
 foreach ($prop in $data.PSObject.Properties) {
   if ($prop.Name -eq "settings") { continue }
@@ -21,42 +18,24 @@ foreach ($prop in $data.PSObject.Properties) {
     $folders += [PSCustomObject]@{ name=$prop.Name; color=$val.iconColor }
   }
 }
-
 $folders = $folders | Sort-Object Name
-
-if ($folders.Count -eq 0) {
-  Write-Host "ERROR: ningun folder tiene color asignado en Iconize" -ForegroundColor Red
-  exit 1
-}
-
-Write-Host "Folders con color: $($folders.Count)" -ForegroundColor Green
-foreach ($f in $folders) { Write-Host "  $($f.name) -> $($f.color)" }
 
 function Hex2RgbInt($hex) {
   $h = $hex.Trim('#')
   return ([Convert]::ToInt32($h.Substring(0,2),16) -shl 16) -bor ([Convert]::ToInt32($h.Substring(2,2),16) -shl 8) -bor [Convert]::ToInt32($h.Substring(4,2),16)
 }
 
-# Generar grupos JSON manualmente (2-space indent para Obsidian)
 $groupLines = @()
-$cssBlocks = @()
 foreach ($f in $folders) {
-  $rgb = Hex2RgbInt $f.color
   $groupLines += "    {
       `"query`": `"path:$($f.name)`",
       `"color`": {
         `"a`": 1,
-        `"rgb`": $rgb
+        `"rgb`": $(Hex2RgbInt $f.color)
       }
     }"
-  $cssBlocks += "/* $($f.name) */
-.nav-folder-title[data-path^=`"$($f.name)`"],
-.nav-file-title[data-path^=`"$($f.name)/`"] {
-  --nav-item-color: $($f.color) !important;
-}"
 }
 
-# Escribir graph.json
 $graphJson = @"
 {
   "collapse-filter": false,
@@ -83,22 +62,7 @@ $($groupLines -join ",`r`n")
   "close": false
 }
 "@
+
 Set-Content -Path $graphPath -Value $graphJson -Encoding UTF8
-Write-Host "OK graph.json" -ForegroundColor Green
-
-# Escribir CSS
-Set-Content -Path $cssPath -Value ($cssBlocks -join "`r`n`r`n") -Encoding UTF8
-Write-Host "OK colores-carpetas.css" -ForegroundColor Green
-
-Write-Host ""
-Write-Host "=== COMPLETADO ===" -ForegroundColor Cyan
-Write-Host "data.json NO fue modificado (solo lectura)"
-Write-Host ""
-Write-Host "PASOS:"
-Write-Host "  1. CIERRA OBSIDIAN"
-Write-Host "  2. Ejecuta este script (tools/sync-colors.ps1)"
-Write-Host "  3. Abre Obsidian"
-Write-Host "  4. Vista Grafica > engranaje > expandir 'Color Groups'"
-Write-Host ""
-Write-Host "SI SE PIERDEN LOS GRUPOS:"
-Write-Host "  Ejecuta tools/restore-graph.ps1 (cierra Obsidian antes)"
+Write-Host "OK graph.json restaurado con $($folders.Count) grupos de color" -ForegroundColor Green
+Write-Host "Ahora abre Obsidian y revisa la Vista Grafica."

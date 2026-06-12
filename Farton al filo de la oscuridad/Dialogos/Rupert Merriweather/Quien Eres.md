@@ -2,17 +2,25 @@
 tags:
   - dialogo
 ---
-Situacion: Los jugadores preguntan quién es Rupert y qué hace aquí.
+Situacion: Los jugadores le preguntan qué le ha pasado, por qué está así.
 
 Actitud: Cansado, con un dejo de amargura.
 
 > [!Dialogo]  
 > 
-—Me llamo Rupert Merriweather. Hace treinta años era un mago con más curiosidad que sentido común. Ahora soy un anciano que espera la muerte en esta cabaña.  
+> —Ya me ven. Treinta años pagando por un error. No hay mucho más que contar.
 >
-—Formé parte de algo... algo que salió mal. Muy mal. Y he pagado por ello cada día desde entonces.  
+> —Formé parte de algo que salió mal. Muy mal. Y esto —se señala el cuerpo— es lo que queda.
 >
-—Tose—. Como puedes ver.
+> —Pausa—.
+>
+> —Éramos como ustedes. Un grupo de aventureros. Con ganas de descubrir cosas, de hacer historia. Creíamos que éramos más listos que el mundo.
+>
+> —Tose—.
+>
+> —Miren dónde acabamos.
+>
+> —Tose—. No lo dejen para tarde.
 
-En caso de preguntar "qué salió mal": [[Dialogos/Rupert Merriweather/La Mision]]
+En caso de preguntar "qué pasó": [[Dialogos/Rupert Merriweather/La Mision]]
 En caso de preguntar "la maldición": [[Dialogos/Rupert Merriweather/La Maldicion]]

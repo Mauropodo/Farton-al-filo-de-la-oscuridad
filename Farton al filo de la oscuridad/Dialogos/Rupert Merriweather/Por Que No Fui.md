@@ -1,24 +1,28 @@
-﻿---
+---
 tags:
   - dialogo
 ---
-Situacion: Los jugadores preguntan por qué Rupert no va él mismo a la colina.
+Situación: Los jugadores preguntan por qué Rupert no va él mismo a la colina.
 
-Actitud: Avergonzado, derrotado, con un dejo de rabia contenida.
+Actitud: Se le desencaja la cara. Habla entre espasmos, casi sin mirarlos.
 
 > [!Dialogo]  
 > 
-—¿Volver allí? —Se ríe, pero no hay humor en ello—. He pasado treinta años intentando olvidar lo que vi. Treinta años despertándome gritando. ¿Y queréis que vuelva?  
+> La pregunta lo golpea. Se encoge en el sillón como si quisiera desaparecer.
 >
-—Silencio. La mirada al fuego—.
+> —¿Volver? —la voz se le rompe—. ¿Volver allí? No. No. No.
 >
-—La noche que huimos, cuando bajábamos por la ladera, miré atrás. La colina se recortaba contra el cielo. Y supe que ella estaba allí. Mirándome. Esperando.  
+> —Se agarra los brazos. Tiembla—.
 >
-—Y salí corriendo. Como un cobarde. Como siempre.  
+> —Todavía... todavía lo siento. Todas las noches. Me llama. Desde la tierra. Desde dentro.
 >
-—Se vuelve hacia los jugadores—.
+> —Mira al suelo, pero no ve el suelo. Ve otra cosa—.
 >
-—Soy un cobarde. Lo sé. Pero al menos soy un cobarde que intenta arreglar lo que hizo.
+> —La última vez que fui... —traga saliva— ... no fui. Llegué al borde del bosque. Y me quedé mirando. Durante horas. No pude dar un paso más.
+>
+> —Levanta las manos. Le tiemblan—.
+>
+> —Mirad. Mirad esto. Tiemblo. Tiemblo siempre. ¿Cómo voy a bajar allí? ¿Cómo voy a bajar sabiendo que está esperándome?
 
 En caso de preguntar "qué sentiste allí": [[Dialogos/Rupert Merriweather/Entidad]]
 En caso de suceso (insisten en que debe acompañarlos): [[Dialogos/Rupert Merriweather/Respuesta Hostil]]

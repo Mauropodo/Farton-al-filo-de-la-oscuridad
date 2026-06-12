@@ -68,7 +68,5 @@ Recuerda fragmentos, no la historia completa. El trauma y los años han borrado 
 - Si preguntan por la entidad: [[Dialogos/Rupert Merriweather/Entidad]]
 - Si preguntan por la maldición/enfermedad: [[Dialogos/Rupert Merriweather/La Maldicion]]
 - Si preguntan por qué no fue él mismo: [[Dialogos/Rupert Merriweather/Por Que No Fui]]
-- Si preguntan si ha visto a la entidad: [[Dialogos/Rupert Merriweather/La Vision]]
-- Si preguntan por Marion: [[Dialogos/Rupert Merriweather/Marion]]
 - En la despedida: [[Dialogos/Rupert Merriweather/Despedida]]
 - Si se muestran hostiles: [[Dialogos/Rupert Merriweather/Respuesta Hostil]]

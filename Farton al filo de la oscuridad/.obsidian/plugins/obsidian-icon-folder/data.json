@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiCheckSquare",
       "LiMap",
       "LiSparkle",
       "LiBookMarked",
-      "LiDices",
-      "LiHatGlasses"
+      "LiDices"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -36,7 +36,7 @@
   },
   "Combates": {
     "iconName": "LiSwords",
-    "iconColor": "#fa0000"
+    "iconColor": "#f01919"
   },
   "Dialogos": {
     "iconName": "LiSpeech",
@@ -74,5 +74,17 @@
   "Ubicaciones": {
     "iconName": "LiMap",
     "iconColor": "#6557cb"
-  }
+  },
+  "Dialogos/Rupert Merriweather/Despedida.md": "LiCheckSquare",
+  "Dialogos/Rupert Merriweather/Bienvenida.md": "LiCheckSquare",
+  "Dialogos/Rupert Merriweather/Quien Eres.md": "LiCheckSquare",
+  "Dialogos/Rupert Merriweather/Entidad.md": "LiCheckSquare",
+  "Dialogos/Rupert Merriweather/La Maldicion.md": "LiCheckSquare",
+  "Dialogos/Rupert Merriweather/La Mision.md": "LiCheckSquare",
+  "Dialogos/Rupert Merriweather/La Recompensa.md": "LiCheckSquare",
+  "Dialogos/Rupert Merriweather/Por Que No Fui.md": "LiCheckSquare",
+  "Objetos y pistas/caja con extraños grabados.md": "LiCheckSquare",
+  "Objetos y pistas/carta de despedida de Rupert.md": "LiCheckSquare",
+  "Objetos y pistas/llave antigua.md": "LiCheckSquare",
+  "Objetos y pistas/diario incompleto de Rupert.md": "LiCheckSquare"
 }

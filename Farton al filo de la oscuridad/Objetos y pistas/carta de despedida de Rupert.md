@@ -6,17 +6,17 @@
 
 *Si tienes esta carta, significa que he muerto. O que ya no importa la diferencia.*
 
-*No he sido del todo sincero con vosotros. El peligro es mayor de lo que os he contado.*
+*No he sido del todo sincero con ustedes. El peligro es mayor de lo que les he contado.*
 
 *Lo que despertamos en la colina no está muerto. Nunca lo estuvo. Solo esperaba. Y va a salir.*
 
-*He tenido treinta años para volver. Treinta años para intentar arreglarlo. Y he sido un cobarde todo este tiempo. No cometáis el mismo error.*
+*He tenido treinta años para volver. Treinta años para intentar arreglarlo. Y he sido un cobarde todo este tiempo. No cometan el mismo error.*
 
-*Id a la colina. La llave abre la entrada. El diario os contará lo que encontramos. El mapa os mostrará el camino.*
+*Vayan a la colina. La llave abre la entrada. El diario les contará lo que encontramos. El mapa les mostrará el camino.*
 
-*No confiéis en lo que veáis. No confiéis en lo que oigáis. Y sobre todo, no confiéis en el silencio.*
+*No confíen en lo que vean. No confíen en lo que oigan. Y sobre todo, no confíen en el silencio.*
 
-*Que tengáis más suerte que nosotros.*
+*Que tengan más suerte que nosotros.*
 
 *— Rupert Merriweather"*
 

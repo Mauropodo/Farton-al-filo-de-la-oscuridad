@@ -1,21 +1,22 @@
-﻿---
+---
 tags:
   - dialogo
 ---
-Situación: Los aventureros llegan a la cabaña de Rupert. Es el primer contacto.
+Situación: Los aventureros llegan a la cabaña de Rupert. Lo conocen de antes.
 
-Actitud: Evaluadora, cansada, seca. Los examina antes de decidir si vale la pena hablar.
- 
+Actitud: Cansada, urgente. Hay alivio en su cara cuando los ve.
+
 > [!Dialogo]  
 > 
-Está sentado junto al fuego. Una manta le cubre las piernas. Cuando entran los jugadores, los mira largamente, como evaluándolos. Luego asiente, casi para sí mismo.  
+> Está sentado junto al fuego. Una manta le cubre las piernas. Cuando entran, levanta la cabeza y esboza una sonrisa débil.
 >
-—Así que después de todo si vinieron. —Tose—. No esperaba que lo hicierais, —mira el fuego pensativo —quizás hubiese sido mejor que no vinieran .
-—Siéntaos. Tengo poco tiempo y menos energía. Os lo contaré todo por que los llame.
+> —Gracias por venir. —Tose—. No sabía si lo harían. No los culparía si no lo hubieran hecho.
+>
+> —visiblemente nervioso dice—quizás eso hubiese sido mejor.
+>
+> —Siéntense. Tengo poco tiempo. Los he llamado porque no me queda nadie más.
 
-En caso de preguntar "quién eres": [[Dialogos/Rupert Merriweather/Quien Eres]]
-En caso de preguntar "por qué estamos aquí": [[Dialogos/Rupert Merriweather/La Mision]]
-En caso de preguntar "qué nos da a cambio": [[Dialogos/Rupert Merriweather/La Recompensa]]
+En caso de preguntar "por qué nos has llamado": [[Dialogos/Rupert Merriweather/La Mision]]
+En caso de preguntar "qué nos das a cambio": [[Dialogos/Rupert Merriweather/La Recompensa]]
+En caso de preguntar "qué te pasó": [[Dialogos/Rupert Merriweather/Quien Eres]]
 En caso de suceso (los jugadores se muestran hostiles): [[Dialogos/Rupert Merriweather/Respuesta Hostil]]
-
-

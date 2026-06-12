@@ -1,22 +1,32 @@
-﻿---
+---
 tags:
   - dialogo
 ---
 Situacion: Los jugadores preguntan por qué los ha llamado.
 
-Actitud: Grave, urgente, con miedo contenido.
+Actitud: Tembloroso, roto, habla entre tos y espasmos.
 
 > [!Dialogo]  
 > 
-—Necesito que vayáis a la colina. La que está al norte, al otro lado del bosque.  
+> Rupert aparta la manta con mano temblorosa. Sobre sus rodillas hay una caja. La empuja hacia ellos.
 >
-—Hay algo ahí abajo. Algo que nosotros despertamos hace treinta años. Lo contuvimos entonces, pero no lo destruimos. Los sellos se están debilitando. Cuando yo muera, se romperán del todo.  
+> —Ahí. Todo lo que hice mal. Todo lo que no tuve valor de arreglar.
 >
-—Hace una pausa—.
+> —Tose. La voz se le quiebra—.
 >
-—No os pido que matéis nada. No sé si se puede matar. Os pido que bajéis, veáis lo que hay, y encontréis una forma de volver a cerrarlo.  
+> —Al norte. Al otro lado del bosque. Una colina. ... eso  se va a liberar cuando yo me muera, se liberará, **les pido como ultimo deseo que, devuelvan a esa cosa de donde vino.**
 >
-—Tose—. La caja os dará lo que necesitáis para llegar.
+> —comienza  a llorar—.
+>
+> —¿Sabéis lo que es vivir treinta años sabiendo que tendrías que haber vuelto y no hacerlo? ¿Sabéis lo que es saber que eres un cobarde y que incluso el morir era una mejor opción?
+>
+> —Agarra la caja con fuerza—.
+>
+> —Yo no puedo. No puedo ni acercarme. Cada vez que lo intento... —se lleva una mano a la sien— ...lo siento. Me llama. Me espera. Y yo salgo corriendo. Siempre.
+>
+> —Empuja la caja definitivamente—.
+>
+> —Se recuesta. Le cuesta respirar—.
 
 En caso de preguntar "qué es lo que hay ahí abajo": [[Dialogos/Rupert Merriweather/Entidad]]
 En caso de preguntar "qué hay en la caja": [[Dialogos/Rupert Merriweather/La Recompensa]]

@@ -1,59 +1,79 @@
 ﻿/* Combates */
-.nav-folder-title[data-path^="Combates"] .nav-folder-title-content,
-.nav-file-title[data-path^="Combates/"] .nav-file-title-content {
+.nav-folder-title[data-path^="Combates"],
+.nav-file-title[data-path^="Combates/"],
+.tree-item-self[data-path^="Combates"],
+.tree-item-self[data-path^="Combates/"] {
   color: #fa0000 !important;
 }
 
 /* Creaturas */
-.nav-folder-title[data-path^="Creaturas"] .nav-folder-title-content,
-.nav-file-title[data-path^="Creaturas/"] .nav-file-title-content {
+.nav-folder-title[data-path^="Creaturas"],
+.nav-file-title[data-path^="Creaturas/"],
+.tree-item-self[data-path^="Creaturas"],
+.tree-item-self[data-path^="Creaturas/"] {
   color: #d56130 !important;
 }
 
 /* Dialogos */
-.nav-folder-title[data-path^="Dialogos"] .nav-folder-title-content,
-.nav-file-title[data-path^="Dialogos/"] .nav-file-title-content {
+.nav-folder-title[data-path^="Dialogos"],
+.nav-file-title[data-path^="Dialogos/"],
+.tree-item-self[data-path^="Dialogos"],
+.tree-item-self[data-path^="Dialogos/"] {
   color: #00c70d !important;
 }
 
 /* Jugadores */
-.nav-folder-title[data-path^="Jugadores"] .nav-folder-title-content,
-.nav-file-title[data-path^="Jugadores/"] .nav-file-title-content {
+.nav-folder-title[data-path^="Jugadores"],
+.nav-file-title[data-path^="Jugadores/"],
+.tree-item-self[data-path^="Jugadores"],
+.tree-item-self[data-path^="Jugadores/"] {
   color: #1f35e0 !important;
 }
 
 /* NPC */
-.nav-folder-title[data-path^="NPC"] .nav-folder-title-content,
-.nav-file-title[data-path^="NPC/"] .nav-file-title-content {
+.nav-folder-title[data-path^="NPC"],
+.nav-file-title[data-path^="NPC/"],
+.tree-item-self[data-path^="NPC"],
+.tree-item-self[data-path^="NPC/"] {
   color: #ffffff !important;
 }
 
 /* Objetos y pistas */
-.nav-folder-title[data-path^="Objetos y pistas"] .nav-folder-title-content,
-.nav-file-title[data-path^="Objetos y pistas/"] .nav-file-title-content {
+.nav-folder-title[data-path^="Objetos y pistas"],
+.nav-file-title[data-path^="Objetos y pistas/"],
+.tree-item-self[data-path^="Objetos y pistas"],
+.tree-item-self[data-path^="Objetos y pistas/"] {
   color: #eeff00 !important;
 }
 
 /* Secretos */
-.nav-folder-title[data-path^="Secretos"] .nav-folder-title-content,
-.nav-file-title[data-path^="Secretos/"] .nav-file-title-content {
+.nav-folder-title[data-path^="Secretos"],
+.nav-file-title[data-path^="Secretos/"],
+.tree-item-self[data-path^="Secretos"],
+.tree-item-self[data-path^="Secretos/"] {
   color: #910ed8 !important;
 }
 
 /* Storyline */
-.nav-folder-title[data-path^="Storyline"] .nav-folder-title-content,
-.nav-file-title[data-path^="Storyline/"] .nav-file-title-content {
+.nav-folder-title[data-path^="Storyline"],
+.nav-file-title[data-path^="Storyline/"],
+.tree-item-self[data-path^="Storyline"],
+.tree-item-self[data-path^="Storyline/"] {
   color: #00a6c7 !important;
 }
 
 /* Sucesos */
-.nav-folder-title[data-path^="Sucesos"] .nav-folder-title-content,
-.nav-file-title[data-path^="Sucesos/"] .nav-file-title-content {
+.nav-folder-title[data-path^="Sucesos"],
+.nav-file-title[data-path^="Sucesos/"],
+.tree-item-self[data-path^="Sucesos"],
+.tree-item-self[data-path^="Sucesos/"] {
   color: #ab06b7 !important;
 }
 
 /* Ubicaciones */
-.nav-folder-title[data-path^="Ubicaciones"] .nav-folder-title-content,
-.nav-file-title[data-path^="Ubicaciones/"] .nav-file-title-content {
+.nav-folder-title[data-path^="Ubicaciones"],
+.nav-file-title[data-path^="Ubicaciones/"],
+.tree-item-self[data-path^="Ubicaciones"],
+.tree-item-self[data-path^="Ubicaciones/"] {
   color: #6557cb !important;
 }

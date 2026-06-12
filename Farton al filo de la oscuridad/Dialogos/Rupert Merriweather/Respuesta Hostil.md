@@ -1,22 +1,21 @@
-﻿---
+---
 tags:
   - dialogo
 ---
-Situacion: Los jugadores se muestran hostiles, amenazantes, o exigen un pago que Rupert no tiene.
+Situacion: Los jugadores se muestran hostiles, amenazantes, o insisten en algo que Rupert no puede dar.
 
-Actitud: Derrotado, indiferente, casi aliviado.
+Actitud: Cansado. Casi aliviado.
 
 > [!Dialogo]  
 > 
-—Muy bien. —Se recuesta en su sillón—. Haced lo que tengáis que hacer. Matadme, si eso os hace sentir mejor. Dentro de unas semanas estaré muerto igualmente.  
+> —¿Matarme? —suelta una risa seca—. Me hacéis un favor.
 >
-—Pero escuchadme bien: si me matáis, la caja muere conmigo. Y sin la llave, sin el mapa, nadie llegará a la colina a tiempo. La entidad se liberará. Y vendrá a buscaros. A todos vosotros. A vuestras familias. A cualquier lugar donde decidáis esconderos.  
+> —Se recuesta—.
 >
-—Así que sí. Matadme. Y condenad al mundo por unas monedas.  
+> —Pero llévense la caja, solo hagan algo 
+> —Cierra los ojos—.
 >
-—Cierra los ojos—.
->
-—Ya he vivido bastante.
+> —Hagan lo que quieran.
 
 En caso de suceso (atacan a Rupert): muerte de Rupert, los jugadores deben encontrar la caja por su cuenta
 En caso de suceso (deponen su actitud): [[Dialogos/Rupert Merriweather/Bienvenida]]
