@@ -23,4 +23,4 @@ Pergamino enrollado, amarillento y quebradizo. Dibujado a mano con tinta marrón
 - Los jugadores pueden usar el mapa para orientarse en el bosque (ventaja en pruebas de Supervivencia)
 - Señala los puntos de interés principales pero no da detalles sobre qué hay en cada uno
 - No revela la entrada al [[Ubicaciones/Complejo Subterráneo|complejo subterráneo]], solo la colina
-![[Pasted image 20260612023234.png]]
+![[Mapa farton.png]]
