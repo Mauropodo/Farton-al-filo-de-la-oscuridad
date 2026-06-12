@@ -1,0 +1,59 @@
+﻿/* Combates */
+.nav-folder-title[data-path^="Combates"] .nav-folder-title-content,
+.nav-file-title[data-path^="Combates/"] .nav-file-title-content {
+  color: #fa0000 !important;
+}
+
+/* Creaturas */
+.nav-folder-title[data-path^="Creaturas"] .nav-folder-title-content,
+.nav-file-title[data-path^="Creaturas/"] .nav-file-title-content {
+  color: #d56130 !important;
+}
+
+/* Dialogos */
+.nav-folder-title[data-path^="Dialogos"] .nav-folder-title-content,
+.nav-file-title[data-path^="Dialogos/"] .nav-file-title-content {
+  color: #00c70d !important;
+}
+
+/* Jugadores */
+.nav-folder-title[data-path^="Jugadores"] .nav-folder-title-content,
+.nav-file-title[data-path^="Jugadores/"] .nav-file-title-content {
+  color: #1f35e0 !important;
+}
+
+/* NPC */
+.nav-folder-title[data-path^="NPC"] .nav-folder-title-content,
+.nav-file-title[data-path^="NPC/"] .nav-file-title-content {
+  color: #ffffff !important;
+}
+
+/* Objetos y pistas */
+.nav-folder-title[data-path^="Objetos y pistas"] .nav-folder-title-content,
+.nav-file-title[data-path^="Objetos y pistas/"] .nav-file-title-content {
+  color: #eeff00 !important;
+}
+
+/* Secretos */
+.nav-folder-title[data-path^="Secretos"] .nav-folder-title-content,
+.nav-file-title[data-path^="Secretos/"] .nav-file-title-content {
+  color: #910ed8 !important;
+}
+
+/* Storyline */
+.nav-folder-title[data-path^="Storyline"] .nav-folder-title-content,
+.nav-file-title[data-path^="Storyline/"] .nav-file-title-content {
+  color: #00a6c7 !important;
+}
+
+/* Sucesos */
+.nav-folder-title[data-path^="Sucesos"] .nav-folder-title-content,
+.nav-file-title[data-path^="Sucesos/"] .nav-file-title-content {
+  color: #ab06b7 !important;
+}
+
+/* Ubicaciones */
+.nav-folder-title[data-path^="Ubicaciones"] .nav-folder-title-content,
+.nav-file-title[data-path^="Ubicaciones/"] .nav-file-title-content {
+  color: #6557cb !important;
+}

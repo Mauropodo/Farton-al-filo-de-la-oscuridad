@@ -7,10 +7,10 @@
     "iconColor": null,
     "recentlyUsedIcons": [
       "LiMap",
-      "LiPin",
-      "LiHistory",
-      "LiShieldQuestion",
-      "LiBeer"
+      "LiSparkle",
+      "LiBookMarked",
+      "LiDices",
+      "LiHatGlasses"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -20,13 +20,13 @@
       "bottom": 0,
       "left": 0
     },
-    "iconInTabsEnabled": false,
+    "iconInTabsEnabled": true,
     "iconInTitleEnabled": false,
     "iconInTitlePosition": "above",
     "iconInFrontmatterEnabled": false,
     "iconInFrontmatterFieldName": "icon",
     "iconColorInFrontmatterFieldName": "iconColor",
-    "iconsBackgroundCheckEnabled": false,
+    "iconsBackgroundCheckEnabled": true,
     "iconsInNotesEnabled": true,
     "iconsInLinksEnabled": true,
     "iconIdentifier": ":",
@@ -34,19 +34,45 @@
     "debugMode": false,
     "useInternalPlugins": false
   },
-  "Combates": "LiSwords",
-  "Creaturas": "LiAngry",
+  "Combates": {
+    "iconName": "LiSwords",
+    "iconColor": "#fa0000"
+  },
   "Dialogos": {
     "iconName": "LiSpeech",
-    "iconColor": "#10670e"
+    "iconColor": "#00c70d"
   },
-  "DOC REFERENCIA": "LiFiles",
-  "Jugadores": "LiUsers",
-  "NPC": "LiSmile",
-  "Objetos y pistas": "LiFeather",
-  "Sesiones": "LiBeer",
-  "Secretos": "LiShieldQuestion",
-  "Storyline": "LiHistory",
-  "Sucesos": "LiPin",
-  "Ubicaciones": "LiMap"
+  "Creaturas": {
+    "iconName": "LiSkull",
+    "iconColor": "#d56130"
+  },
+  "Jugadores": {
+    "iconName": "LiUsers",
+    "iconColor": "#1f35e0"
+  },
+  "NPC": {
+    "iconName": "LiPersonStanding",
+    "iconColor": "#ffffff"
+  },
+  "Objetos y pistas": {
+    "iconName": "LiCodesandbox",
+    "iconColor": "#eeff00"
+  },
+  "Secretos": {
+    "iconName": "LiHatGlasses",
+    "iconColor": "#910ed8"
+  },
+  "Sesiones": "LiDices",
+  "Storyline": {
+    "iconName": "LiBookMarked",
+    "iconColor": "#00a6c7"
+  },
+  "Sucesos": {
+    "iconName": "LiSparkle",
+    "iconColor": "#ab06b7"
+  },
+  "Ubicaciones": {
+    "iconName": "LiMap",
+    "iconColor": "#6557cb"
+  }
 }
