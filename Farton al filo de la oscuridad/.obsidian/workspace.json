@@ -215,8 +215,7 @@
       "command-palette:Abrir paleta de comandos": false,
       "bases:Crear nueva base": false,
       "obsidian-git:Open Git source control": false,
-      "obsidian-leaflet-plugin:Open Leaflet Map": false,
-      "character-sheets:Create new character sheet ": false
+      "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
   "active": "d39f1f4b2a871a41",
