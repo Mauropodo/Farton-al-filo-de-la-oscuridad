@@ -4,7 +4,7 @@
 
 Pergamino enrollado, amarillento y quebradizo. Dibujado a mano con tinta marrón. Muestra el bosque al norte del [[Ubicaciones/Pueblo de Farton|Pueblo de Farton]], con caminos marcados y varias anotaciones al margen.
 
-## Detalles
+## Detalles [[Mapa de la región]]
 
 - La [[Ubicaciones/Colina|Colina]] está marcada con un círculo y una anotación: *"Aquí"*
 - El [[Ubicaciones/Menhir|Menhir]] está señalado con un símbolo diferente
@@ -23,4 +23,5 @@ Pergamino enrollado, amarillento y quebradizo. Dibujado a mano con tinta marrón
 - Los jugadores pueden usar el mapa para orientarse en el bosque (ventaja en pruebas de Supervivencia)
 - Señala los puntos de interés principales pero no da detalles sobre qué hay en cada uno
 - No revela la entrada al [[Ubicaciones/Complejo Subterráneo|complejo subterráneo]], solo la colina
+- 
 ![[Mapa farton.png]]

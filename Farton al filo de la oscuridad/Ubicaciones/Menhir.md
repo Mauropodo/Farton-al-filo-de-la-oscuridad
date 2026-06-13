@@ -1,6 +1,7 @@
-﻿---
+---
 tags:
   - ubicacion
+  - secreto
 ---
 # Menhir
 

@@ -61,7 +61,7 @@ Los aventureros deberán reconstruir la verdad investigando lugares relacionados
 - [[Secretos/El Ritual Original]]
 - [[Secretos/La Entidad Sellada]]
 - [[Secretos/La Abominación Guardiana]]
-- [[Secretos/La Torre Perdida]]
+- [[La Torre Perdida]]
 - [[Secretos/La Muerte de Marion]]
 - [[Secretos/Las Notas de Rupert]]
 
