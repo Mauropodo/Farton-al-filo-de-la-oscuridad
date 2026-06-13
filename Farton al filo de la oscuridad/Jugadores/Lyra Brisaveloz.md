@@ -1,0 +1,138 @@
+---
+tags:
+  - personaje
+raza: Elfa de los bosques
+clase: Mago
+nivel: 1
+alineamiento: Neutral Bueno
+hp_max: 8
+hp_actual: 8
+ca: 12
+velocidad: 35
+iniciativa: "+2"
+bonificador_de_competencia: 2
+fuerza: 8
+destreza: 14
+constitucion: 13
+inteligencia: 17
+sabiduria: 12
+carisma: 10
+---
+
+# Lyra Brisaveloz
+> Mago • Elfa de los bosques • Nivel 1
+
+## Estadísticas básicas
+
+| Atributo | Valor |
+| --- | --- |
+| **PG máximos** | 8 |
+| **PG actuales** | 8 |
+| **CA** | 12 |
+| **Velocidad** | 35 pies / 10,5 m |
+| **Iniciativa** | +2 |
+| **Bonificador de competencia** | +2 |
+| **Dados de golpe** | 1d6 |
+| **Cordura** | 70 / 70 |
+
+## Características
+
+| Característica | Valor | Modificador | Salvación |
+| --- | --- | --- | --- |
+| **Fuerza** | 8 | −1 | −1 |
+| **Destreza** | 14 | +2 | +2 |
+| **Constitución** | 13 | +1 | +1 |
+| **Inteligencia** | 17 | +3 | +5 ✓ |
+| **Sabiduría** | 12 | +1 | +1 |
+| **Carisma** | 10 | +0 | +0 |
+
+## Habilidades
+
+| Habilidad | Modificador | Competencia |
+| --- | --- | --- |
+| **Acrobacias** (DES) | +2 | |
+| **Arcano** (INT) | +5 | ✓ |
+| **Atletismo** (FUE) | −1 | |
+| **Engañar** (CAR) | +0 | |
+| **Historia** (INT) | +5 | ✓ |
+| **Investigación** (INT) | +5 | ✓ |
+| **Percepción** (SAB) | +3 | ✓ |
+| **Perspicacia** (SAB) | +3 | ✓ |
+| **Persuasión** (CAR) | +0 | |
+| **Sigilo** (DES) | +2 | |
+
+## Competencias e idiomas
+
+**Armas:** Dagas, hondas, bastones, ballestas ligeras
+**Armaduras:** Ninguna
+**Idiomas:** Común, Élfico, Draconiano, Infernal
+
+## Trucos (3)
+
+- Luz
+- Mano de mago
+- Mensaje
+
+## Hechizos preparados (4)
+
+**Nivel 1:** Detectar magia, Escudo, Proyectil mágico, Comprensión de idiomas
+
+## Equipo
+
+| Objeto | Cantidad |
+| --- | --- |
+| Bastón (foco arcano) | 1 |
+| Daga | 1 |
+| Libro de conjuros | 1 |
+| Tintero y pluma | 1 |
+| Pieles de viaje | 1 |
+| Raciones de viaje (5) | 1 |
+| Cantimplora | 1 |
+| Yesca y pedernal | 1 |
+| Bolsa de componentes | 1 |
+
+## Rasgos y aptitudes
+
+### Raciales (Elfa de los bosques)
+
+**Visión en la oscuridad.** 60 pies (18 m).
+**Ascendencia feérica.** Ventaja contra hechizado. La magia no puede dormirla.
+**Trance.** No necesita dormir — medita 4 horas.
+**Entrenamiento élfico.** Competencia con arco largo, arco corto, espada larga, espada corta.
+**Sigilo natural.** Puede esconderse en entornos naturales ligeramente oscurecidos.
+
+### De clase (Mago)
+
+**Lanzamiento de conjuros.** CD de salvación 13, +5 a impactar.
+**Recuperación arcana.** Una vez al día, recupera hasta 1 nivel de espacios de conjuros tras un descanso breve.
+
+## Trasfondo: Pupila de Marion
+
+Lyra era una joven elfa cuando Marion Allen pasó por su aldea buscando conocimiento antiguo. Marion pasó un verano estudiando con los eruditos elfos, y Lyra, fascinada, lo seguía a todas partes. Marion le enseñó los fundamentos de la magia arcana y, una noche, le habló de la entidad bajo la colina — del error que había cometido y de su promesa de arreglarlo.
+
+Lyra nunca olvidó esa historia. Años después, recibió un mensaje de Rupert: *"Marion ya no está. Yo tampoco estaré pronto. Si recuerdas lo que te contó, ven."*
+
+**Rasgo de trasfondo.** Lyra reconoce símbolos arcanos, sellos y lenguajes rituales con facilidad. Ha oído historias de la entidad desde joven.
+
+## Ataques
+
+| Ataque | Bonificador | Daño | Tipo |
+| --- | --- | --- | --- |
+| Proyectil mágico | Automático | 1d4+1 x3 | Fuerza |
+| Daga | +4 | 1d4+2 | Perforante |
+
+## Cordura
+
+| Estado | Valor |
+| --- | --- |
+| **Cordura máxima** | 70 |
+| **Cordura actual** | 70 |
+| **Traumas activos** | — |
+
+## Notas de interpretación
+
+Lyra es curiosa, habladora, pero se pone seria cuando habla de Marion. Sabe más del misterio que los demás — pero solo fragmentos. No tuvo valor para buscar a Marion cuando desapareció. Rupert es su última oportunidad de honrar a su viejo maestro.
+
+Enlace a [[NPC/Marion Allen|Marion]] y [[NPC/Rupert Merriweather|Rupert]].
+
+## Notas de sesión

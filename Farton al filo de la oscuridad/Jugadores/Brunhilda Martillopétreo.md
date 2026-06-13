@@ -1,0 +1,142 @@
+---
+tags:
+  - personaje
+raza: Enana
+clase: Clérigo
+nivel: 1
+alineamiento: Legal Bueno
+hp_max: 12
+hp_actual: 12
+ca: 18
+velocidad: 25
+iniciativa: "+0"
+bonificador_de_competencia: 2
+fuerza: 15
+destreza: 10
+constitucion: 14
+inteligencia: 8
+sabiduria: 17
+carisma: 13
+---
+
+# Brunhilda Martillopétreo
+> Clérigo • Enana • Nivel 1
+
+## Estadísticas básicas
+
+| Atributo | Valor |
+| --- | --- |
+| **PG máximos** | 12 |
+| **PG actuales** | 12 |
+| **CA** | 18 (Cota de mallas + escudo) |
+| **Velocidad** | 25 pies / 7,5 m |
+| **Iniciativa** | +0 |
+| **Bonificador de competencia** | +2 |
+| **Dados de golpe** | 1d8 |
+| **Cordura** | 75 / 75 |
+
+## Características
+
+| Característica | Valor | Modificador | Salvación |
+| --- | --- | --- | --- |
+| **Fuerza** | 15 | +2 | +4 ✓ |
+| **Destreza** | 10 | +0 | +0 |
+| **Constitución** | 14 | +2 | +4 ✓ |
+| **Inteligencia** | 8 | −1 | −1 |
+| **Sabiduría** | 17 | +3 | +5 ✓ |
+| **Carisma** | 13 | +1 | +1 |
+
+## Habilidades
+
+| Habilidad | Modificador | Competencia |
+| --- | --- | --- |
+| **Arcano** (INT) | +1 | ✓ |
+| **Atletismo** (FUE) | +2 | |
+| **Historia** (INT) | −1 | |
+| **Medicina** (SAB) | +5 | ✓ |
+| **Perspicacia** (SAB) | +5 | ✓ |
+| **Religión** (INT) | +1 | ✓ |
+| **Socorrismo** (SAB) | +5 | ✓ |
+| **Supervivencia** (SAB) | +3 | |
+
+## Competencias e idiomas
+
+**Armas:** Armas simples, armas marciales
+**Armaduras:** Todas las armaduras, escudos
+**Herramientas:** Herramientas de herrero
+**Idiomas:** Común, Enano
+
+## Dominio: Forja
+
+**Canalizar divinidad (1/descanso).**
+**Bendición de la forja.** puede crear un objeto de metal simple o imbuir un arma/armadura con +1 durante 1 hora.
+**Conjuros de dominio.** *Encantar armadura, Súplica de ayuda*
+
+## Hechizos preparados (5)
+
+**Trucos (3):** Llama sagrada, Orientación, Taumaturgia
+**Nivel 1:** Curar heridas, Escudo de la fe, Palabra de curación, Protección contra el bien y el mal, Santuario
+
+## Equipo
+
+| Objeto | Cantidad |
+| --- | --- |
+| Martillo de guerra | 1 |
+| Cota de mallas | 1 |
+| Escudo | 1 |
+| Símbolo sagrado (forjado por su clan) | 1 |
+| Herramientas de herrero | 1 |
+| Mochila | 1 |
+| Raciones de viaje (5) | 1 |
+| Cantimplora | 1 |
+| Yesca y pedernal | 1 |
+| Martillo y piquetas de escalada | 1 |
+
+## Rasgos y aptitudes
+
+### Raciales (Enana)
+
+**Visión en la oscuridad.** 60 pies (18 m).
+**Resistencia enana.** Ventaja contra envenenado. Resistencia al daño por veneno.
+**Entrenamiento de combate enano.** Competencia con hacha de guerra, hacha de mano, martillo de guerra, martillo ligero.
+**Competencia con herramientas.** Herramientas de herrero.
+**Olfato para la piedra.** Saber cuándo una obra de piedra es antigua, está tramada o inestable (CD 10 Investigación o Percepción).
+
+### De clase (Clérigo)
+
+**Lanzamiento de conjuros.** CD de salvación 13, +5 a impactar.
+**Canalizar divinidad (1/descanso).**
+
+## Trasfondo: Deudora de Rupert
+
+Hace años, una plaga sobrenatural asoló el clan Martillopétreo. Los enanos morían con símbolos negros grabados en la piel. Rupert llegó sin ser llamado, realizó un ritual de purificación que casi lo mata, y se fue sin aceptar una sola moneda.
+
+Brunhilda era una enana joven, pero lo recuerda: un mago alto, de mirada cansada, que sonreía como si ya estuviera muerto. Su padre le dijo: *"Si ese hombre llama algún día, nosotros respondemos. Sin preguntas."*
+
+Rupert ha llamado.
+
+**Rasgo de trasfondo.** Brunhilda conoce los rituales de protección contra la corrupción sobrenatural. Reconoce cuando algo ha sido marcado o poseído.
+
+## Ataques
+
+| Ataque | Bonificador | Daño | Tipo |
+| --- | --- | --- | --- |
+| Martillo de guerra | +4 | 1d8+2 | Contundente |
+| Llama sagrada | CD 13 | 1d8 | Radiante |
+| Martillo de guerra (a dos manos) | +4 | 1d10+2 | Contundente |
+
+## Cordura
+
+| Estado | Valor |
+| --- | --- |
+| **Cordura máxima** | 75 |
+| **Cordura actual** | 75 |
+| **Traumas activos** | — |
+
+## Notas de interpretación
+
+Brunhilda es seria, leal y no habla por hablar. Cree en las deudas y en la palabra dada. No sabe qué quiere Rupert, pero no necesita saberlo — su padre le enseñó que algunas promesas se cumplen sin preguntas. Reza todas las mañanas a la forja. No le teme a la muerte, pero sí a fallar.
+
+Enlace a [[NPC/Rupert Merriweather|Rupert]].
+
+## Notas de sesión

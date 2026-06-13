@@ -86,7 +86,6 @@
   "Objetos y pistas/caja con extraños grabados.md": "LiCheckSquare",
   "Objetos y pistas/carta de despedida de Rupert.md": "LiCheckSquare",
   "Objetos y pistas/llave antigua.md": "LiCheckSquare",
-  "Objetos y pistas/diario incompleto de Rupert.md": "LiCheckSquare",
   "Objetos y pistas/mapa del bosque.md": "LiCheckSquare",
   "Ubicaciones/La Torre Perdida.md": "LiCheckSquare",
   "Dialogos/Rupert Merriweather/Respuesta Hostil.md": "LiCheckSquare",
@@ -97,5 +96,6 @@
   "Dialogos/Podrik Wols/Pide Algo a Cambio.md": "LiCheckSquare",
   "Dialogos/Podrik Wols/Rumores.md": "LiCheckSquare",
   "Dialogos/Podrik Wols/Despedida.md": "LiCheckSquare",
-  "Dialogos/Podrik Wols": "LiCheckSquare"
+  "Dialogos/Podrik Wols": "LiCheckSquare",
+  "Objetos y pistas/diario incompleto de Rupert.md": "LiCheckSquare"
 }

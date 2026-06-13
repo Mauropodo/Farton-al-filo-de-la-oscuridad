@@ -2,27 +2,33 @@
 
 ## Texto
 
-*"A quien lea esto:*
+*Queridos amigos:*
 
-*Si tienes esta carta, significa que he muerto. O que ya no importa la diferencia.*
+*Treinta años. Treinta años han pasado desde aquello, y aún me despierto temblando. No culpo a nadie más que a mí. Fui yo quien encontró los textos. Fui yo quien los llevó a Marion. Fui yo quien dijo "podemos controlarlo".*
 
-*No he sido del todo sincero con ustedes. El peligro es mayor de lo que les he contado.*
+*Qué estúpido fui.*
 
-*Lo que despertamos en la colina no está muerto. Nunca lo estuvo. Solo esperaba. Y va a salir.*
+*En los años que siguieron, intenté comprender lo que habíamos hecho. Leí, experimenté, viajé. Gasté toda mi fortuna intentando enmendar mi culpa — tratando con aberraciones, buscando respuestas. Pero nunca pude volver a la colina. Nunca fui lo bastante valiente.*
 
-*He tenido treinta años para volver. Treinta años para intentar arreglarlo. Y he sido un cobarde todo este tiempo. No cometan el mismo error.*
+*Ustedes no me deben nada. Yo les debo todo.*
 
-*Vayan a la colina. La llave abre la entrada. El diario les contará lo que encontramos. El mapa les mostrará el camino.*
+*Marion descubrió cómo devolverlo. Lo encontró en un libro — De Vermis Mysteriis — y en las notas que dejó antes de morir. El método está ahí, en el complejo bajo la colina, donde ella lo preparó todo. Yo nunca tuve la fuerza para completarlo. Pero ustedes... ustedes pueden.*
 
-*No confíen en lo que vean. No confíen en lo que oigan. Y sobre todo, no confíen en el silencio.*
+*Si logran encerrarlo de nuevo, quizás eso baste para salvar lo que queda de mí. No lo merezco, pero se los pido igual.*
 
-*Que tengan más suerte que nosotros.*
+*No espero que me perdonen. Solo espero que hagan lo que yo no pude.*
 
-*— Rupert Merriweather"*
+*— Rupert Merriweather*
+
+
 
 ## Notas
 
-- La carta no está fechada
+- La caligrafía se vuelve más temblorosa hacia el final
 - La tinta está manchada en varias palabras, como si hubiera dudado al escribirlas
-- El pliegue de la carta muestra que ha estado doblada y guardada durante mucho tiempo
-- No hay señales de lágrimas, pero la "R" de la firma tiembla visiblemente
+- El pliegue de la carta muestra que ha estado doblada y guardada durante mucho tiempo — quizás años
+- No hay señales de lágrimas, pero el trazo tiembla visiblemente
+- La posdata parece añadida después, en un momento distinto
+
+
+
