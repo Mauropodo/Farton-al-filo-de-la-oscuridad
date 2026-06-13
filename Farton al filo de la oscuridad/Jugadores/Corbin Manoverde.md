@@ -126,7 +126,7 @@ Cuando Rupert desapareció de la vida del pueblo, Corbin siguió entrenando por 
 
 ## Cordura
 
-Reglas inspiradas en Call of Cthulhu adaptadas a D&D 2024.
+Reglas completas en [[Reglas/Cordura]].
 
 | Estado | Valor |
 | --- | --- |
@@ -134,17 +134,13 @@ Reglas inspiradas en Call of Cthulhu adaptadas a D&D 2024.
 | **Cordura actual** | 65 |
 | **Traumas activos** | — |
 
-### Pérdida de cordura
-
-Al encontrarse con horrores sobrenaturales (la [[Secretos/La Entidad Sellada|entidad]], visiones del [[Ubicaciones/Menhir]], la muerte de Rupert), el DJ solicita una tirada de salvación de Sabiduría CD variable. Si falla, pierde 1d6 de Cordura (o más, según el horror).
-
 ### Traumas (cómo se gatillan)
 
 Cada vez que ocurre **una** de estas situaciones, el personaje debe tirar **Salvación de Sabiduría CD 13**. Si falla, adquiere un trauma. Tira 1d6 en la tabla:
 
 | d6 | Trauma | Efecto |
 | --- | --- | --- |
-| 1 | **Paranoia** | Desventaja enPerspicacia y Carisma. No confía en nadie nuevo. |
+| 1 | **Paranoia** | Desventaja en Perspicacia y Carisma. No confía en nadie nuevo. |
 | 2 | **Pesadillas** | No recupera PG ni dados de golpe tras un descanso largo. Desaparece tras 1d4 días. |
 | 3 | **Fobia: oscuridad** | Mientras está a oscuras, desventaja en ataques y habilidades. |
 | 4 | **Fobia: bosque** | Desventaja en Percepción y Supervivencia en zonas boscosas. |

@@ -28,7 +28,7 @@ Túnica raída y remendada, gasta gafas de media luna, el pelo blanco y ralo. Hu
 Mathias sabe más que nadie en Farton — y ha dicho menos que nadie durante décadas.
 
 - **El grupo de investigación.** Recuerda cuando Marion Allen llegó a Farton con sus compañeros. Vio sus mapas, sus instrumentos, sus libros. Intuyó que buscaban algo peligroso, pero no intervino.
-- **La muerte de Marion.** Años después del desastre, llegaron noticias de las tierras del sur. Marion había aparecido muerto en un distrito de almacenes, con el pecho abierto, las costillas separadas de la columna. Le habían arrancado la lengua y le habían tallado un símbolo en la frente. El corazón y el hígado faltaban — cortados con precisión, pero con crudeza. El cuerpo había sido movido después de muerto. No fue un robo.
+- **La muerte de Marion.** Años después del desastre, llegaron noticias de las tierras del sur. Marion había aparecido muerto en las ruinas de un embarcadero, con el pecho abierto, las costillas separadas de la columna. Le habían arrancado la lengua y le habían tallado un símbolo en la frente. El corazón y el hígado faltaban — cortados con precisión, pero con crudeza. El cuerpo había sido movido después de muerto. No fue un robo.
 - **Los libros donados.** La iglesia guarda cajas de libros que nadie reclama. Mathias revisa todos personalmente. Hace años encontró uno que no debía: *De Vermis Mysteriis*. Lo reconoció por las notas de Marion. No lo destruyó. Lo escondió.
 - **De Vermis Mysteriis.** Lo tiene Mathias. No se lo dará a los jugadores a menos que confíe en ellos — o que ellos demuestren que entienden lo que están buscando.
 

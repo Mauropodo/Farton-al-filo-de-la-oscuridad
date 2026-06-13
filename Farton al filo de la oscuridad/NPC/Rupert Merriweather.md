@@ -42,14 +42,14 @@ Sabe que no le queda mucho. Semanas. Quizás un mes.
 
 ## Qué sabe
 
-Recuerda fragmentos, no la historia completa. El trauma y los años han borrado partes. Cuanto más se le presiona, más se cierra.
+Lo recuerda todo. No quiere contarlo verbalmente. Prefiere que los jugadores lo lean en el diario y la carta. Cuando le preguntan, se pone evasivo.
 
 - Sabe que hicieron algo en la colina que despertó algo que debía seguir dormido.
-- Sabe que Marion lo contuvo. No recuerda bien cómo.
+- Sabe que Marion lo contuvo.
 - Sabe que todos los que participaron fueron muriendo uno tras otro. Él es el último.
 - Sabe que la colina es peligrosa. Que hay una entrada bajo la tierra.
-- **No recuerda detalles.** No sabe cómo sellarlo. No sabe rituales. No sabe qué hay exactamente abajo.
-- Solo sabe que si nadie hace algo, cuando él muera, lo que sea que está ahí abajo va a salir.
+- Sabe el ritual completo, pero no puede ejecutarlo — la maldición lo paraliza al acercarse a la colina.
+- Todo está escrito en su diario. No quiere repetirlo en voz alta.
 
 ## Qué guarda
 

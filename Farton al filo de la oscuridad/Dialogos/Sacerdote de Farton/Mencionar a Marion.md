@@ -22,7 +22,7 @@ Actitud: Se pone serio. Habla más bajo. Se sienta.
 >
 > —Mira hacia la puerta—.
 >
-> —No volví a verlos. Años después llegaron noticias. Marion había muerto en las tierras del sur. Encontraron su cuerpo en un distrito de almacenes, al amanecer. Alguien lo había matado en otro sitio y lo había dejado allí.
+> —No volví a verlos. Años después llegaron noticias. Marion había muerto en las tierras del sur. Encontraron su cuerpo en las ruinas de un embarcadero, al amanecer. Alguien lo había matado en otro sitio y lo había dejado allí.
 >
 > —Titubea—.
 >

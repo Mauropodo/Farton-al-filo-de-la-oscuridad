@@ -6,26 +6,26 @@ tags:
 
 ## Qué se sabe
 
-[[NPC/Marion Allen|Marion Allen]] fue encontrada muerta en su estudio. Nadie vio a nadie entrar. Nadie escuchó nada. Estaba sentada en su escritorio, los ojos abiertos de par en par, la boca abierta en una expresión de horror absoluto.
+[[NPC/Marion Allen|Marion Allen]] murió presuntamente asesinado en las tierras del sur. Su cuerpo apareció en las ruinas de un embarcadero al amanecer. Alguien lo había matado en otro sitio y lo había dejado allí.
 
-[[NPC/Rupert Merriweather|Rupert]] fue quien la encontró. Nunca olvidó esa imagen.
+Nunca encontraron al culpable.
 
 ## Lo que realmente pasó
 
-Marion había descubierto el [[Secretos/ritual de destierro]] en textos antiguos. Pasó días y noches enteras investigando, descifrando, tomando notas. Estaba obsesionada.
+El cuerpo de Marion apareció con el pecho abierto. Las costillas separadas de la columna. Le habían arrancado la lengua. En la frente llevaba grabado un símbolo — algo tallado con cuchillo, hasta el hueso. El corazón y el hígado faltaban. Alguien los había extraído con un corte limpio, pero sin cuidado, como si la precisión no importara.
 
-La noche de su muerte, estaba copiando el ritual completo. Algo —la entidad, o quizá otra cosa— llegó a ella a través de los textos. No físicamente. Mentalmente. La alcanzó allí donde estaba.
+Había descubierto el [[Secretos/ritual de destierro]] en textos antiguos. Pasó días y noches enteras investigando, descifrando. Estaba obsesionada.
 
-Las notas del ritual de destierro desaparecieron de su escritorio esa noche. Tiempo después, [[Secretos/Las Notas de Rupert|Rupert las encontró]] entre sus pertenencias. No supo cómo habían llegado allí.
+La noche de su muerte, estaba copiando el ritual completo. Algo llegó a ella a través de los textos.
+
+Las notas del ritual de destierro desaparecieron de su escritorio esa noche. Tiempo después, Rupert las encontró entre sus pertenencias. No supo cómo habían llegado allí.
 
 ## La verdad ambigua (para el DJ)
 
-¿Mató la entidad a Marion para evitar que completara el destierro? ¿O la alcanzó algo más antiguo que protegía el conocimiento? ¿O simplemente su corazón no soportó el peso de lo que había descubierto?
-
-Marion no murió por violencia física. Murió de miedo.
+¿Mató la entidad a Marion para evitar que completara el destierro? ¿O la alcanzó algo más antiguo que protegía el conocimiento? ¿O simplemente era un asesinato ritual cometido por alguien que quería el libro?
 
 ## Pistas para los jugadores
 
 - Las notas de Rupert mencionan que Marion "parecía haber visto algo justo antes de morir"
-- Si los jugadores investigan su estudio (si aún existe), pueden encontrar restos de cera negra de vela y un círculo de sal que Marion dibujó en el suelo antes de morir —como si supiera que algo iba a venir
+- El cuerpo apareció en las ruinas del puerto, no en un distrito de almacenes
 - [[Ubicaciones/Menhir|El menhir]] puede mostrar una visión de esa noche

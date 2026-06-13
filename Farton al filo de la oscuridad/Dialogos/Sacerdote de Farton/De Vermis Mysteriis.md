@@ -26,7 +26,7 @@ Actitud: Se queda en blanco. Luego se recupera, pero no del todo.
 >
 > —No ofrece más. No lo niega, pero no lo confirma del todo—.
 
-(Nota para el DJ: Mathias no admite directamente que lo tiene. Pero si los jugadores son respetuosos, explican la situación de Rupert, o demuestran que entienden el peligro, puede acceder a enseñarlo. Ver Confesar.md.)
+(Nota para el DJ: Mathias no cede. No entrega el libro. Lo que los jugadores necesitan está en el diario de Rupert, no aquí. Este es un callejón sin salida.)
 
-En caso de insistir: [[Dialogos/Sacerdote de Farton/Confesar]]
+En caso de insistir: Mathias no cede. No hay más información aquí.
 En caso de amenazar: [[Dialogos/Sacerdote de Farton/Hostil]]

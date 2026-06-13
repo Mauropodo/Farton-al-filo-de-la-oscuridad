@@ -11,8 +11,12 @@ cr: 4
 ---
 
 
-# Abominación Guardiana
+# Abominación
 > Monstruosidad Grande • Desafío 4 (1100 PX)
+
+## Apariencia
+
+Masa de carne cosida de varios cuerpos (humanos y animales). Brazos de distinto tamaño y origen. Costuras visibles. Huele a carne podrida y tierra mojada. Se mueve con paso pesado pero firme. No tiene rostro — solo una máscara de piel estirada sobre lo que sería una cara.
 
 ## Estadísticas
 
@@ -43,7 +47,7 @@ cr: 4
 
 ## Rasgos
 
-**Creada por Marion.** Fue creada por [[NPC/Marion Allen]] para proteger el sello de contención. No es maligna — es una herramienta. Reconoce el símbolo de Marion (visible en la caja de Rupert) y no ataca a quien lo muestre.
+**Creada por Marion.** Fue creada por [[NPC/Marion Allen|Marion Allen]] para proteger el sello de contención. No es maligna — es una herramienta. Reconoce el símbolo de Marion (visible en la caja de Rupert) y no ataca a quien lo muestre.
 
 **Vínculo con el sello.** Mientras el sello de contención esté activo, la Abominación no puede morir. Si sus PG se reducen a 0, se regenera 1d10 PG al inicio de cada turno. Solo se destruye permanentemente si el sello se rompe o el ritual de destierro se completa.
 

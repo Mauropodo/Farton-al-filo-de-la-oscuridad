@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Creaturas/Presencia del Vacío.md",
+                "file": "Creaturas/Abominación Guardiana.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Presencia del Vacío"
+              "title": "Abominación Guardiana"
             }
           }
         ],
@@ -202,7 +202,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 587.5
+    "width": 433.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -220,9 +220,18 @@
   },
   "active": "d39f1f4b2a871a41",
   "lastOpenFiles": [
+    "Objetos y pistas/carta de despedida de Rupert.md",
+    "Sucesos/Llamado de Rupert.md",
+    "Ubicaciones/Bosque del Ogro.md",
+    "Ubicaciones/Cabaña de Rupert.md",
+    "Ubicaciones/Embarcadero.md",
+    "Ubicaciones/Posada.md",
+    "Ubicaciones/Iglesia.md",
+    "Reglas/Cordura.md",
+    "Reglas",
+    "Creaturas/Presencia del Vacío.md",
     "CONTEXT.md",
     "Creaturas/Rata corrupta.md",
-    "Creaturas/Presencia del Vacío.md",
     "Creaturas/Lobo corrupto.md",
     "Creaturas/Araña gigante.md",
     "Creaturas/Abominación Guardiana.md",
@@ -240,17 +249,9 @@
     "DOC REFERENCIA/edge-of-darkness.pdf",
     "DOC REFERENCIA/Book 4_Handouts.pdf",
     "DOC REFERENCIA/Sin confirmar 558041.crdownload",
-    "Objetos y pistas/carta de despedida de Rupert.md",
     "Dialogos/Rupert Merriweather/La Mision.md",
-    "Dialogos/Rupert Merriweather/La Maldicion.md",
-    "Dialogos/Rupert Merriweather/Entidad.md",
-    "Jugadores/Corbin Manoverde.md",
-    "Characters/Character18791.md",
     "Characters",
-    "NPC/Abominación de carne.md",
-    "Secretos/La Abominación Guardiana.md",
     "Personajes",
-    "Secretos/El Ritual Original.md",
     "DOC REFERENCIA/La_Bestia_de_Farton (1).pdf",
     "DOC REFERENCIA/Mapa farton.png",
     "Ubicaciones/Sin título.canvas",
@@ -258,7 +259,6 @@
     "tools/restore-graph.ps1",
     "tools/test_readonly.txt",
     "tools/sync-colors.ps1",
-    "tools/colores-config.json",
     "Sin título.canvas"
   ]
 }

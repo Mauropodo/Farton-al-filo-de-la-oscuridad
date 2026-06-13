@@ -22,5 +22,9 @@ Actitud: Cansado, con un dejo de amargura.
 >
 > —Tose—. No lo dejen para tarde.
 
+—Si preguntan por detalles, niega con la cabeza—.
+>
+> —Está todo en el diario. No me hagas repetirlo. No puedo.
+
 En caso de preguntar "qué pasó": [[Dialogos/Rupert Merriweather/La Mision]]
 En caso de preguntar "la maldición": [[Dialogos/Rupert Merriweather/La Maldicion]]

@@ -26,8 +26,6 @@ Es algo que estaba *debajo* de la colina desde antes de que Farton existiera. Do
 
 ## Cómo tratarla
 
-La [[NPC/Abominación de carne|Abominación Guardiana]] y el sello la contienen, pero no la destruyen. La única solución conocida es completar el [[Secretos/ritual de destierro]] que [[NPC/Marion Allen|Marion Allen]] descubrió en sus investigaciones.
+La [[NPC/Abominación de carne|Abominación]] y el sello la contienen, pero no la destruyen. La única solución conocida es completar el [[Secretos/ritual de destierro]] que [[NPC/Marion Allen|Marion Allen]] descubrió en sus investigaciones.
 
-## Para el DJ
 
-Mantener a la entidad vaga y desconocida es intencional. Cuanto menos sepan los jugadores, más terror funciona. No le pongas nombre. No le des estadísticas. Haz que sientan su presencia sin entenderla nunca del todo.

@@ -96,13 +96,13 @@ Marion logró un sello de contención de emergencia.
 
 
 
-El sello se ancló a la vida de los participantes y a la Abominación Guardiana que creó Marion.
+El sello se ancló a la vida de los participantes y a la Abominación que creó Marion.
 
 
 
 Para proteger el sello:
 
-\- creó una Abominación Guardiana.
+\- creó una Abominación.
 
 \- ocultó el acceso.
 
@@ -264,7 +264,7 @@ La revelación debe sentirse como un descubrimiento propio.
 
 
 
-\# ABOMINACIÓN GUARDIANA
+\# ABOMINACIÓN
 
 
 
@@ -416,7 +416,7 @@ No ser solamente un combate.
 
 
 
-3\. Abominación Guardiana
+3\. Abominación
 
 
 

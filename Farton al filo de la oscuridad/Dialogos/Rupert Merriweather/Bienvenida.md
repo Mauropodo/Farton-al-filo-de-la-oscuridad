@@ -2,7 +2,7 @@
 tags:
   - dialogo
 ---
-Situación: Los aventureros llegan a la cabaña de Rupert. Lo conocen de antes.
+Situación: Los aventureros llegan a la cabaña de Rupert. Algunos lo conocen de antes; otros lo ven por primera vez.
 
 Actitud: Cansada, urgente. Hay alivio en su cara cuando los ve.
 

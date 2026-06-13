@@ -19,6 +19,8 @@ El interior de las ruinas está lleno de cascotes y escombros. Entre ellos, con 
 
 Bajo las ruinas se extienden los sótanos de la antigua torre. Las primeras salas están cubiertas de polvo y telarañas, habitadas por ratas y otras alimañas.
 
+En los cofres del sótano se encuentran los componentes que faltan del [[Secretos/ritual de destierro]]: el **símbolo de enfoque** (disco de piedra con el sello de Marion) y una daga mágica.
+
 Pero las habitaciones más cercanas al acceso desde la colina —las que comunican con el [[Ubicaciones/Complejo Subterráneo|complejo subterráneo]]— están extrañamente limpias. Sin una mota de polvo. Sin basura. Las paredes relucen hasta metro y medio de altura. No hay telarañas. No hay suciedad. Nada.
 
 Esa limpieza no es natural. No es mantenimiento. Es la marca de la [[Secretos/La Entidad Sellada|entidad]]. Esa sala es el límite del sello de contención. El lugar donde la presencia se filtra. Donde la corrupción es tan pura que arrasa con todo rastro de vida e imperfección.

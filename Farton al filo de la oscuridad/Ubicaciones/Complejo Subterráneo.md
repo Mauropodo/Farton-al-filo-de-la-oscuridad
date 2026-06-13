@@ -28,7 +28,7 @@ La cámara más profunda. Una sala circular con un círculo de sellado grabado e
 
 Aquí está el [[Secretos/El Sello de Contención|sello de contención]]. Y más abajo, la [[Secretos/La Entidad Sellada|entidad]].
 
-La [[NPC/Abominación de carne|Abominación Guardiana]] patrulla esta zona.
+La [[NPC/Abominación de carne|Abominación]] patrulla esta zona.
 
 ## Ambiente
 

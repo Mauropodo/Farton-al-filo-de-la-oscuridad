@@ -13,7 +13,7 @@ Un sello mágico de emergencia creado por [[NPC/Marion Allen|Marion Allen]] inme
 El sello está anclado a dos elementos:
 
 1. **Los participantes del ritual original.** La vida de cada estudioso quedó ligada al sello. Mientras vivieran, el sello se mantenía. Cada muerte lo debilitó un poco más.
-2. **La [[NPC/Abominación de carne|Abominación Guardiana]].** Creada por Marion, su función es proteger el acceso al complejo y asegurar que nadie (ni nada) interfiera con el sello.
+2. **La [[NPC/Abominación de carne|Abominación]].** Creada por Marion, su función es proteger el acceso al complejo y asegurar que nadie (ni nada) interfiera con el sello.
 
 ## Estado actual
 

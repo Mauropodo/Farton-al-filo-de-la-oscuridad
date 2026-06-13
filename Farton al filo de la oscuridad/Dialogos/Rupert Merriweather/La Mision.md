@@ -26,6 +26,8 @@ Actitud: Tembloroso, roto, habla entre tos y espasmos.
 >
 > —Empuja la caja definitivamente—.
 >
+> —Lean el diario. Ahí está todo. Lo que hicimos, lo que encontramos, lo que despertamos. Yo no puedo decirlo en voz alta. —Se lleva una mano al pecho—. Cada vez que lo intento, siento que algo me escucha.
+>
 > —Se recuesta. Le cuesta respirar—.
 
 En caso de preguntar "qué es lo que hay ahí abajo": [[Dialogos/Rupert Merriweather/Entidad]]

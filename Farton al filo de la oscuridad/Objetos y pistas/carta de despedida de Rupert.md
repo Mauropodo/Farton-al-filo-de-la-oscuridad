@@ -4,7 +4,7 @@
 
 *Queridos amigos:*
 
-*Treinta años. Treinta años han pasado desde aquello, y aún me despierto temblando. No culpo a nadie más que a mí. Fui yo quien encontró los textos. Fui yo quien los llevó a Marion. Fui yo quien dijo "podemos controlarlo".*
+*Treinta años. Treinta años han pasado desde aquello, y aún me despierto temblando.  Fui yo quien dijo "podemos controlarlo".*
 
 *Qué estúpido fui.*
 
