@@ -1,3 +1,7 @@
+---
+tags:
+  - resumen
+---
 # La Colina Oscura
 
 ## Resumen
@@ -63,7 +67,7 @@ Los aventureros deberán reconstruir la verdad investigando lugares relacionados
 - [[Secretos/La Abominación Guardiana|La Abominación]]
 - [[Ubicaciones/La Torre Perdida]]
 - [[Secretos/La Muerte de Marion]]
-- [[Secretos/Las Notas de Rupert]]
+- [[Secretos/# Las Notas de Marion]]
 
 ---
 

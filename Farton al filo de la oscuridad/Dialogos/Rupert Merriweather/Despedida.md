@@ -14,11 +14,11 @@ Actitud: Caótico, aterrado, violento. La maldición lo consume en directo.
 >
 > Su cuerpo se arquea. Un espasmo lo sacude entero. Cuando abre la boca para gritar, no sale aire —solo un chorro de sangre negra que le mancha la barba y la camisa.
 >
-> —¡Lo siento! ¡Lo siento! —grita, pero no está mirando a los jugadores. Mira a las sombras. Las paredes. El techo. Como si viera algo que no está allí—. ¡No quería! ¡Fue un accidente! ¡Marion! ¡MARION!
+> —¡Lo siento! ¡Lo siento! —grita, pero no está mirando a los jugadores. Mira a las sombras. Las paredes. El techo. Como si viera algo que no está allí—. ¡No quería! ¡Fue un accidente! ¡[[NPC/Marion Allen|Marion]]! ¡MARION!
 >
 > Tose. Los coágulos salpican el suelo. Se agarra el estómago con ambas manos, como si algo intentara abrirse paso desde dentro.
 >
-> —Veo... veo la colina... está aquí... está EN MÍ...
+> —Veo... veo la [[Ubicaciones/Colina|colina]]... está aquí... está EN MÍ...
 >
 > Un gemido hondo, animal. Luego un espasmo más fuerte. Su camisa se empapa de rojo. Sangre. Y algo más. Vísceras. Fragmentos. Se deshace por dentro y lo está vomitando vivo.
 >

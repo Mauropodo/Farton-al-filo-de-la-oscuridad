@@ -14,11 +14,11 @@ Actitud: Se le desencaja la cara. Habla entre espasmos, casi sin mirarlos.
 >
 > —Se agarra los brazos. Tiembla—.
 >
-> —Todavía... todavía lo siento. Todas las noches. Me llama. Desde la tierra. Desde dentro.
+> —Todavía... todavía lo siento. Todas las noches. Me llama. Desde la tierra. Desde dentro. La [[Ubicaciones/Colina|colina]].
 >
 > —Mira al suelo, pero no ve el suelo. Ve otra cosa—.
 >
-> —La última vez que fui... —traga saliva— ... no fui. Llegué al borde del bosque. Y me quedé mirando. Durante horas. No pude dar un paso más.
+> —La última vez que fui... —traga saliva— ... no fui. Llegué al borde del [[Ubicaciones/Bosque del Ogro|bosque]]. Y me quedé mirando. Durante horas. No pude dar un paso más.
 >
 > —Levanta las manos. Le tiemblan—.
 >

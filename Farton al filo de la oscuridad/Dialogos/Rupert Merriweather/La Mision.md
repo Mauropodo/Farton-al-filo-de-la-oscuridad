@@ -14,7 +14,7 @@ Actitud: Tembloroso, roto, habla entre tos y espasmos.
 >
 > —Tose. La voz se le quiebra—.
 >
-> —Al norte. Al otro lado del bosque. Una colina. ... eso  se va a liberar cuando yo me muera, se liberará, **les pido como ultimo deseo que, devuelvan a esa cosa de donde vino.**
+> —Al norte. Al otro lado del bosque. Una [[Ubicaciones/Colina|colina]]. ... eso  se va a liberar cuando yo me muera, se liberará, **les pido como ultimo deseo que, devuelvan a esa cosa de donde vino.**
 >
 > —comienza  a llorar—.
 >
@@ -26,7 +26,7 @@ Actitud: Tembloroso, roto, habla entre tos y espasmos.
 >
 > —Empuja la caja definitivamente—.
 >
-> —Lean el diario. Ahí está todo. Lo que hicimos, lo que encontramos, lo que despertamos. Yo no puedo decirlo en voz alta. —Se lleva una mano al pecho—. Cada vez que lo intento, siento que algo me escucha.
+> —Lean el [[Objetos y pistas/diario incompleto de Rupert|diario]]. Ahí está todo. Lo que hicimos, lo que encontramos, lo que despertamos. Yo no puedo decirlo en voz alta. —Se lleva una mano al pecho—. Cada vez que lo intento, siento que algo me escucha.
 >
 > —Se recuesta. Le cuesta respirar—.
 

@@ -1,3 +1,7 @@
+---
+tags:
+  - objeto
+---
 # Llave antigua
 
 ## Descripción

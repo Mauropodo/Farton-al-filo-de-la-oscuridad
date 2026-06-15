@@ -16,6 +16,6 @@ Basado en *Al Filo de la Oscuridad* (Edge of Darkness). Cada personaje recibe el
 
 ## Escena de reunión
 
-Se reúnen por primera vez en la entrada de la cabaña de Rupert, en las afueras de Farton. No se conocen entre sí (o algunos sí, a criterio del DJ).
+Se reúnen por primera vez en la entrada de la [[Ubicaciones/Cabaña de Rupert|cabaña de Rupert]], en las afueras de [[Ubicaciones/Pueblo de Farton|Farton]]. No se conocen entre sí (o algunos sí, a criterio del DJ).
 
-La cabaña está al borde del bosque. Son las últimas horas de la tarde. La puerta está entreabierta. Se oye toser a Rupert desde dentro.
+La cabaña está al borde del bosque. Son las últimas horas de la tarde. La puerta está entreabierta. Se oye toser a [[NPC/Rupert Merriweather|Rupert]] desde dentro.

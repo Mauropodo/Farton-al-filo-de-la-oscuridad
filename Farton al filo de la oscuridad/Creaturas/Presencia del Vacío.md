@@ -47,7 +47,7 @@ cr: 6
 
 **Presencia aterradora.** Toda criatura que comience su turno a 30 ft. debe superar una salvación de SAB CD 16 o queda asustada 1 minuto. Si falla por 5+, también queda paralizada mientras dure el miedo. Quien supere la salvación es inmune 24 h.
 
-**Sello vinculante.** No puede ser dañada permanentemente mientras el sello de contención esté activo. Cualquier daño se regenera al inicio de su turno. Solo el ritual de destierro puede expulsarla.
+**Sello vinculante.** No puede ser dañada permanentemente mientras el [[Secretos/El Sello de Contención|sello de contención]] esté activo. Cualquier daño se regenera al inicio de su turno. Solo el [[Secretos/ritual de destierro|ritual de destierro]] puede expulsarla.
 
 **Susurro corruptor.** Al inicio de cada turno de la Presencia, toda criatura consciente en el complejo debe superar una salvación de SAB CD 14 o pierde 1d4 de Cordura.
 

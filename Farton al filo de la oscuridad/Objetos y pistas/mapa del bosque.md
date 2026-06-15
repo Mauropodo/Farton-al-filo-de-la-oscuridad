@@ -1,3 +1,7 @@
+---
+tags:
+  - objeto
+---
 # Mapa del bosque
 
 ## Descripción

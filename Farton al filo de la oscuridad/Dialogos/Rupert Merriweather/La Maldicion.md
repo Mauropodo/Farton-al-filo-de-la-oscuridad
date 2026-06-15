@@ -12,7 +12,7 @@ Actitud: Sereno, como quien habla de algo que ya ha aceptado.
 >
 —Se frota los dedos deformados—.
 >
-—Pero no es lo peor. Lo peor son las noches. Cuando sueño que estoy de vuelta en la colina. me está esperando. Y que esta vez no voy a despertar.
+—Pero no es lo peor. Lo peor son las noches. Cuando sueño que estoy de vuelta en la [[Ubicaciones/Colina|colina]]. me está esperando. Y que esta vez no voy a despertar.
 
 En caso de preguntar "se puede curar": [[Dialogos/Rupert Merriweather/La Maldicion]]
 En caso de preguntar "por qué no vuelves": [[Dialogos/Rupert Merriweather/Por Que No Fui]]

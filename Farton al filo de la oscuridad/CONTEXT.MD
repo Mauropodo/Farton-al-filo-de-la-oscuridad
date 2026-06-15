@@ -1,3 +1,7 @@
+---
+tags:
+  - contexto
+---
 \# CONTEXTO DE CAMPAÑA
 
 

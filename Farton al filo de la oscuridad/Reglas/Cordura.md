@@ -18,7 +18,7 @@ Reglas inspiradas en Call of Cthulhu adaptadas a D&D 2024.
 
 ## Pérdida de cordura
 
-Al encontrarse con horrores sobrenaturales (la entidad, visiones del menhir, la muerte de Rupert), el DJ solicita una tirada de salvación de Sabiduría CD variable. Si falla, pierde 1d6 de Cordura (o más, según el horror).
+Al encontrarse con horrores sobrenaturales (la [[Secretos/La Entidad Sellada|entidad]], visiones del [[Ubicaciones/Menhir|menhir]], la muerte de [[NPC/Rupert Merriweather|Rupert]]), el DJ solicita una tirada de salvación de Sabiduría CD variable. Si falla, pierde 1d6 de Cordura (o más, según el horror).
 
 ## Traumas
 
@@ -51,4 +51,4 @@ El personaje cae en locura permanente. Queda fuera de juego.
 
 ## Recuperación de cordura
 
-Completar el ritual de destierro restaura 2d10 + nivel de Cordura. Descansar en un lugar seguro sin incidentes recupera 1d4 por día.
+Completar el [[Secretos/ritual de destierro|ritual de destierro]] restaura 2d10 + nivel de Cordura. Descansar en un lugar seguro sin incidentes recupera 1d4 por día.

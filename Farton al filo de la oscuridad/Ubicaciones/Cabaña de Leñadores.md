@@ -12,9 +12,8 @@ Fue usada por el círculo de [[NPC/Marion Allen|Marion Allen]] como punto de reu
 
 ## Pistas
 
-- Bajo las tablas del suelo: una caja de madera pequeña con un frasco de cristal que contiene **polvo de plata** (componente del [[Secretos/ritual de destierro]])
 - Graffiti en la pared: un círculo con símbolos, dibujado por alguien que intentaba recordar lo que vio
-- Las notas de Rupert en un rincón polvoriento (opcional, si no se entregan con la caja)
+- Una carta a medio quemar en la chimenea, con la firma de Marion: *"Los componentes están a salvo donde empezó todo. Cuida de que nadie los encuentre antes de tiempo."*
 
 ## Estado actual
 

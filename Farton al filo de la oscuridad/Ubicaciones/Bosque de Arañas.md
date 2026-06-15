@@ -20,7 +20,7 @@ Opción B: Una araña gigante (bestia grande) si los jugadores se adentran mucho
 
 En el centro del bosque hay un árbol hueco donde las arañas han acumulado objetos brillantes. Entre ellos:
 
-- Un amuleto de plata con el símbolo de Marion (CD 14 Arcanos: reconoce el símbolo como similar a los del [[Ubicaciones/Menhir]])
+- Un amuleto de plata con el símbolo de [[NPC/Marion Allen|Marion]] (CD 14 Arcanos: reconoce el símbolo como similar a los del [[Ubicaciones/Menhir|Menhir]])
 - Un componente del ritual (a definir)
 - Restos de un explorador que no tuvo tanta suerte
 

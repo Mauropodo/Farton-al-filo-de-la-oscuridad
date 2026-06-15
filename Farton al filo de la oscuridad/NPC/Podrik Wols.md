@@ -9,13 +9,13 @@ tags:
 Tabernero de Farton. Dueño de la [[Ubicaciones/Posada|Posada]]. Fuente de rumores, cotilleos y verdades a medias.
 
 ## Edad / Estado
-Cincuentón. Barrilero, risueño, pero con ojos que han visto cosas raras. No es tonto.
+Cincuentón. Barrilero, risueño, pero con ojos que han visto cosas raras. No es tonto. Es de [[Ubicaciones/Pueblo de Farton|Farton]] de toda la vida.
 
 ## Apariencia
 
 Hombre ancho de hombros, barba canosa y grasienta, delantal manchado de cerveza y grasa. Tiene las manos grandes y la sonrisa fácil. Cojea ligeramente de la pierna izquierda —un accidente de juventud del que no da detalles.
 
-Su posada es el centro social de Farton. Lo sabe todo sobre todos porque nadie se cuida de lo que dice delante del tabernero.
+Su posada es el centro social de [[Ubicaciones/Pueblo de Farton|Farton]]. Lo sabe todo sobre todos porque nadie se cuida de lo que dice delante del tabernero.
 
 ## Personalidad
 
@@ -29,8 +29,8 @@ Su posada es el centro social de Farton. Lo sabe todo sobre todos porque nadie s
 Podrik no sabe la verdad. Nadie la sabe. Pero ha oído fragmentos durante años:
 
 - Que Rupert no siempre fue un ermitaño
-- Que hace décadas pasó algo en la colina
-- Que Marion Allen era una forastera que vino, organizó algo, y desapareció
+- Que hace décadas pasó algo en la [[Ubicaciones/Colina|colina]]
+- Que [[NPC/Marion Allen|Marion Allen]] era una forastera que vino, organizó algo, y desapareció
 - Que hay animales muertos en el bosque sin una marca
 - Que desde hace unas semanas, el bosque está más callado de lo normal
 
@@ -63,6 +63,6 @@ Si los jugadores mencionan a Rupert por su nombre o enseñan la caja, Podrik se 
 
 ## Relaciones
 
-- **Rupert:** no son amigos, pero lo respeta. Lo ve como un hombre roto.
-- **Sacerdote:** se llevan bien, pero el sacerdote le parece demasiado sombrío.
+- **[[NPC/Rupert Merriweather|Rupert]]:** no son amigos, pero lo respeta. Lo ve como un hombre roto.
+- **[[NPC/Sacerdote de Farton|Sacerdote]]:** se llevan bien, pero el sacerdote le parece demasiado sombrío.
 - **Forasteros:** desconfía por instinto, pero el negocio es el negocio.

@@ -2,7 +2,7 @@
 tags:
   - dialogo
 ---
-Situacion: Los jugadores preguntan qué es la entidad que está bajo la colina.
+Situacion: Los jugadores preguntan qué es la [[Secretos/La Entidad Sellada|entidad]] que está bajo la [[Ubicaciones/Colina|colina]].
 
 Actitud: Temeroso, habla más bajo de lo normal.
 

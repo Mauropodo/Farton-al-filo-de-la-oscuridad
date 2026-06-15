@@ -19,7 +19,19 @@ El interior de las ruinas está lleno de cascotes y escombros. Entre ellos, con 
 
 Bajo las ruinas se extienden los sótanos de la antigua torre. Las primeras salas están cubiertas de polvo y telarañas, habitadas por ratas y otras alimañas.
 
-En los cofres del sótano se encuentran los componentes que faltan del [[Secretos/ritual de destierro]]: el **símbolo de enfoque** (disco de piedra con el sello de Marion) y una daga mágica.
+### Notas de Marion (fallback)
+
+Si los jugadores no encontraron las [[Secretos/# Las Notas de Marion|notas de Marion]] antes, están aquí, apoyadas sobre el cofre principal, como si alguien las hubiera dejado a propósito.
+
+### Cofre del sótano
+
+Un cofre de hierro con el sello de Marion grabado en la tapa. Contiene los **3 componentes del [[Secretos/ritual de destierro]]**:
+
+1. **Polvo de plata** — frasco de cristal con polvo brillante
+2. **Símbolo de enfoque** — disco de piedra grabado con el sello de Marion
+3. **Esencia sellada** — frasco de cristal con residuo del sello original
+
+Además, una daga mágica con la empuñadura envuelta en cuero negro.
 
 Pero las habitaciones más cercanas al acceso desde la colina —las que comunican con el [[Ubicaciones/Complejo Subterráneo|complejo subterráneo]]— están extrañamente limpias. Sin una mota de polvo. Sin basura. Las paredes relucen hasta metro y medio de altura. No hay telarañas. No hay suciedad. Nada.
 

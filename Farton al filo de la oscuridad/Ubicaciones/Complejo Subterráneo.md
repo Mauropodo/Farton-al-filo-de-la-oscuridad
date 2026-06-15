@@ -20,7 +20,7 @@ Aquí se realizó el [[Secretos/El Ritual Original|ritual de invocación origina
 
 ### Nivel 2: Cámaras de estudio
 
-Una serie de habitaciones donde el círculo vivió e investigó. Literas polvorientas, mesas, estantes caídos, pergaminos podridos. [[Secretos/Las Notas de Rupert|Las notas de Marion]] sobre el destierro pueden estar aquí o en otro lugar.
+Una serie de habitaciones donde el círculo vivió e investigó. Literas polvorientas, mesas, estantes caídos, pergaminos podridos. [[Secretos/# Las Notas de Marion|Las notas de Marion]] sobre el destierro pueden estar aquí o en otro lugar.
 
 ### Nivel 3: El sello
 

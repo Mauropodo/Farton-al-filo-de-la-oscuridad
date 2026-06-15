@@ -2,7 +2,7 @@
 tags:
   - dialogo
 ---
-Situación: Los jugadores mencionan a Marion Allen o al grupo de investigación que estuvo en Farton.
+Situación: Los jugadores mencionan a [[NPC/Marion Allen|Marion Allen]] o al grupo de investigación que estuvo en [[Ubicaciones/Pueblo de Farton|Farton]].
 
 Actitud: Se pone serio. Habla más bajo. Se sienta.
 
@@ -10,19 +10,19 @@ Actitud: Se pone serio. Habla más bajo. Se sienta.
 >
 > —Deja el libro. Se quita las gafas. Las limpia con el paño—.
 >
-> —Marion Allen. Hace mucho que no oía ese nombre.
+> —[[NPC/Marion Allen|Marion Allen]]. Hace mucho que no oía ese nombre.
 >
 > —Pausa—.
 >
-> —Llegaron a Farton hará... treinta años, quizás más. Eran cuatro o cinco. Marion llevaba mapas, instrumentos, libros que yo nunca había visto. Decían que investigaban algo en la colina. Yo no pregunté qué. Debí haberlo hecho.
+> —Llegaron a [[Ubicaciones/Pueblo de Farton|Farton]] hará... treinta años, quizás más. Marion llevaba mapas, instrumentos, libros que yo nunca había visto. Decían que investigaban algo en la [[Ubicaciones/Colina|colina]]. Yo no pregunté qué. Debí haberlo hecho.
 >
 > —Vuelve a ponerse las gafas—.
 >
-> —Pasaron semanas aquí. A veces venían a la iglesia. Marion era callado, pero educado. Los demás parecían nerviosos. Uno de ellos, un hombre joven, temblaba cuando hablaba de la colina. Recuerdo que pensé: "Esto no es una investigación. Esto es otra cosa."
+> —Pasaron semanas aquí. A veces venían a la iglesia. [[NPC/Marion Allen|Marion]] era callado, pero educado. Los demás parecían nerviosos. Uno de ellos, un hombre joven, temblaba cuando hablaba de la [[Ubicaciones/Colina|colina]]. Recuerdo que pensé: "Esto no es una investigación. Esto es otra cosa."
 >
 > —Mira hacia la puerta—.
 >
-> —No volví a verlos. Años después llegaron noticias. Marion había muerto en las tierras del sur. Encontraron su cuerpo en las ruinas de un embarcadero, al amanecer. Alguien lo había matado en otro sitio y lo había dejado allí.
+> —No volví a verlos. Años después llegaron noticias. [[NPC/Marion Allen|Marion]] había muerto en las tierras del sur. Encontraron su cuerpo en las ruinas de un embarcadero, al amanecer. Alguien lo había matado en otro sitio y lo había dejado allí.
 >
 > —Titubea—.
 >

@@ -18,7 +18,7 @@ Actitud: Se queda en blanco. Luego se recupera, pero no del todo.
 >
 > —Se frota la mano derecha, donde tiene la cicatriz—.
 >
-> —Ese libro no está aquí. Lo he visto, sí. Hace años, entre una donación. Lo reconocí por las anotaciones de Marion. Pero no lo guardé en los estantes.
+> —Ese libro no está aquí. Lo he visto, sí. Hace años, entre una donación. Lo reconocí por las anotaciones de [[NPC/Marion Allen|Marion]]. Pero no lo guardé en los estantes.
 >
 > —Baja la voz—.
 >

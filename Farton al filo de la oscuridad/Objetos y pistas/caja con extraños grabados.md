@@ -1,3 +1,7 @@
+---
+tags:
+  - objeto
+---
 # Caja con extraños grabados
 
 ## Descripción

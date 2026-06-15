@@ -1,3 +1,7 @@
+---
+tags:
+  - objeto
+---
 # Carta de despedida de Rupert
 
 ## Texto
@@ -8,11 +12,11 @@
 
 *Qué estúpido fui.*
 
-*En los años que siguieron, intenté comprender lo que habíamos hecho. Leí, experimenté, viajé. Gasté toda mi fortuna intentando enmendar mi culpa — tratando con aberraciones, buscando respuestas. Pero nunca pude volver a la colina. Nunca fui lo bastante valiente.*
+*En los años que siguieron, intenté comprender lo que habíamos hecho. Leí, experimenté, viajé. Gasté toda mi fortuna intentando enmendar mi culpa — tratando con aberraciones, buscando respuestas. Pero nunca pude volver a la [[Ubicaciones/Colina|colina]]. Nunca fui lo bastante valiente.*
 
 *Ustedes no me deben nada. Yo les debo todo.*
 
-*Marion descubrió cómo devolverlo. Lo encontró en un libro — De Vermis Mysteriis — y en las notas que dejó antes de morir. El método está ahí, en el complejo bajo la colina, donde ella lo preparó todo. Yo nunca tuve la fuerza para completarlo. Pero ustedes... ustedes pueden.*
+*[[NPC/Marion Allen|Marion]] descubrió cómo devolverlo. Lo encontró en un libro — De Vermis Mysteriis — y en las notas que dejó antes de morir. El método está ahí, en el [[Ubicaciones/Complejo Subterráneo|complejo bajo la colina]], donde ella lo preparó todo. Yo nunca tuve la fuerza para completarlo. Pero ustedes... ustedes pueden.*
 
 *Si logran encerrarlo de nuevo, quizás eso baste para salvar lo que queda de mí. No lo merezco, pero se los pido igual.*
 

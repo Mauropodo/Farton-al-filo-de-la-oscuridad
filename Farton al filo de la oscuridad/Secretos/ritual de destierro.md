@@ -6,7 +6,7 @@ tags:
 
 ## Origen
 
-Descubierto por [[NPC/Marion Allen|Marion Allen]] después del desastre de la invocación. Lo encontró en textos antiguos mientras investigaba cómo deshacer lo que habían hecho. Murió antes de poder ejecutarlo. El ritual quedó en sus [[Secretos/Las Notas de Rupert|notas]].
+Descubierto por [[NPC/Marion Allen|Marion Allen]] después del desastre de la invocación. Lo encontró en textos antiguos mientras investigaba cómo deshacer lo que habían hecho. Murió antes de poder ejecutarlo. El ritual quedó en sus[[Secretos/# Las Notas de Marion|notas]]].
 
 ## Propósito
 
@@ -14,11 +14,11 @@ El ritual de destierro no destruye a la [[Secretos/La Entidad Sellada|entidad]].
 
 ## Componentes
 
-Los tres componentes están en la torre. En los cofres del sótano.
+Los tres componentes están en un cofre en el sótano de las [[Ubicaciones/La Torre Perdida|ruinas de la torre]] (en la colina).
 
-1. **Polvo de plata** (ya encontrado en la [[Ubicaciones/Cabaña de Leñadores]])
-2. **Símbolo de enfoque** — un disco de piedra grabado con el sello de Marion. Está en el cofre del sótano de la torre, junto a la daga mágica.
-3. **Esencia sellada** — un frasco de cristal con residuo del sello original. Está en el nivel 3 del [[Ubicaciones/Complejo Subterráneo]], cerca de la cámara del sello.
+1. **Polvo de plata** — frasco de cristal con polvo brillante
+2. **Símbolo de enfoque** — disco de piedra grabado con el sello de Marion
+3. **Esencia sellada** — frasco de cristal con residuo del sello original
 
 ## Funcionamiento
 

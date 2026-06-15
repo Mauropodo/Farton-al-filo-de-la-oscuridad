@@ -2,7 +2,7 @@
 tags:
   - dialogo
 ---
-Situación: Los jugadores mencionan a Rupert, la colina, Marion, o algo que suena a problemas.
+Situación: Los jugadores mencionan a [[NPC/Rupert Merriweather|Rupert]], la [[Ubicaciones/Colina|colina]], [[NPC/Marion Allen|Marion]], o algo que suena a problemas.
 
 Actitud: Se le borra la sonrisa. Habla más bajo. Mira alrededor antes de responder.
 
