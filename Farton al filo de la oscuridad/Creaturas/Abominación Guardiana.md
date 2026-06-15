@@ -64,3 +64,7 @@ Masa de carne cosida de varios cuerpos (humanos y animales). Brazos de distinto 
 ## Reacciones
 
 **Interposición.** Cuando una criatura que la Abominación puede ver ataca a otro objetivo, puede moverse hasta 15 ft. hacia el atacante. Si termina a 5 ft. de él, se convierte en el nuevo objetivo del ataque.
+
+## Encuentro asociado
+
+[[Combates/La Abominación]] — combate evitable en el nivel 3 del complejo.

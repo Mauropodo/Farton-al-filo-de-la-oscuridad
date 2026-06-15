@@ -152,6 +152,6 @@ Cada vez que ocurre **una** de estas situaciones, el personaje debe tirar **Salv
 
 Sílvido habla poco. Escucha mucho. Ha visto el bosque enfermar y sabe que hay algo mal, pero no tiene palabras para nombrarlo. No confía en la civilización — confía en los árboles y en los rastros. Rupert le resulta incómodo: demasiado sabio, demasiado roto. Pero cuando el bosque te pide ayuda, no la ignoras.
 
-Enlace a [[NPC/Rupert Merriweather|Rupert]] y [[Ubicaciones/Bosque del Ogro|el bosque]].
+Enlace a [[NPC/Rupert Merriweather|Rupert]] y [[Bosque|el bosque]].
 
 ## Notas de sesión

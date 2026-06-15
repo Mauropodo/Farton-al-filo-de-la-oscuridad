@@ -25,8 +25,23 @@ Los tres componentes están en un cofre en el sótano de las [[Ubicaciones/La To
 Requiere:
 1. **Los tres componentes** reunidos
 2. **Un círculo de sellado** dibujado en el suelo del complejo subterráneo (aún existe del intento de Marion, aunque está dañado)
-3. **Un ejecutor del ritual** (un personaje con competencia en Arcanos o a quien el DJ considere apto)
+3. **Tres roles** asignados entre los jugadores (un personaje puede asumir máximo dos roles si faltan manos)
 4. **Protección** durante el ritual —la entidad intentará impedirlo
+
+### Roles del ritual
+
+| Rol | Acción | Costo por ronda |
+|---|---|---|
+| **Cantante** | Lee el cantar en latín al revés. Acción completa. | 1d3 PG o 1 espacio de conjuro nivel 1+ |
+| **Oferente** | Arroja polvo de plata al fuego para mantener el círculo. Acción completa. | — |
+| **Trazador** | Dibuja y mantiene el símbolo de enfoque en el suelo. Acción completa. | — |
+| **Defensores** | Protegen a los tres del ataque de la entidad y otras amenazas. | — |
+
+### Costo del ritual (Sacrificio)
+
+Cada ronda, el **cantante** debe sacrificar 1d3 PG o un espacio de conjuro de nivel 1+ para alimentar el sello. Si el cantante no puede pagar, el ritual se interrumpe (ver Fracaso).
+
+### Desarrollo
 
 Durante la ejecución, la entidad se manifestará:
 - Sombras que se mueven

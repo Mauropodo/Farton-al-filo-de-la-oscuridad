@@ -16,11 +16,11 @@ cr: 1
 
 ## Estadísticas
 
-| Atributo | Valor |
-| --- | --- |
-| **CA** | 13 |
-| **PG** | 22 (4d8+4) |
-| **Velocidad** | 50 ft. |
+| Atributo      | Valor      |
+| ------------- | ---------- |
+| **CA**        | 13         |
+| **PG**        | 22 (4d8+4) |
+| **Velocidad** | 50 ft.     |
 
 ## Características
 
@@ -50,3 +50,7 @@ cr: 1
 **Mordisco.** *Ataque cuerpo a cuerpo:* +4 a impactar, alcance 5 ft., un objetivo. *Impacto:* 9 (2d6+2) de daño perforante. Si el objetivo es Mediano o más pequeño, debe superar una salvación de FUE CD 12 o queda derribado.
 
 **Aullido corrupto (1/día).** El lobo suelta un aullido deformado. Todas las criaturas en un radio de 60 ft. deben superar una salvación de SAB CD 10 o quedan asustadas durante 1 minuto. Pueden repetir la salvación al final de cada turno.
+
+## Encuentro asociado
+
+[[Combates/Lobos Corruptos]] — combate obligatorio en el bosque.

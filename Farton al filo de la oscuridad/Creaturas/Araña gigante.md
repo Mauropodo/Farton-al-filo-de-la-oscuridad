@@ -50,3 +50,7 @@ cr: 1
 **Mordisco.** *Ataque cuerpo a cuerpo:* +5 a impactar, alcance 5 ft., una criatura. *Impacto:* 7 (1d8+3) de daño perforante más 7 (2d6) de daño por veneno. El objetivo debe superar una salvación de CON CD 11 o queda envenenado durante 1 minuto.
 
 **Telaraña (recarga 5-6).** *Ataque a distancia:* +5 a impactar, alcance 30/60 ft., una criatura Grande o más pequeña. *Impacto:* el objetivo queda apresado. Como acción, puede hacer una prueba de FUE CD 12 para liberarse. La telaraña se puede atacar (CA 10, 10 PG, vulnerable al fuego).
+
+## Encuentro asociado
+
+[[Combates/Arañas Gigantes]] — combate opcional en el bosque de arañas.

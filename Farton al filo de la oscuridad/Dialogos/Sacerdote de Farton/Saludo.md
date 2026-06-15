@@ -20,3 +20,5 @@ En caso de preguntar por el grupo de investigación / Marion: [[Dialogos/Sacerdo
 En caso de preguntar sobre Rupert: [[Dialogos/Sacerdote de Farton/Mencionar a Marion]]
 En caso de buscar un libro en la iglesia: [[Dialogos/Sacerdote de Farton/Libros donados]]
 En caso de mencionar "De Vermis Mysteriis" por su nombre: [[Dialogos/Sacerdote de Farton/De Vermis Mysteriis]]
+En caso de despedirse cordialmente: [[Dialogos/Sacerdote de Farton/Despedida]]
+En caso de insistir o presionar: [[Dialogos/Sacerdote de Farton/Se Retira]]

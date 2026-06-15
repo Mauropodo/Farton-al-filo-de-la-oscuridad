@@ -66,3 +66,7 @@ cr: 6
 **Golpe de vacío.** Realiza un ataque de Toque de vacío.
 
 **Pesadilla (2 acciones).** Elige una criatura a 60 ft. Debe superar una salvación de SAB CD 16 o recibe 11 (2d10) de daño psíquico y pierde 1d6 de Cordura.
+
+## Encuentro asociado
+
+[[Combates/El Ritual Final]] — combate de jefe final durante el ritual de destierro.

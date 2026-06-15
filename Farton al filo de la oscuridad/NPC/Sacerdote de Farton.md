@@ -9,7 +9,7 @@ tags:
 Sacerdote de la [[Ubicaciones/Iglesia|iglesia de Farton]]. Hombre mayor, erudito, con miedo a lo que sabe.
 
 ## Nombre
-Hermano Mathias. Nadie recuerda su apellido.
+Hermano Mathias Valverde. Nadie recuerda su apellido — ni siquiera él parece usarlo ya.
 
 ## Edad / Estado
 Setentón. Delgado, voz suave, manos temblorosas. Pasa los días ordenando libros que nadie lee.

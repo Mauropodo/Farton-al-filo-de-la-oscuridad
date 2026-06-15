@@ -48,3 +48,7 @@ cr: 1/4
 ## Acciones
 
 **Mordisco.** *Ataque cuerpo a cuerpo:* +3 a impactar, alcance 5 ft., un objetivo. *Impacto:* 4 (1d4+1) de daño perforante más 2 (1d4) de daño necrótico.
+
+## Encuentro asociado
+
+[[Combates/Ratas en el Complejo]] — combate opcional en el complejo subterráneo.

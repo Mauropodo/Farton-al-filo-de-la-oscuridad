@@ -5,7 +5,7 @@ tags:
 
 ## Descripción general
 
-Un villorrio pesquero y agrícola enclavado entre el bosque espeso y un lago de aguas grises. No más de doscientas almas viven en casas de piedra y madera dispuestas en torno a una plaza central empedrada. El lago, la fuente principal de sustento, ha estado dando menos peces en los últimos meses. Los campos al este del pueblo rinden cosechas mustias. Nadie habla de ello en voz alta, pero todos lo notan.
+Un villorrio pesquero y agrícola asentado sobre una pequeña isla en el lago de aguas grises, conectada a la ribera por un puente de madera vieja. No más de doscientas almas viven en casas de piedra y madera dispuestas en torno a una plaza central empedrada. El lago, la fuente principal de sustento, ha estado dando menos peces en los últimos meses. Los campos al este del pueblo rinden cosechas mustias. Nadie habla de ello en voz alta, pero todos lo notan.
 
 El pueblo huele a leña húmeda, a lago, a tierra recién cavada. Los aldeanos son gente práctica, desconfiada de forasteros y supersticiosa hasta los huesos. Saben que el bosque al norte guarda cosas que es mejor no remover.
 
@@ -28,6 +28,7 @@ Lugar cerrado, lluvioso, de calles de tierra que se vuelven barro con facilidad.
 
 ## Conexiones
 
+- Se llega al pueblo cruzando un puente de madera desde la ribera del lago (ver [[Sucesos/Cruzar el Río]])
 - El bosque al norte lleva a la Colina (a 45-60 min a pie)
 - El camino este conecta con la siguiente población, a dos días de viaje
 - El lago al sur no tiene otro pueblo en sus orillas

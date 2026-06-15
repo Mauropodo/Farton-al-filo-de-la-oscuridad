@@ -18,7 +18,7 @@ Actitud: Se le desencaja la cara. Habla entre espasmos, casi sin mirarlos.
 >
 > —Mira al suelo, pero no ve el suelo. Ve otra cosa—.
 >
-> —La última vez que fui... —traga saliva— ... no fui. Llegué al borde del [[Ubicaciones/Bosque del Ogro|bosque]]. Y me quedé mirando. Durante horas. No pude dar un paso más.
+> —La última vez que fui... —traga saliva— ... no fui. Llegué al borde del [[Bosque|bosque]]. Y me quedé mirando. Durante horas. No pude dar un paso más.
 >
 > —Levanta las manos. Le tiemblan—.
 >

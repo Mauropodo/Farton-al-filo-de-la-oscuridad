@@ -27,7 +27,7 @@ Si los jugadores no encuentran las notas en las ubicaciones anteriores, están a
 
 ## Contenido (texto entregable a los jugadores)
 
-Ver [[Objetos y pistas/notas de Marion]] — ese archivo contiene el texto exacto que los jugadores reciben al encontrar las notas.
+Ver [[Notas de Marion]] — ese archivo contiene el texto exacto que los jugadores reciben al encontrar las notas.
 
 ## Qué incluyen (resumen para el DJ)
 

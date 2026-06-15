@@ -2,8 +2,7 @@
 tags:
   - ubicacion
 ---
-# Bosque del Ogro
-
+# Bosque 
 ## Descripción
 
 Bosque espeso al norte de Farton. Árboles retorcidos, poca luz, niebla baja que se acumula entre los troncos. Zona de caza de lobos y arañas.
