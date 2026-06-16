@@ -20,6 +20,12 @@ Fue [[NPC/Marion Allen|Marion Allen]] quien la ocultó, usando magia para que la
 
 Sobre la colina, los restos de una antigua torre yacen enterrados bajo tierra y maleza. No se ven desde la distancia. Solo alguien que suba a la cima y cave notará fragmentos de mampostería entre la hierba.
 
+## Cadáveres en la ladera
+
+Dispersos entre los arbustos de la ladera sur hay restos de animales. La mayoría son huesos viejos y astillados, pero dos cuerpos de lobo están relativamente intactos — piel tersa sobre el esqueleto, sin descomposición visible, como si hubieran muerto recientemente pero sin hedor. Sus pechos están hundidos; si se les abre, no tienen corazón.
+
+Si la [[Creaturas/Presencia del Vacío]] los anima durante el ritual, se levantan como [[Creaturas/Lobo corrupto|Lobos corruptos]] (1 PM cada uno).
+
 ## Ambiente
 
 - El aire es más frío que en el bosque

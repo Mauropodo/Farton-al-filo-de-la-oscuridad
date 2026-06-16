@@ -23,8 +23,8 @@ Posibles visiones (el DJ elige o las reparte entre los personajes):
 
 - Marion de pie junto al menhir, mirando hacia la colina. Se vuelve y dice algo, pero el viento se lleva sus palabras.
 - El momento de la invocación: figuras encapuchadas alrededor de un círculo, una luz que se abre bajo tierra, el pánico cuando algo sale.
-- Marion creando a la [[NPC/Abominación de carne|Abominación]]: carne que se ensambla sola, huesos que crujen.
-- Marion muriendo en su estudio: la pluma cae de su mano, su mirada se vacía.
+- Marion creando a la [[Creaturas/Abominación Guardiana|Abominación]]: carne que se ensambla sola, huesos que crujen.
+- Marion cayendo del cielo, ya muerto, los ojos abiertos, sin marcas visibles.
 - El círculo huyendo de la colina, aterrados. Rupert es el último en salir. Mira atrás. Algo lo mira desde las ventanas de la torre.
 
 Ninguna visión muestra toda la verdad. Todas dejan preguntas.

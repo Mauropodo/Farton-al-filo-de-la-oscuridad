@@ -35,7 +35,7 @@ Ver [[Notas de Marion]] — ese archivo contiene el texto exacto que los jugador
 - **El canto en latín.** Adaptado de De Vermis Mysteriis. Para el destierro debe leerse en reverso.
 - **Lista de componentes.** Tres elementos necesarios, todos guardados en un cofre en la torre.
 - **Una nota sobre la torre.** Marion menciona que los componentes están "donde empezó todo" — en la torre de la colina. No da la ubicación exacta; los jugadores deben deducirla.
-- **Advertencias.** Anotaciones como *"No fallar"*, *"Una sola oportunidad"*, *"Si alguien muere durante el ritual, la entidad se libera inmediatamente"*.
+- **Advertencias.** Anotaciones como *"No fallar"*, *"Una sola oportunidad"*, *"El canto no debe detenerse. El fuego no debe apagarse. El pentágrama no debe romperse. Si alguno de los tres falla, la entidad se libera"*.
 
 ## Uso en juego
 

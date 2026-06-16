@@ -21,7 +21,7 @@ Bajo las ruinas se extienden los sótanos de la antigua torre. Las primeras sala
 
 ### Notas de Marion (fallback)
 
-Si los jugadores no encontraron las [[Secretos/# Las Notas de Marion|notas de Marion]] antes, están aquí, apoyadas sobre el cofre principal, como si alguien las hubiera dejado a propósito.
+Si los jugadores no encontraron las [[Secretos/Las Notas de Marion|notas de Marion]] antes, están aquí, apoyadas sobre el cofre principal, como si alguien las hubiera dejado a propósito.
 
 ### Cofre del sótano
 

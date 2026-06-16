@@ -6,7 +6,7 @@ tags:
 
 ## Qué se sabe
 
-[[NPC/Marion Allen|Marion Allen]] murió presuntamente asesinado en las tierras del sur. Su cuerpo apareció en las ruinas de un embarcadero al amanecer. Alguien lo había matado en otro sitio y lo había dejado allí.
+[[NPC/Marion Allen|Marion Allen]] viajó a las tierras del sur. Poco después, su cuerpo apareció en el embarcadero del pueblo al amanecer. Alguien lo había matado en otro sitio y lo había traído de vuelta.
 
 Nunca encontraron al culpable.
 
@@ -27,5 +27,5 @@ Las notas del ritual de destierro desaparecieron de su escritorio esa noche. Tie
 ## Pistas para los jugadores
 
 - Las notas de Rupert mencionan que Marion "parecía haber visto algo justo antes de morir"
-- El cuerpo apareció en las ruinas del puerto, no en un distrito de almacenes
+- El cuerpo apareció en el embarcadero del pueblo, como si alguien lo hubiera dejado allí a propósito
 - [[Ubicaciones/Menhir|El menhir]] puede mostrar una visión de esa noche

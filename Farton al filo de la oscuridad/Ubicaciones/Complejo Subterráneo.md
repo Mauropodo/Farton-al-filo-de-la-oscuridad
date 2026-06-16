@@ -18,9 +18,13 @@ Restos del nivel inferior de la torre. El techo se derrumbó en parte; la luz de
 
 Aquí se realizó el [[Secretos/El Ritual Original|ritual de invocación original]]. Todavía se ven restos del círculo marcado en el suelo, manchas de cera negra y un olor extraño que el tiempo no ha borrado.
 
+**Cadáveres de lobos.** Entre los escombros yacen los esqueletos de tres lobos grandes, sus costillas rotas y sus cráneos aplastados. Murieron cuando el techo se derrumbó. Si la [[Creaturas/Presencia del Vacío]] los anima durante el ritual, se levantan como [[Creaturas/Lobo corrupto|Lobos corruptos]].
+
 ### Nivel 2: Cámaras de estudio
 
-Una serie de habitaciones donde el círculo vivió e investigó. Literas polvorientas, mesas, estantes caídos, pergaminos podridos. [[Secretos/# Las Notas de Marion|Las notas de Marion]] sobre el destierro pueden estar aquí o en otro lugar.
+Una serie de habitaciones donde el círculo vivió e investigó. Literas polvorientas, mesas, estantes caídos, pergaminos podridos. [[Secretos/Las Notas de Marion|Las notas de Marion]] sobre el destierro pueden estar aquí o en otro lugar.
+
+**El cadáver de Maggie.** En una de las habitaciones, junto a una litera volcada, yace el cuerpo momificado de una mujer. Su ropa —un vestido de viaje oscuro, un chal raído— sugiere que no era del círculo original. El pecho tiene un agujero limpio donde debería estar el corazón. Una investigación más cuidadosa revela una pequeña medalla de latón con una inscripción: *«Maggie — que la luz te guíe de vuelta a casa»*. ([[NPC/Maggie McPhirter]])
 
 ### Nivel 3: El sello
 
@@ -28,7 +32,7 @@ La cámara más profunda. Una sala circular con un círculo de sellado grabado e
 
 Aquí está el [[Secretos/El Sello de Contención|sello de contención]]. Y más abajo, la [[Secretos/La Entidad Sellada|entidad]].
 
-La [[NPC/Abominación de carne|Abominación]] patrulla esta zona.
+La [[Creaturas/Abominación Guardiana|Abominación]] patrulla esta zona.
 
 ## Ambiente
 

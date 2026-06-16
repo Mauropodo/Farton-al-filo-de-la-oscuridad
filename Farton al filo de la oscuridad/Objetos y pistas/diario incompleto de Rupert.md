@@ -72,4 +72,4 @@ Parece escrito por alguien que ya no confiaba en lo que veía.
 - Los jugadores pueden leerlo durante un descanso (10-15 minutos en juego)
 - CD 15 Investigación: notar que faltan páginas clave, arrancadas con violencia
 - El diario da contexto y atmósfera, pero no revela la verdad completa — solo la versión de [[NPC/Rupert Merriweather|Rupert]]
-- **Pista sobre las notas de Marion.** CD 12 Sabiduría al leerlo: [[NPC/Rupert Merriweather|Rupert]] menciona que [[NPC/Marion Allen|Marion]] "estaba copiando algo importante" antes de morir y que "quizás esas notas siguen ahí fuera, esperando a alguien con suficiente valor para usarlas". Esto debería llevar a los jugadores a buscar las notas (ver [[Secretos/# Las Notas de Marion]]).
+- **Pista sobre las notas de Marion.** CD 12 Sabiduría al leerlo: [[NPC/Rupert Merriweather|Rupert]] menciona que [[NPC/Marion Allen|Marion]] "estaba copiando algo importante" antes de morir y que "quizás esas notas siguen ahí fuera, esperando a alguien con suficiente valor para usarlas". Esto debería llevar a los jugadores a buscar las notas (ver [[Secretos/Las Notas de Marion]]).

@@ -12,7 +12,7 @@ Décadas atrás, Rupert formó parte de un círculo de estudiosos liderado por [
 
 Intentaron contactarla mediante un ritual de invocación. La liberaron accidentalmente.
 
-Marion logró un sello de contención de emergencia, anclado a la vida del grupo, y creó una [[NPC/Abominación de carne|Abominación]] como guardiana. Ocultó el acceso al complejo subterráneo bajo una torre en la colina al norte del [[Pueblo de Farton]].
+Marion logró un sello de contención de emergencia, anclado a la vida del grupo, y creó una [[Creaturas/Abominación Guardiana|Abominación]] como guardiana. Ocultó el acceso al complejo subterráneo bajo una torre en la colina al norte del [[Pueblo de Farton]].
 
 La entidad los marcó a todos. Una maldición lenta que los consumió. Marion investigó y descubrió el ritual de destierro, pero murió en extrañas circunstancias antes de ejecutarlo. El ritual quedó en sus notas.
 
@@ -26,7 +26,7 @@ Los personajes creen inicialmente que deben encontrar y eliminar una bestia que 
 
 La realidad es muy distinta.
 
-La supuesta bestia resulta ser una [[NPC/Abominación de carne|Abominación]] creada por Marion para proteger el sello y mantener alejados a los curiosos.
+La supuesta bestia resulta ser una [[Creaturas/Abominación Guardiana|Abominación]] creada por Marion para proteger el sello y mantener alejados a los curiosos.
 
 El verdadero horror permanece encerrado bajo la colina.
 
@@ -41,7 +41,7 @@ Los aventureros deberán reconstruir la verdad investigando lugares relacionados
 - [[Marion Allen]]
 - [[Podrik Wols]]
 - [[Sacerdote de Farton]]
-- [[NPC/Abominación de carne|Abominación]]
+- [[Creaturas/Abominación Guardiana|Abominación]]
 
 ---
 
@@ -67,7 +67,7 @@ Los aventureros deberán reconstruir la verdad investigando lugares relacionados
 - [[Secretos/La Abominación Guardiana|La Abominación]]
 - [[Ubicaciones/La Torre Perdida]]
 - [[Secretos/La Muerte de Marion]]
-- [[Secretos/# Las Notas de Marion]]
+- [[Secretos/Las Notas de Marion]]
 
 ---
 

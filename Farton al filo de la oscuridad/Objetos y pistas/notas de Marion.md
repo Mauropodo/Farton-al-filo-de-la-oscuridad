@@ -50,6 +50,6 @@ Un vigía debe permanecer fuera del círculo, atento a las distracciones y espí
 
 ## Advertencia final
 
-*No fallar. Una sola oportunidad. Si alguien muere durante el ritual, la [[Secretos/La Entidad Sellada|entidad]] se libera inmediatamente.*
+*No fallar. Una sola oportunidad. El canto no debe detenerse. El fuego no debe apagarse. El pentágrama no debe romperse. Si alguno de los tres falla, la [[Secretos/La Entidad Sellada|entidad]] se libera.*
 
 *— [[NPC/Marion Allen|M. Allen]]*

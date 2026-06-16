@@ -11,29 +11,15 @@
 			"y":-880,
 			"width":400,
 			"height":400,
-			"color":"#b80062"
+			"color":"#b500c2"
 		},
 		{"id":"c9cb1b85baabe970","type":"file","file":"Ubicaciones/Pueblo de Farton.md","x":-1040,"y":-880,"width":400,"height":400,"color":"#262e9b"},
 		{"id":"1994fc35d3f72c31","type":"file","file":"Ubicaciones/Cabaña de Rupert.md","x":-440,"y":-880,"width":400,"height":400,"color":"#262e9b"},
 		{"id":"c73e377f86655b5e","type":"file","file":"NPC/Rupert Merriweather.md","x":-440,"y":-200,"width":400,"height":400,"color":"#ffffff"},
-		{"id":"33feac26f0d60860","type":"file","file":"Dialogos/Rupert Merriweather/Bienvenida.md","x":-440,"y":320,"width":400,"height":400,"color":"4"},
-		{"id":"13a0990ecfd2052b","type":"file","file":"Dialogos/Rupert Merriweather/La Mision.md","x":-1060,"y":800,"width":400,"height":400,"color":"4"},
-		{"id":"ac9e6c8697819ded","type":"file","file":"Dialogos/Rupert Merriweather/Quien Eres.md","x":-40,"y":800,"width":400,"height":400,"color":"4"},
-		{"id":"e335d76198cfa5d8","type":"file","file":"Objetos y pistas/caja con extraños grabados.md","x":-1720,"y":800,"width":400,"height":400,"color":"3"},
-		{"id":"9fc46a6a545c26fe","type":"file","file":"Dialogos/Rupert Merriweather/Entidad.md","x":-960,"y":1520,"width":400,"height":400,"color":"4"},
-		{"id":"bfad85d09abf4787","type":"file","file":"Dialogos/Rupert Merriweather/La Recompensa.md","x":-500,"y":1520,"width":400,"height":400,"color":"4"},
-		{"id":"fd0bee31d4a4a71e","type":"file","file":"Dialogos/Rupert Merriweather/Por Que No Fui.md","x":0,"y":1520,"width":400,"height":400,"color":"4"},
-		{"id":"6011bbdb51c7f318","type":"file","file":"Dialogos/Rupert Merriweather/La Maldicion.md","x":520,"y":1520,"width":400,"height":400,"color":"4"},
-		{"id":"a0073126df924b10","type":"file","file":"Dialogos/Rupert Merriweather/Respuesta Hostil.md","x":-100,"y":2200,"width":400,"height":400,"color":"4"},
-		{"id":"bdb7265c598d8a24","type":"file","file":"Dialogos/Rupert Merriweather/Despedida.md","x":400,"y":2200,"width":400,"height":400,"color":"4"},
-		{"id":"26f4f6a88070da25","type":"file","file":"Objetos y pistas/llave antigua.md","x":-1560,"y":1720,"width":400,"height":400,"color":"3"},
-		{"id":"61af68efdd81b5d2","type":"file","file":"Objetos y pistas/mapa del bosque.md","x":-2880,"y":1720,"width":400,"height":400,"color":"3"},
-		{"id":"c30a8476c42b3dc3","type":"file","file":"Objetos y pistas/carta de despedida de Rupert.md","x":-2440,"y":1720,"width":400,"height":400,"color":"3"},
-		{"id":"c4876800f8be8aa2","type":"file","file":"Objetos y pistas/diario incompleto de Rupert.md","x":-2000,"y":1720,"width":400,"height":400,"color":"3"},
 		{"id":"cf62d44cb0fb6330","type":"file","file":"Ubicaciones/Iglesia.md","x":520,"y":-1200,"width":400,"height":400,"color":"#262e9b"},
 		{"id":"aa834a3e39ff694c","type":"file","file":"Ubicaciones/Posada.md","x":520,"y":-560,"width":400,"height":400,"color":"#262e9b"},
 		{"id":"9ced32a3d5d5881b","type":"file","file":"Ubicaciones/Bosque.md","x":1160,"y":-1200,"width":400,"height":1040,"color":"#262e9b"},
-		{"id":"6a8df4570099c6e3","type":"file","file":"NPC/Podrik Wols.md","x":520,"y":120,"width":400,"height":400},
+		{"id":"6a8df4570099c6e3","type":"file","file":"NPC/Podrik Wols.md","x":520,"y":120,"width":400,"height":400,"color":"#ffffff"},
 		{"id":"7bae5d4e51be0bd3","type":"file","file":"NPC/Sacerdote de Farton.md","x":520,"y":-1840,"width":400,"height":400,"color":"#ffffff"},
 		{"id":"9193b5838b6fee72","type":"file","file":"Dialogos/Sacerdote de Farton/Saludo.md","x":520,"y":-2360,"width":400,"height":400,"color":"4"},
 		{"id":"d6e10e09a4f615e8","type":"file","file":"Dialogos/Sacerdote de Farton/Mencionar a Marion.md","x":960,"y":-2920,"width":400,"height":400,"color":"4"},
@@ -48,14 +34,42 @@
 		{"id":"7775971bd5ade598","type":"file","file":"Ubicaciones/Bosque de Arañas.md","x":2920,"y":-1200,"width":400,"height":400,"color":"#262e9b"},
 		{"id":"ba3916a0f80209db","type":"file","file":"Objetos y pistas/Notas de Marion.md","x":1880,"y":-2520,"width":2320,"height":400,"color":"3"},
 		{"id":"7fb394849758e823","type":"file","file":"Ubicaciones/Colina.md","x":4200,"y":-920,"width":400,"height":400,"color":"#262e9b"},
-		{"id":"90b170418a9c2b82","type":"file","file":"Combates/Arañas Gigantes.md","x":3520,"y":-1200,"width":400,"height":400,"color":"1"},
-		{"id":"d82719ffdfedda6f","type":"file","file":"Combates/La Abominación.md","x":4680,"y":-920,"width":400,"height":400,"color":"1"},
+		{"id":"90b170418a9c2b82","type":"file","file":"Combates/Arañas Gigantes.md","x":3520,"y":-1200,"width":400,"height":400,"color":"2"},
+		{"id":"d82719ffdfedda6f","type":"file","file":"Combates/La Abominación.md","x":4680,"y":-920,"width":400,"height":400,"color":"2"},
 		{"id":"31874d38da0b6279","type":"file","file":"Ubicaciones/La Torre Perdida.md","x":5160,"y":-920,"width":400,"height":400,"color":"#262e9b"},
 		{"id":"1910e5e041dfbf83","type":"file","file":"Ubicaciones/Complejo Subterráneo.md","x":5640,"y":-920,"width":400,"height":400,"color":"#262e9b"},
 		{"id":"b45fef387b45c227","type":"file","file":"Combates/El Ritual Final.md","x":6200,"y":-920,"width":400,"height":400,"color":"1"},
 		{"id":"9ce4c82705b1de23","type":"file","file":"Ubicaciones/Menhir.md","x":2920,"y":-160,"width":400,"height":400,"color":"#262e9b"},
 		{"id":"ddc7d9c4664da10b","type":"file","file":"Ubicaciones/Embarcadero.md","x":2320,"y":-160,"width":400,"height":400,"color":"#262e9b"},
-		{"id":"f3000db29d8d03b2","type":"file","file":"Sucesos/Cruzar el Río.md","x":2320,"y":-680,"width":1600,"height":400,"color":"#b80062"}
+		{"id":"f3000db29d8d03b2","type":"file","file":"Sucesos/Cruzar el Río.md","x":2320,"y":-680,"width":1600,"height":400,"color":"#b500c2"},
+		{"id":"17f32d238940d633","type":"file","file":"Creaturas/Presencia del Vacío.md","x":6200,"y":-320,"width":400,"height":400,"color":"2"},
+		{"id":"8967427cebcc419b","type":"file","file":"NPC/Maggie McPhirter.md","x":5640,"y":-320,"width":400,"height":400,"color":"#ffffff"},
+		{"id":"fd0bee31d4a4a71e","type":"file","file":"Dialogos/Rupert Merriweather/Por Que No Fui.md","x":-500,"y":1520,"width":400,"height":400,"color":"4"},
+		{"id":"6011bbdb51c7f318","type":"file","file":"Dialogos/Rupert Merriweather/La Maldicion.md","x":20,"y":1520,"width":400,"height":400,"color":"4"},
+		{"id":"a0073126df924b10","type":"file","file":"Dialogos/Rupert Merriweather/Respuesta Hostil.md","x":-600,"y":2200,"width":400,"height":400,"color":"4"},
+		{"id":"bdb7265c598d8a24","type":"file","file":"Dialogos/Rupert Merriweather/Despedida.md","x":-100,"y":2200,"width":400,"height":580,"color":"4"},
+		{"id":"ac9e6c8697819ded","type":"file","file":"Dialogos/Rupert Merriweather/Quien Eres.md","x":-540,"y":800,"width":400,"height":400,"color":"4"},
+		{"id":"e335d76198cfa5d8","type":"file","file":"Objetos y pistas/caja con extraños grabados.md","x":-2220,"y":800,"width":400,"height":400,"color":"3"},
+		{"id":"26f4f6a88070da25","type":"file","file":"Objetos y pistas/llave antigua.md","x":-2060,"y":1720,"width":400,"height":400,"color":"3"},
+		{"id":"13a0990ecfd2052b","type":"file","file":"Dialogos/Rupert Merriweather/La Mision.md","x":-1560,"y":800,"width":400,"height":400,"color":"4"},
+		{"id":"9fc46a6a545c26fe","type":"file","file":"Dialogos/Rupert Merriweather/Entidad.md","x":-1460,"y":1520,"width":400,"height":400,"color":"4"},
+		{"id":"bfad85d09abf4787","type":"file","file":"Dialogos/Rupert Merriweather/La Recompensa.md","x":-1000,"y":1520,"width":400,"height":400,"color":"4"},
+		{"id":"61af68efdd81b5d2","type":"file","file":"Objetos y pistas/mapa del bosque.md","x":-3380,"y":1720,"width":400,"height":400,"color":"3"},
+		{"id":"c30a8476c42b3dc3","type":"file","file":"Objetos y pistas/carta de despedida de Rupert.md","x":-2940,"y":1720,"width":400,"height":400,"color":"3"},
+		{"id":"c4876800f8be8aa2","type":"file","file":"Objetos y pistas/diario incompleto de Rupert.md","x":-2500,"y":1720,"width":400,"height":400,"color":"3"},
+		{"id":"33feac26f0d60860","type":"file","file":"Dialogos/Rupert Merriweather/Bienvenida.md","x":-940,"y":320,"width":400,"height":400,"color":"4"},
+		{"id":"60a7d7e61f909b45","type":"file","file":"Sucesos/Derrota - El Ritual Fue Interrumpido.md","x":5260,"y":1380,"width":400,"height":400,"color":"#b500c2"},
+		{"id":"db5d82f4a893d364","type":"file","file":"Sucesos/Derrota Total - La Entidad Queda Libre.md","x":5920,"y":1680,"width":400,"height":400,"color":"#b500c2"},
+		{"id":"bfc7aa35616c2ee1","type":"file","file":"Sucesos/Sucesos del Ritual.md","x":5000,"y":2300,"width":400,"height":400,"color":"#b500c2"},
+		{"id":"b28e28d0d4445a58","type":"file","file":"Sucesos/Victoria - La Entidad es Desterrada.md","x":6280,"y":2480,"width":400,"height":400,"color":"#b500c2"},
+		{"id":"bfaf94c429491688","type":"file","file":"Sucesos/Victoria con Sacrificio - Alguien Cayó.md","x":5280,"y":3260,"width":400,"height":400,"color":"#b500c2"},
+		{"id":"a13eacab39065e37","type":"file","file":"Dialogos/Podrik Wols/Saludo.md","x":520,"y":720,"width":400,"height":400,"color":"4"},
+		{"id":"1355d076321f8ef5","type":"file","file":"Dialogos/Podrik Wols/Pide Algo a Cambio.md","x":1120,"y":720,"width":400,"height":400,"color":"4"},
+		{"id":"2460d7140a46dc24","type":"file","file":"Dialogos/Podrik Wols/Rumores.md","x":1620,"y":720,"width":400,"height":400,"color":"4"},
+		{"id":"890e092ea7a2f00f","type":"file","file":"Secretos/Los Rumores de Podrik.md","x":1620,"y":1920,"width":700,"height":920,"color":"6"},
+		{"id":"e2fed55ff9c6d7f8","type":"file","file":"Dialogos/Podrik Wols/Suspicaz.md","x":1120,"y":1800,"width":400,"height":400,"color":"4"},
+		{"id":"843402ba6fe95ee4","type":"file","file":"Dialogos/Podrik Wols/Hostil.md","x":1120,"y":1210,"width":400,"height":400,"color":"4"},
+		{"id":"2797fce5e0f6c04c","type":"file","file":"Dialogos/Podrik Wols/Despedida.md","x":2200,"y":1210,"width":400,"height":400,"color":"4"}
 	],
 	"edges":[
 		{
@@ -173,15 +187,6 @@
 			"fromNode":"6011bbdb51c7f318",
 			"fromSide":"bottom",
 			"toNode":"bdb7265c598d8a24",
-			"toSide":"top"
-		},
-		{
-			"id":"2a0b8d808428b0ca",
-			"styleAttributes":{},
-			"toFloating":false,
-			"fromNode":"c73e377f86655b5e",
-			"fromSide":"bottom",
-			"toNode":"33feac26f0d60860",
 			"toSide":"top"
 		},
 		{
@@ -588,10 +593,137 @@
 			"fromSide":"right",
 			"toNode":"7fb394849758e823",
 			"toSide":"left"
+		},
+		{
+			"id":"f827538e3b18ba8d",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"b45fef387b45c227",
+			"fromSide":"bottom",
+			"toNode":"17f32d238940d633",
+			"toSide":"top"
+		},
+		{
+			"id":"1df0e72ed10f77a8",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"1910e5e041dfbf83",
+			"fromSide":"bottom",
+			"toNode":"8967427cebcc419b",
+			"toSide":"top"
+		},
+		{
+			"id":"264f369ec888561f",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"c73e377f86655b5e",
+			"fromSide":"left",
+			"toNode":"33feac26f0d60860",
+			"toSide":"top"
+		},
+		{
+			"id":"671d35369017f1b8",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"6a8df4570099c6e3",
+			"fromSide":"bottom",
+			"toNode":"a13eacab39065e37",
+			"toSide":"top"
+		},
+		{
+			"id":"e108366ac6189a3d",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"a13eacab39065e37",
+			"fromSide":"right",
+			"toNode":"1355d076321f8ef5",
+			"toSide":"left"
+		},
+		{
+			"id":"b889ded940dd580f",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"1355d076321f8ef5",
+			"fromSide":"bottom",
+			"toNode":"843402ba6fe95ee4",
+			"toSide":"top"
+		},
+		{
+			"id":"522f19b57608f50f",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"1355d076321f8ef5",
+			"fromSide":"right",
+			"toNode":"2460d7140a46dc24",
+			"toSide":"left"
+		},
+		{
+			"id":"3968ba79dbd3deac",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"2460d7140a46dc24",
+			"fromSide":"bottom",
+			"toNode":"890e092ea7a2f00f",
+			"toSide":"top"
+		},
+		{
+			"id":"bfebafa54863b071",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"a13eacab39065e37",
+			"fromSide":"bottom",
+			"toNode":"e2fed55ff9c6d7f8",
+			"toSide":"left"
+		},
+		{
+			"id":"e34c2cce30d7cef5",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"e2fed55ff9c6d7f8",
+			"fromSide":"top",
+			"toNode":"843402ba6fe95ee4",
+			"toSide":"bottom"
+		},
+		{
+			"id":"de1cfde181041861",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"e2fed55ff9c6d7f8",
+			"fromSide":"right",
+			"toNode":"2460d7140a46dc24",
+			"toSide":"left"
+		},
+		{
+			"id":"9d7c8a9940100753",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"843402ba6fe95ee4",
+			"fromSide":"bottom",
+			"toNode":"e2fed55ff9c6d7f8",
+			"toSide":"top"
+		},
+		{
+			"id":"505ad4cca105fbb9",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"843402ba6fe95ee4",
+			"fromSide":"right",
+			"toNode":"2797fce5e0f6c04c",
+			"toSide":"left"
+		},
+		{
+			"id":"5c4522c6dfa781f7",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"2460d7140a46dc24",
+			"fromSide":"right",
+			"toNode":"2797fce5e0f6c04c",
+			"toSide":"left"
 		}
 	],
 	"metadata":{
 		"version":"1.0-1.0",
-		"frontmatter":{}
+		"frontmatter":{},
+		"startNode":"cdefa10e7f7a04a5"
 	}
 }

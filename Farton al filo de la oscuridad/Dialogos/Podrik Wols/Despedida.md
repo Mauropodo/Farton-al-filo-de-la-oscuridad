@@ -17,5 +17,17 @@ Actitud: Campechano otra vez. Vuelve a ser el tabernero risueño.
 > —La posada siempre está abierta. Y si vuelven, la primera ronda corre de mi cuenta. —Ríe—. O no. Depende de si llegan con una buena historia
 
 
+*Opción del DJ:* Si la confianza es buena, Podrik los llama justo cuando cruzan la puerta:
+
+> [!Dialogo]
+>
+> —Oye. Una cosa más. Anoche desapareció una mujer. La esposa de un granjero. Salió a revisar los caballos y no volvió.
+>
+> *Si preguntan:*
+>
+> — Maggie McPhirter se llamaba. Buena mujer. Su marido está destrozado. No sé si tendrá que ver con lo vuestro, pero… el bosque está raro estas noches. Id con ojo.
+
+[[NPC/Maggie McPhirter]] — su cadáver puede encontrarse en el [[Ubicaciones/Complejo Subterráneo]]
+
 En caso de preguntar algo más antes de irse: [[Dialogos/Podrik Wols/Rumores]]
 En caso de volver más tarde: [[Dialogos/Podrik Wols/Saludo]]

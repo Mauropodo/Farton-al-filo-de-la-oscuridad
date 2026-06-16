@@ -6,7 +6,7 @@ tags:
 
 ## Condiciones para el combate
 
-- **Opcional.** Ocurre si los jugadores atacan primero a la [[NPC/Abominación de carne|Abominación]] en el [[Ubicaciones/Complejo Subterráneo|Nivel 3 del complejo]].
+- **Opcional.** Ocurre si los jugadores atacan primero a la [[Creaturas/Abominación Guardiana|Abominación]] en el [[Ubicaciones/Complejo Subterráneo|Nivel 3 del complejo]].
 - **Se puede evitar:**
   - Mostrando el [[Objetos y pistas/diario incompleto de Rupert|diario de Rupert]] o el [[Objetos y pistas/llave antigua|símbolo de Marion]] → la Abominación duda y los deja pasar.
   - Sigilo CD 15 para esquivar su patrulla.

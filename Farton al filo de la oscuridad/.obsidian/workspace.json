@@ -24,20 +24,6 @@
             }
           },
           {
-            "id": "43516a0190131809",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Objetos y pistas/mapa del bosque.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "mapa del bosque"
-            }
-          },
-          {
             "id": "8bcd8c8dc621b997",
             "type": "leaf",
             "pinned": true,
@@ -46,9 +32,9 @@
               "state": {
                 "file": "Storyline/Historia completa.canvas",
                 "viewState": {
-                  "x": 2915.594111791073,
-                  "y": -400.10870092944936,
-                  "zoom": -4
+                  "x": 6236.325942166778,
+                  "y": 120.66763166659246,
+                  "zoom": -2.3333333333333326
                 }
               },
               "pinned": true,
@@ -57,77 +43,77 @@
             }
           },
           {
-            "id": "d651b2a5574f6191",
+            "id": "346a5f8943b56596",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ubicaciones/Bosque.md",
+                "file": "Dialogos/Podrik Wols/Despedida.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Bosque"
+              "title": "Despedida"
             }
           },
           {
-            "id": "13405d141c77f8a2",
+            "id": "ed8c8b552902ec92",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Combates/Arañas Gigantes.md",
+                "file": "Sucesos/Derrota - El Ritual Fue Interrumpido.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Arañas Gigantes"
+              "title": "Derrota - El Ritual Fue Interrumpido"
             }
           },
           {
-            "id": "651d12c638f2d81b",
+            "id": "55cc4e252d7e22bf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Creaturas/Lobo corrupto.md",
+                "file": "Ubicaciones/Embarcadero.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lobo corrupto"
+              "title": "Embarcadero"
             }
           },
           {
-            "id": "0f18eeab022bdcc3",
+            "id": "5988b060ad0067f4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Objetos y pistas/Notas de Marion.md",
+                "file": "Secretos/Los Rumores de Podrik.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Notas de Marion"
+              "title": "Los Rumores de Podrik"
             }
           },
           {
-            "id": "4bb2e04072fe3b10",
+            "id": "4f0cf0efbd1dee7a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Objetos y pistas/mapa del bosque.md",
+                "file": "NPC/Marion Allen.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "mapa del bosque"
+              "title": "Marion Allen"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -309,41 +295,42 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "8bcd8c8dc621b997",
+  "active": "4f0cf0efbd1dee7a",
   "lastOpenFiles": [
+    "Dialogos/Abominación de carne/Muerte.md",
+    "Dialogos/Abominación de carne/Amenaza.md",
     "Storyline/Historia completa.canvas",
+    "Secretos/ritual de destierro.md",
+    "Secretos/Los Rumores de Podrik.md",
+    "NPC/Podrik Wols.md",
+    "Sucesos/Derrota - El Ritual Fue Interrumpido.md",
+    "Dialogos/Podrik Wols/Despedida.md",
+    "Ubicaciones/Embarcadero.md",
+    "Sucesos/Victoria con Sacrificio - Alguien Cayó.md",
+    "Sucesos/Victoria - La Entidad es Desterrada.md",
+    "Sucesos/Sucesos del Ritual.md",
+    "Sucesos/Derrota Total - La Entidad Queda Libre.md",
+    "NPC/Maggie McPhirter.md",
+    "DOC REFERENCIA/La_Bestia_de_Farton (1).pdf",
+    "Creaturas/Presencia del Vacío.md",
+    "DOC REFERENCIA/al filo d ela oscuridad compelto.md",
+    "DOC REFERENCIA/call_of_cthulhu_p19-48_edge_of_darkness.md",
+    "Objetos y pistas/mapa del bosque.md",
+    "NPC/Abominación de carne.md",
     "Combates/Ratas en el Complejo.md",
     "Combates/El Ritual Final.md",
     "Sucesos/Cruzar el Río.md",
     "Ubicaciones/La Torre Perdida.md",
     "Ubicaciones/Complejo Subterráneo.md",
     "Ubicaciones/Colina.md",
-    "Objetos y pistas/mapa del bosque.md",
     "Ubicaciones/Pueblo de Farton.md",
     "Ubicaciones/Cabaña de Leñadores.md",
-    "Ubicaciones/Bosque.md",
-    "Secretos/ritual de destierro.md",
-    "Ubicaciones/Embarcadero.md",
-    "Ubicaciones/Bosque de Arañas.md",
-    "Objetos y pistas/Notas de Marion.md",
-    "Combates/Arañas Gigantes.md",
-    "Creaturas/Lobo corrupto.md",
-    "Combates/Lobos Corruptos.md",
-    "Combates/La Abominación.md",
-    "Ubicaciones/Menhir.md",
-    "Dialogos/Sacerdote de Farton/Despedida.md",
-    "Dialogos/Sacerdote de Farton/Se Retira.md",
-    "NPC/Podrik Wols.md",
-    "Objetos y pistas/carta de despedida de Rupert.md",
-    "Objetos y pistas/caja con extraños grabados.md",
-    "NPC/Sacerdote de Farton.md",
     "DOC REFERENCIA/Book 4_Handouts.pdf",
     "Reglas",
     "DOC REFERENCIA/edge-of-darkness.pdf",
     "DOC REFERENCIA/Sin confirmar 558041.crdownload",
     "Characters",
     "Personajes",
-    "DOC REFERENCIA/La_Bestia_de_Farton (1).pdf",
     "DOC REFERENCIA/Mapa farton.png",
     "Ubicaciones/Sin título.canvas",
     "Pasted image 20260612023234.png",

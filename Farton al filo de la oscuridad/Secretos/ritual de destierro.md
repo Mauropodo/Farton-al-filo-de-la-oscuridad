@@ -6,7 +6,7 @@ tags:
 
 ## Origen
 
-Descubierto por [[NPC/Marion Allen|Marion Allen]] después del desastre de la invocación. Lo encontró en textos antiguos mientras investigaba cómo deshacer lo que habían hecho. Murió antes de poder ejecutarlo. El ritual quedó en sus[[Secretos/# Las Notas de Marion|notas]]].
+Descubierto por [[NPC/Marion Allen|Marion Allen]] después del desastre de la invocación. Lo encontró en textos antiguos mientras investigaba cómo deshacer lo que habían hecho. Murió antes de poder ejecutarlo. El ritual quedó en sus [[Secretos/Las Notas de Marion|notas]].
 
 ## Propósito
 

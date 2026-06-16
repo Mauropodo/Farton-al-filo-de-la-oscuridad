@@ -40,20 +40,20 @@ Todo lo que cuenta Podrik son **rumores**. Mezcla verdades, medias verdades, sup
 
 Cuando los jugadores hablen con Podrik en la posada, tira 1d12 para ver qué rumor suelta. Puede ser porque pagan una ronda, porque le caen bien, o porque simplemente es un charlatán. El DJ decide si pueden repetir (con otra ronda, otro día, o ganándose su confianza).
 
-| d12 | Rumor | Verdad |
-| --- | --- | --- |
-| 1 | Rupert solía pescar en el viejo embarcadero. | Verdadero |
-| 2 | Rupert pasaba días enteros en la cabaña de leñadores. | Verdadero |
-| 3 | Hay una piedra maldita en el bosque donde los animales no se acercan. | Verdadero |
-| 4 | Los lobos están más agresivos desde hace unas semanas. | Verdadero |
-| 5 | Han aparecido animales sin corazón. | Verdadero |
-| 6 | El sacerdote guarda algunos libros de Rupert. | Verdadero |
-| 7 | Hace años varios cazadores desaparecieron cerca del bosque de arañas. | Verdadero |
-| 8 | La bestia vive en el lago y sale por las noches. | Falso |
-| 9 | El fantasma de Marion camina por el embarcadero. | Falso |
-| 10 | Hay un tesoro escondido bajo la colina. | Falso |
-| 11 | Las arañas obedecen órdenes de la bestia. | Falso |
-| 12 | Un dragón duerme bajo las ruinas. | Falso |
+| d12 | Rumor |
+| --- | --- |
+| 1 | Rupert solía pescar en el viejo embarcadero. |
+| 2 | Rupert pasaba días enteros en la cabaña de leñadores. |
+| 3 | Hay una piedra maldita en el bosque donde los animales no se acercan. |
+| 4 | Los lobos están más agresivos desde hace unas semanas. |
+| 5 | Han aparecido animales sin corazón. |
+| 6 | El sacerdote guarda algunos libros de Rupert. |
+| 7 | Hace años varios cazadores desaparecieron cerca del bosque de arañas. |
+| 8 | La bestia vive en el lago y sale por las noches. |
+| 9 | El fantasma de Marion camina por el embarcadero. |
+| 10 | Hay un tesoro escondido bajo la colina. |
+| 11 | Las arañas obedecen órdenes de la bestia. |
+| 12 | Un dragón duerme bajo las ruinas. |
 
 ## En taberna
 
