@@ -3,7 +3,7 @@ tags:
   - sesion
 ---
 
-# Sesión XX — Fecha
+# Sesión 01— Fecha
 
 ## Jugadores presentes
 
