@@ -17,7 +17,7 @@ El fuego ceremonial se apaga solo. El polvo de Ibn-Ghazi se vuelve gris. Y el cu
 ## Recompensas
 
 - **Cordura:** Cada superviviente recupera 1d10 + nivel de Cordura. Pero la pérdida del compañero resta 1d4 de Cordura adicional.
-- **El sacrificio:** Rupert —si sigue vivo— sabe lo que cuesta el ritual. Ofrece unas palabras. O guarda silencio.
+- **El sacrificio:** Los jugadores cargan con la pérdida. Pero saben que el ritual funcionó.
 - **El cadáver del caído:** Los jugadores deciden qué hacer con él. Enterrarlo en la colina, llevarlo de vuelta a Farton, o —si hay un sacerdote de por medio— pedir un funeral en la [[Ubicaciones/Iglesia|iglesia]].
 
 ## Opciones del DJ
@@ -30,7 +30,7 @@ El fuego ceremonial se apaga solo. El polvo de Ibn-Ghazi se vuelve gris. Y el cu
 
 - El pueblo preguntará por el caído. Los jugadores necesitan una historia creíble: accidente en el bosque, caída en el complejo, bestia.
 - Si el muerto es el Cantante que mantuvo el ritual hasta el final, su nombre puede quedar en la memoria de Farton. [[NPC/Podrik Wols|Podrik]] pone una ronda en su honor.
-- [[NPC/Rupert Merriweather|Rupert]] —si sobrevive al ritual— muere esa misma noche, pero con una sonrisa. *«Lo logramos. A mi manera. Pero lo logramos.»*
+- Rupert no llegó a verlo. Murió antes, con la caja vacía y las manos quietas. Pero al menos se fue sabiendo que alguien lo intentaría.
 
 ## Referencias
 

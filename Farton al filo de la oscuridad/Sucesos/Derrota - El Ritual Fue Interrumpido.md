@@ -27,7 +27,7 @@ Los cadáveres animados caen al suelo, inertes. El aire sigue siendo pesado. Los
 - En una semana, tres personas de la región aparecen muertas sin corazón.
 - Los periódicos (si aplica) reportan ataques de bestias.
 - La colina se convierte en un foco de energía oscura. El bosque se pudre en un radio de 1 milla.
-- [[NPC/Rupert Merriweather|Rupert]] —si sigue vivo— muere consumido por la maldición, sabiendo que no lo lograron.
+- Rupert no llegó a verlo. Murió en su cabaña con la caja vacía y la mano en el pecho. Poco a poco, cada persona del pueblo empezó a tener su mismo destino: pesadillas, enfermedad, mirada perdida. La maldición encontró nuevas casas.
 
 ## Referencias
 

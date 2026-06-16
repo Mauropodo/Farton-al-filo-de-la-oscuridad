@@ -19,7 +19,7 @@ El polvo de Ibn-Ghazi sobrante brilla una última vez y se vuelve gris inerte. E
 ## Recompensas
 
 - **Cordura:** Cada personaje recupera 1d10 + nivel de Cordura.
-- **Rupert Merriweather:** Si sigue vivo, muere en paz esa misma noche, libre de la maldición. Si los jugadores están con él, susurra *«Gracias»* antes de cerrar los ojos.
+- **Rupert Merriweather:** No llegó a verlo. Murió en su cabaña la noche después de entregar la caja, solo, con una mano extendida hacia la puerta. Pero si los jugadores lo visitaron antes de partir hacia la colina, quizás vieron en sus ojos que, por primera vez en décadas, no tenía miedo. Pudo redimir sus acciones.
 - **La colina:** El menhir se agrieta de arriba abajo. Nunca más produce visiones.
 - **El bosque:** Los animales vuelven a cantar al amanecer. La presión en el aire desaparece.
 - **Objeto residual (opcional):** La Presencia deja tras de sí un fragmento de obsidiana negra que flota a la altura del pecho. Si se toca, muestra brevemente la forma de la entidad antes de volverse piedra inerte. Los jugadores pueden conservarlo o destruirlo.

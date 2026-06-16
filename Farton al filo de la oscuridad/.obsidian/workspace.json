@@ -62,58 +62,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sucesos/Derrota - El Ritual Fue Interrumpido.md",
+                "file": "Sesiones/Sesión XX - Plantilla.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Derrota - El Ritual Fue Interrumpido"
-            }
-          },
-          {
-            "id": "55cc4e252d7e22bf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ubicaciones/Embarcadero.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Embarcadero"
-            }
-          },
-          {
-            "id": "5988b060ad0067f4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Secretos/Los Rumores de Podrik.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Los Rumores de Podrik"
-            }
-          },
-          {
-            "id": "4f0cf0efbd1dee7a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ubicaciones/Mapa de la región.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Mapa de la región"
+              "title": "Sesión XX - Plantilla"
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -295,8 +253,14 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "4f0cf0efbd1dee7a",
+  "active": "ed8c8b552902ec92",
   "lastOpenFiles": [
+    "Sucesos/Derrota - El Ritual Fue Interrumpido.md",
+    "Ubicaciones/Embarcadero.md",
+    "Secretos/Los Rumores de Podrik.md",
+    "Sucesos/Victoria - La Entidad es Desterrada.md",
+    "Sucesos/Llamado de Rupert.md",
+    "Ubicaciones/Mapa de la región.md",
     "Objetos y pistas/mapa del bosque.md",
     "NPC/Marion Allen.md",
     "Sesiones/Sesión XX - Plantilla.md",
@@ -304,13 +268,9 @@
     "Dialogos/Abominación de carne/Amenaza.md",
     "Storyline/Historia completa.canvas",
     "Secretos/ritual de destierro.md",
-    "Secretos/Los Rumores de Podrik.md",
     "NPC/Podrik Wols.md",
-    "Sucesos/Derrota - El Ritual Fue Interrumpido.md",
     "Dialogos/Podrik Wols/Despedida.md",
-    "Ubicaciones/Embarcadero.md",
     "Sucesos/Victoria con Sacrificio - Alguien Cayó.md",
-    "Sucesos/Victoria - La Entidad es Desterrada.md",
     "Sucesos/Sucesos del Ritual.md",
     "Sucesos/Derrota Total - La Entidad Queda Libre.md",
     "NPC/Maggie McPhirter.md",
@@ -323,8 +283,6 @@
     "Combates/El Ritual Final.md",
     "Sucesos/Cruzar el Río.md",
     "Ubicaciones/La Torre Perdida.md",
-    "Ubicaciones/Complejo Subterráneo.md",
-    "Ubicaciones/Colina.md",
     "DOC REFERENCIA/Book 4_Handouts.pdf",
     "Reglas",
     "DOC REFERENCIA/edge-of-darkness.pdf",

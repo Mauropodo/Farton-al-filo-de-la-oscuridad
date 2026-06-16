@@ -51,6 +51,18 @@ Lo recuerda todo. No quiere contarlo verbalmente. Prefiere que los jugadores lo 
 - Sabe el ritual completo, pero no puede ejecutarlo — la maldición lo paraliza al acercarse a la colina.
 - Todo está escrito en su diario. No quiere repetirlo en voz alta.
 
+## Su muerte
+
+Rupert muere **tras entregar la caja** a los jugadores. Esa misma noche o al día siguiente, según el DJ.
+
+El acto de desprenderse del diario, la llave y el mapa —las últimas cosas que lo ataban a aquel pasado— le permite soltar el último hilo de voluntad que lo mantenía vivo. La maldición lo consume en cuestión de horas.
+
+- No llega a saber si los jugadores triunfaron o fracasaron.
+- Si los jugadores vuelven a su cabaña tras el ritual, lo encuentran muerto en su sillón o en su cama, con una expresión tranquila.
+- Si preguntan en el pueblo, [[NPC/Podrik Wols|Podrik]] confirma que lo encontraron muerto al amanecer. *«Parecía en paz. Por primera vez.»*
+
+**Nota para el DJ:** Ajusta el momento de su muerte según el ritmo de la partida. Si los jugadores quieren despedirse de él antes de ir a la colina, concede ese momento. Si no, Rupert muere mientras ellos están en el bosque.
+
 ## Qué guarda
 
 [[Objetos y pistas/caja con extraños grabados|Una caja de madera con extraños grabados]] que contiene:
