@@ -15,7 +15,7 @@ Pergamino enrollado, amarillento y quebradizo. Dibujado a mano con tinta marrón
 - Hay una ruta marcada desde el pueblo hasta la colina, rodeando las zonas de terreno peligroso
 - Las [[Ubicaciones/Cabaña de Leñadores|Cabaña de Leñadores]] aparece como punto de referencia
 - El [[Ubicaciones/Bosque de Arañas]] está dibujado pero marcado con una calavera rudimentaria
-- La [[Ubicaciones/Torre Perdida|torre]] no aparece en el mapa
+- La [[Ubicaciones/La Torre Perdida|torre]] no aparece en el mapa
 
 **Anotaciones al margen:**
 - "Bosque de Arañas — evitar" (escrito con letra pequeña)

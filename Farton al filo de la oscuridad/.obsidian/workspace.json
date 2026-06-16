@@ -104,12 +104,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NPC/Marion Allen.md",
+                "file": "Ubicaciones/Mapa de la región.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Marion Allen"
+              "title": "Mapa de la región"
             }
           }
         ],
@@ -297,6 +297,9 @@
   },
   "active": "4f0cf0efbd1dee7a",
   "lastOpenFiles": [
+    "Objetos y pistas/mapa del bosque.md",
+    "NPC/Marion Allen.md",
+    "Sesiones/Sesión XX - Plantilla.md",
     "Dialogos/Abominación de carne/Muerte.md",
     "Dialogos/Abominación de carne/Amenaza.md",
     "Storyline/Historia completa.canvas",
@@ -315,7 +318,6 @@
     "Creaturas/Presencia del Vacío.md",
     "DOC REFERENCIA/al filo d ela oscuridad compelto.md",
     "DOC REFERENCIA/call_of_cthulhu_p19-48_edge_of_darkness.md",
-    "Objetos y pistas/mapa del bosque.md",
     "NPC/Abominación de carne.md",
     "Combates/Ratas en el Complejo.md",
     "Combates/El Ritual Final.md",
@@ -323,8 +325,6 @@
     "Ubicaciones/La Torre Perdida.md",
     "Ubicaciones/Complejo Subterráneo.md",
     "Ubicaciones/Colina.md",
-    "Ubicaciones/Pueblo de Farton.md",
-    "Ubicaciones/Cabaña de Leñadores.md",
     "DOC REFERENCIA/Book 4_Handouts.pdf",
     "Reglas",
     "DOC REFERENCIA/edge-of-darkness.pdf",
