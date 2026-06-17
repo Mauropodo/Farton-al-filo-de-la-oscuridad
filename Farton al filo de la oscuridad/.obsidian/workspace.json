@@ -32,18 +32,32 @@
               "state": {
                 "file": "Storyline/Historia completa.canvas",
                 "viewState": {
-                  "x": 2031.473974751725,
-                  "y": 224.0310025258541,
-                  "zoom": -3.725000025431315
+                  "x": 6162.387102308913,
+                  "y": 359.4656188456765,
+                  "zoom": -2.3361112213134767
                 }
               },
               "pinned": true,
               "icon": "lucide-layout-dashboard",
               "title": "Historia completa"
             }
+          },
+          {
+            "id": "bee2b7bb4451c27d",
+            "type": "leaf",
+            "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": "Farton al filo de la oscuridad/.obsidian/workspace.json",
+                "bFile": "Farton al filo de la oscuridad/.obsidian/workspace.json",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: workspace.json  (Working Tree)"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -225,10 +239,10 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "8bcd8c8dc621b997",
+  "active": "bee2b7bb4451c27d",
   "lastOpenFiles": [
-    "Secretos/El Sello de Contención.md",
     "Storyline/Historia completa.canvas",
+    "Secretos/El Sello de Contención.md",
     "Combates/La Abominación.md",
     "Creaturas/Abominación Guardiana.md",
     "Ubicaciones/Mapa de la región.md",
@@ -254,7 +268,6 @@
     "NPC/Maggie McPhirter.md",
     "DOC REFERENCIA/La_Bestia_de_Farton (1).pdf",
     "Creaturas/Presencia del Vacío.md",
-    "DOC REFERENCIA/al filo d ela oscuridad compelto.md",
     "DOC REFERENCIA/Book 4_Handouts.pdf",
     "Reglas",
     "DOC REFERENCIA/edge-of-darkness.pdf",
