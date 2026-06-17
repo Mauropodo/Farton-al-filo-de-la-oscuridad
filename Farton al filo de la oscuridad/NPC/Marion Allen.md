@@ -17,6 +17,6 @@ Según el [[NPC/Sacerdote de Farton|sacerdote Mathias]], era callado, educado, y
 
 Lideró un grupo de estudiosos que investigaba fuentes de magia en la región de [[Ubicaciones/Pueblo de Farton|Farton]]. Descubrieron una [[Secretos/La Entidad Sellada|entidad]] oculta bajo una [[Ubicaciones/Colina|colina]]. Intentaron contactarla mediante un [[Secretos/El Ritual Original|ritual de invocación]]. La liberaron accidentalmente.
 
-Marion logró un [[Secretos/El Sello de Contención|sello de contención]] de emergencia, creó a la [[Creaturas/Abominación Guardiana|Abominación]] como guardiana, y pasó el resto de sus días buscando una solución permanente. Encontró el [[Secretos/ritual de destierro|ritual de destierro]] en textos antiguos, pero murió antes de ejecutarlo.
+Marion logró un [[Secretos/El Sello de Contención|sello de contención]] de emergencia, creó a la [[Creaturas/Abominación Guardiana|Abominación]] como guardiana, y pasó el resto de sus días buscando una solución permanente. Encontró el[[Ritual de destierro|Ritual de destierro]]] en textos antiguos, pero murió antes de ejecutarlo.
 
 Su cuerpo apareció en las ruinas de un puerto. Asesinado. El culpable nunca fue encontrado.

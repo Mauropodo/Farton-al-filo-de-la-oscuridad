@@ -34,5 +34,5 @@ El polvo de Ibn-Ghazi sobrante brilla una última vez y se vuelve gris inerte. E
 
 - [[Combates/El Ritual Final]]
 - [[Creaturas/Presencia del Vacío]]
-- [[Secretos/ritual de destierro]]
+- [[Ritual de destierro]]
 - [[NPC/Maggie McPhirter]]

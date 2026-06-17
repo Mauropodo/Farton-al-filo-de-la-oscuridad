@@ -32,46 +32,18 @@
               "state": {
                 "file": "Storyline/Historia completa.canvas",
                 "viewState": {
-                  "x": 6236.325942166778,
-                  "y": 120.66763166659246,
-                  "zoom": -2.3333333333333326
+                  "x": 2031.473974751725,
+                  "y": 224.0310025258541,
+                  "zoom": -3.725000025431315
                 }
               },
               "pinned": true,
               "icon": "lucide-layout-dashboard",
               "title": "Historia completa"
             }
-          },
-          {
-            "id": "346a5f8943b56596",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dialogos/Podrik Wols/Despedida.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Despedida"
-            }
-          },
-          {
-            "id": "ed8c8b552902ec92",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sesiones/Sesión XX - Plantilla.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Sesión XX - Plantilla"
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -253,23 +225,29 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "ed8c8b552902ec92",
+  "active": "8bcd8c8dc621b997",
   "lastOpenFiles": [
+    "Secretos/El Sello de Contención.md",
+    "Storyline/Historia completa.canvas",
+    "Combates/La Abominación.md",
+    "Creaturas/Abominación Guardiana.md",
+    "Ubicaciones/Mapa de la región.md",
+    "Combates/Ratas en el Complejo.md",
+    "Sesiones/Sesión XX - Plantilla.md",
+    "Sucesos/Cruzar el Río.md",
+    "Secretos/La Maldición de la Entidad.md",
+    "Dialogos/Podrik Wols/Despedida.md",
     "Sucesos/Derrota - El Ritual Fue Interrumpido.md",
     "Ubicaciones/Embarcadero.md",
     "Secretos/Los Rumores de Podrik.md",
     "Sucesos/Victoria - La Entidad es Desterrada.md",
     "Sucesos/Llamado de Rupert.md",
-    "Ubicaciones/Mapa de la región.md",
     "Objetos y pistas/mapa del bosque.md",
     "NPC/Marion Allen.md",
-    "Sesiones/Sesión XX - Plantilla.md",
     "Dialogos/Abominación de carne/Muerte.md",
     "Dialogos/Abominación de carne/Amenaza.md",
-    "Storyline/Historia completa.canvas",
-    "Secretos/ritual de destierro.md",
+    "Secretos/Ritual de destierro.md",
     "NPC/Podrik Wols.md",
-    "Dialogos/Podrik Wols/Despedida.md",
     "Sucesos/Victoria con Sacrificio - Alguien Cayó.md",
     "Sucesos/Sucesos del Ritual.md",
     "Sucesos/Derrota Total - La Entidad Queda Libre.md",
@@ -277,12 +255,6 @@
     "DOC REFERENCIA/La_Bestia_de_Farton (1).pdf",
     "Creaturas/Presencia del Vacío.md",
     "DOC REFERENCIA/al filo d ela oscuridad compelto.md",
-    "DOC REFERENCIA/call_of_cthulhu_p19-48_edge_of_darkness.md",
-    "NPC/Abominación de carne.md",
-    "Combates/Ratas en el Complejo.md",
-    "Combates/El Ritual Final.md",
-    "Sucesos/Cruzar el Río.md",
-    "Ubicaciones/La Torre Perdida.md",
     "DOC REFERENCIA/Book 4_Handouts.pdf",
     "Reglas",
     "DOC REFERENCIA/edge-of-darkness.pdf",

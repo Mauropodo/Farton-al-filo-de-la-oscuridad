@@ -1,6 +1,6 @@
 ---
 tags:
-  - suceso
+  - combates
 ---
 # Ratas en el complejo
 

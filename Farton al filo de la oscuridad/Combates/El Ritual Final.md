@@ -15,7 +15,7 @@ El clímax de la aventura. Los jugadores deben ejecutar el ritual de destierro e
 ### Cuándo ocurre
 - Debe comenzar a **medianoche** (la hora en que el velo entre dimensiones es más débil)
 - El ritual dura **2 horas** (120 rondas en tiempo de juego, pero se resuelve en fases narrativas)
-- [[Secretos/ritual de destierro]] — los jugadores deben haber encontrado las notas de Marion
+- [[Ritual de destierro]] — los jugadores deben haber encontrado las notas de Marion
 
 ### Qué necesitan los jugadores
 - **El cantar en latín** (de las notas de Marion o del diario de Rupert)
@@ -206,7 +206,7 @@ El desenlace depende de cómo termine el ritual. Cada resultado tiene un archivo
 ## Referencias cruzadas
 
 - [[Creaturas/Presencia del Vacío]] — hoja de criatura actualizada
-- [[Secretos/ritual de destierro]] — el ritual que los jugadores deben encontrar
+- [[Ritual de destierro]] — el ritual que los jugadores deben encontrar
 - [[Secretos/La Entidad Sellada]] — contexto de la entidad
 - [[Secretos/El Sello de Contención]] — el sello que los jugadores refuerzan
 - [[Ubicaciones/Complejo Subterráneo|Nivel 3 del complejo]] — ubicación del ritual

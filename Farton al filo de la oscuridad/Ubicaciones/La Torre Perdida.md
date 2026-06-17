@@ -25,7 +25,7 @@ Si los jugadores no encontraron las [[Secretos/Las Notas de Marion|notas de Mari
 
 ### Cofre del sótano
 
-Un cofre de hierro con el sello de Marion grabado en la tapa. Contiene los **3 componentes del [[Secretos/ritual de destierro]]**:
+Un cofre de hierro con el sello de Marion grabado en la tapa. Contiene los **3 componentes del [[Ritual de destierro]]**:
 
 1. **Polvo de plata** — frasco de cristal con polvo brillante
 2. **Símbolo de enfoque** — disco de piedra grabado con el sello de Marion

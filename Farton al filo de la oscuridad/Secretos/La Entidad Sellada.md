@@ -26,6 +26,6 @@ Es algo que estaba *debajo* de la colina desde antes de que Farton existiera. Do
 
 ## Cómo tratarla
 
-La [[Creaturas/Abominación Guardiana|Abominación]] y el sello la contienen, pero no la destruyen. La única solución conocida es completar el [[Secretos/ritual de destierro]] que [[NPC/Marion Allen|Marion Allen]] descubrió en sus investigaciones.
+La [[Creaturas/Abominación Guardiana|Abominación]] y el sello la contienen, pero no la destruyen. La única solución conocida es completar el [[Ritual de destierro]] que [[NPC/Marion Allen|Marion Allen]] descubrió en sus investigaciones.
 
 

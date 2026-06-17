@@ -1,4 +1,4 @@
-﻿---
+---
 tags:
   - secreto
 ---
@@ -27,4 +27,4 @@ Los síntomas de su deterioro son visibles:
 
 ## Nota de diseño
 
-El sello de contención NO es el [[Secretos/ritual de destierro|ritual de destierro]]. El sello es un parche. El destierro es la solución permanente que Marion descubrió pero no llegó a ejecutar.
+El sello de contención NO es el [[Ritual de destierro|Ritual de destierro]]. El sello es un parche. El destierro es la solución permanente que Marion descubrió pero no llegó a ejecutar.

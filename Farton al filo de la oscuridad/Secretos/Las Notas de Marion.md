@@ -8,7 +8,7 @@ Las Notas de Marion, los Fragmentos del Destierro, el Cuaderno Perdido.
 
 ## Qué son
 
-Un conjunto de notas manuscritas que pertenecieron a [[NPC/Marion Allen|Marion Allen]]. Contienen la investigación de Marion sobre el [[Secretos/ritual de destierro]] —el procedimiento para volver a encerrar a la [[Secretos/La Entidad Sellada|entidad]] bajo la colina.
+Un conjunto de notas manuscritas que pertenecieron a [[NPC/Marion Allen|Marion Allen]]. Contienen la investigación de Marion sobre el [[Ritual de destierro]] —el procedimiento para volver a encerrar a la [[Secretos/La Entidad Sellada|entidad]] bajo la colina.
 
 Marion las escribió durante los días previos a su muerte. Están incompletas, desordenadas, llenas de tachones y anotaciones al margen. Marion estaba exhausta y asustada mientras las escribía.
 

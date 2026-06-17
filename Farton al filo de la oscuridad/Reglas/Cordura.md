@@ -51,4 +51,4 @@ El personaje cae en locura permanente. Queda fuera de juego.
 
 ## Recuperación de cordura
 
-Completar el [[Secretos/ritual de destierro|ritual de destierro]] restaura 1d10 + nivel de Cordura. Descansar en un lugar seguro sin incidentes recupera 1d4 por día.
+Completar el [[Ritual de destierro|Ritual de destierro]] restaura 1d10 + nivel de Cordura. Descansar en un lugar seguro sin incidentes recupera 1d4 por día.

@@ -11,7 +11,7 @@ Décadas atrás, el círculo de estudiosos liderado por [[NPC/Marion Allen]] —
 
 Marion logró un [[Secretos/El Sello de Contención|sello de contención]] de emergencia y creó a la [[Creaturas/Abominación Guardiana|Abominación]] como guardiana. Ocultó el acceso al complejo subterráneo bajo una torre en la colina.
 
-La entidad los marcó a todos con una [[Secretos/La Maldición de la Entidad|maldición lenta]]. Marion viajó a las tierras del sur buscando una solución. Encontró el [[Secretos/ritual de destierro]] en textos antiguos, pero su cuerpo apareció en el embarcadero del pueblo —alguien lo había matado en otro sitio y lo había traído de vuelta. El ritual nunca se ejecutó.
+La entidad los marcó a todos con una [[Secretos/La Maldición de la Entidad|maldición lenta]]. Marion viajó a las tierras del sur buscando una solución. Encontró el [[Ritual de destierro]] en textos antiguos, pero su cuerpo apareció en el embarcadero del pueblo —alguien lo había matado en otro sitio y lo había traído de vuelta. El ritual nunca se ejecutó.
 
 Uno a uno, los estudiosos murieron consumidos por la maldición. Rupert es el último. Ahora agoniza. Los sellos se debilitan con cada muerte. Cuando él muera, la entidad quedará libre.
 
@@ -55,7 +55,7 @@ Rupert busca aventureros para que hagan lo que él nunca pudo: volver a la colin
 - [[Secretos/La Maldición de la Entidad]]
 - [[Secretos/La Muerte de Marion]]
 - [[Secretos/Las Notas de Marion]]
-- [[Secretos/ritual de destierro]]
+- [[Ritual de destierro]]
 - [[Secretos/Los Rumores de Podrik]]
 
 ## Sucesos del ritual final

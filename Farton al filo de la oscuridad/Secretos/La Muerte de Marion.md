@@ -14,7 +14,7 @@ Nunca encontraron al culpable.
 
 El cuerpo de Marion apareció con el pecho abierto. Las costillas separadas de la columna. Le habían arrancado la lengua. En la frente llevaba grabado un símbolo — algo tallado con cuchillo, hasta el hueso. El corazón y el hígado faltaban. Alguien los había extraído con un corte limpio, pero sin cuidado, como si la precisión no importara.
 
-Había descubierto el [[Secretos/ritual de destierro]] en textos antiguos. Pasó días y noches enteras investigando, descifrando. Estaba obsesionada.
+Había descubierto el[[Ritual de destierro]]] en textos antiguos. Pasó días y noches enteras investigando, descifrando. Estaba obsesionada.
 
 La noche de su muerte, estaba copiando el ritual completo. Algo llegó a ella a través de los textos.
 

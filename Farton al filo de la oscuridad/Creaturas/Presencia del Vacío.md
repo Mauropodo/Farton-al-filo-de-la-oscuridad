@@ -53,7 +53,7 @@ cr: 6
 
 **Pérdida de cordura.** La primera vez que una criatura vea la forma verdadera de la Presencia (cuando se materializa), debe superar una salvación de SAB CD 16 o sufre un efecto de Locura a corto plazo (tabla de Locura en *DMG* p. 259). Además, pierde 1d8 de Cordura (si se usa la regla de Cordura).
 
-**Sello vinculante.** No puede ser dañada permanentemente mientras el [[Secretos/El Sello de Contención|sello de contención]] esté activo. Cualquier daño se regenera al inicio de su turno. Solo el [[Secretos/ritual de destierro|ritual de destierro]] puede expulsarla.
+**Sello vinculante.** No puede ser dañada permanentemente mientras el [[Secretos/El Sello de Contención|sello de contención]] esté activo. Cualquier daño se regenera al inicio de su turno. Solo el [[Ritual de destierro|Ritual de destierro]] puede expulsarla.
 
 **Residuo vital.** Cuando la Presencia daña a una criatura con sus garras, deja un residuo arcano en la herida. Si esa criatura muere antes de completar un descanso largo, la Presencia puede usar ***Control póstumo*** sobre ella sin coste adicional.
 
