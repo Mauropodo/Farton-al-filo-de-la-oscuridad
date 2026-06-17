@@ -19,8 +19,10 @@ sabiduria: 12
 carisma: 14
 ---
 
-# Corbin Manoverde
+# Pícaro — Corbin Manoverde
 > Pícaro • Mediano Piesligeros • Nivel 1
+
+**¿Por qué Rupert lo llama?** Corbin fue su aprendiz de niño. Rupert le enseñó a leer mapas, abrir cerraduras y moverse sin hacer ruido. Ahora necesita sus *"buenas manos y mejor cabeza"* para acceder a lo que está cerrado bajo la colina.
 
 ## Estadísticas básicas
 

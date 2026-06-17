@@ -19,8 +19,10 @@ sabiduria: 8
 carisma: 12
 ---
 
-# Aldric Marrullero
+# Guerrero — Aldric Marrullero
 > Guerrero • Humano • Nivel 1
+
+**¿Por qué Rupert lo llama?** Aldric y Rupert fueron aventureros hace veinte años. Rupert lo sacó a cuestas de una cueva cuando un golpe envenenado lo dejó ciego y agonizante. Ahora Rupert le escribe: *"No me queda nadie más. Si todavía guardas esa espada, ven."* Aldric no lo dudó.
 
 ## Estadísticas básicas
 

@@ -8,56 +8,40 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d39f1f4b2a871a41",
+            "id": "78661b2eb28d9728",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Secretos/ritual de destierro.md",
+                "file": "Sucesos/Llamado de Rupert.md",
                 "mode": "source",
                 "source": false
               },
-              "pinned": true,
               "icon": "lucide-file",
-              "title": "ritual de destierro"
+              "title": "Llamado de Rupert"
             }
           },
           {
-            "id": "8bcd8c8dc621b997",
+            "id": "28574a102d21caf9",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Storyline/Historia completa.canvas",
+                "file": "Storyline/Historia Express.canvas",
                 "viewState": {
-                  "x": 6162.387102308913,
-                  "y": 359.4656188456765,
-                  "zoom": -2.3361112213134767
+                  "x": -1561.9008634426268,
+                  "y": -3636.8196156437425,
+                  "zoom": -3.6666666666666665
                 }
               },
               "pinned": true,
               "icon": "lucide-layout-dashboard",
-              "title": "Historia completa"
-            }
-          },
-          {
-            "id": "bee2b7bb4451c27d",
-            "type": "leaf",
-            "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": "Farton al filo de la oscuridad/.obsidian/workspace.json",
-                "bFile": "Farton al filo de la oscuridad/.obsidian/workspace.json",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: workspace.json  (Working Tree)"
+              "title": "Historia Express"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -239,9 +223,29 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "bee2b7bb4451c27d",
+  "active": "28574a102d21caf9",
   "lastOpenFiles": [
+    "Storyline/Historia Express.canvas",
+    "Sucesos/Jasinto los Lleva.md",
+    "Sucesos/Llamado de Rupert.md",
+    "Sucesos/Rupert los Recibe.md",
     "Storyline/Historia completa.canvas",
+    "Jugadores/Corbin Manoverde.md",
+    "Jugadores/Guerrero — Aldric Marrullero.md",
+    "Jugadores/Explorador — Sílvido Hojaverde.md",
+    "Jugadores/Clérigo — Brunhilda Martillopétreo.md",
+    "Jugadores/Mago — Lyra Brisaveloz.md",
+    "Jugadores/Pícaro — Corbin Manoverde.md",
+    "Jugadores/Brunhilda Martillopétreo.md",
+    "Jugadores/Aldric Marrullero.md",
+    "Combates/Combate en la Carreta.md",
+    "Dialogos/Jasinto (carretero)/Despedida.md",
+    "Dialogos/Jasinto (carretero)/Post Combate.md",
+    "Dialogos/Jasinto (carretero)/Saludo.md",
+    "Guía Rápida (Express 2h).md",
+    "NPC/Jasinto (carretero).md",
+    "Creaturas/Lobo corrupto (Express 2h).md",
+    "Dialogos/Jasinto (carretero)",
     "Secretos/El Sello de Contención.md",
     "Combates/La Abominación.md",
     "Creaturas/Abominación Guardiana.md",
@@ -249,25 +253,7 @@
     "Combates/Ratas en el Complejo.md",
     "Sesiones/Sesión XX - Plantilla.md",
     "Sucesos/Cruzar el Río.md",
-    "Secretos/La Maldición de la Entidad.md",
-    "Dialogos/Podrik Wols/Despedida.md",
-    "Sucesos/Derrota - El Ritual Fue Interrumpido.md",
-    "Ubicaciones/Embarcadero.md",
-    "Secretos/Los Rumores de Podrik.md",
-    "Sucesos/Victoria - La Entidad es Desterrada.md",
-    "Sucesos/Llamado de Rupert.md",
-    "Objetos y pistas/mapa del bosque.md",
-    "NPC/Marion Allen.md",
-    "Dialogos/Abominación de carne/Muerte.md",
-    "Dialogos/Abominación de carne/Amenaza.md",
-    "Secretos/Ritual de destierro.md",
-    "NPC/Podrik Wols.md",
-    "Sucesos/Victoria con Sacrificio - Alguien Cayó.md",
-    "Sucesos/Sucesos del Ritual.md",
-    "Sucesos/Derrota Total - La Entidad Queda Libre.md",
-    "NPC/Maggie McPhirter.md",
     "DOC REFERENCIA/La_Bestia_de_Farton (1).pdf",
-    "Creaturas/Presencia del Vacío.md",
     "DOC REFERENCIA/Book 4_Handouts.pdf",
     "Reglas",
     "DOC REFERENCIA/edge-of-darkness.pdf",
@@ -279,7 +265,6 @@
     "Pasted image 20260612023234.png",
     "tools/restore-graph.ps1",
     "tools/test_readonly.txt",
-    "tools/sync-colors.ps1",
     "Sin título.canvas"
   ]
 }

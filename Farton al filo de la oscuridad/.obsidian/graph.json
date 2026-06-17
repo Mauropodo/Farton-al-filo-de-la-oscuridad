@@ -18,7 +18,56 @@
       "query": "path:Sucesos  ",
       "color": {
         "a": 1,
-        "rgb": 9506520
+        "rgb": 16711927
+      }
+    },
+    {
+      "query": "path:Dialogos  ",
+      "color": {
+        "a": 1,
+        "rgb": 1423889
+      }
+    },
+    {
+      "query": "path:Combates  ",
+      "color": {
+        "a": 1,
+        "rgb": 16711680
+      }
+    },
+    {
+      "query": "path:Creaturas  ",
+      "color": {
+        "a": 1,
+        "rgb": 14914573
+      }
+    },
+    {
+      "query": "path:\"Objetos y pistas\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 16514816
+      }
+    },
+    {
+      "query": "path:Secretos  ",
+      "color": {
+        "a": 1,
+        "rgb": 6619304
+      }
+    },
+    {
+      "query": "path:Ubicaciones  ",
+      "color": {
+        "a": 1,
+        "rgb": 5461952
+      }
+    },
+    {
+      "query": "path:Storyline  ",
+      "color": {
+        "a": 1,
+        "rgb": 49151
       }
     }
   ],

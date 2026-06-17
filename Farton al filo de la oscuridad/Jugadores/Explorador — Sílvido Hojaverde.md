@@ -19,8 +19,10 @@ sabiduria: 13
 carisma: 8
 ---
 
-# Sílvido Hojaverde
+# Explorador — Sílvido Hojaverde
 > Explorador • Elfo de los bosques • Nivel 1
+
+**¿Por qué Rupert lo llama?** Sílvido vive en el bosque y fue el primero en notar que algo estaba podrido: animales sin corazón, lobos que no temen al fuego, silencio donde antes había vida. Rupert le envió un mensaje: *"Tú ves lo que otros no quieren ver. Yo también. Ven."*
 
 ## Estadísticas básicas
 

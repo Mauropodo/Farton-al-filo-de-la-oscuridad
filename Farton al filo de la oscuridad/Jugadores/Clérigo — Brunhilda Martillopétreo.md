@@ -19,8 +19,10 @@ sabiduria: 17
 carisma: 13
 ---
 
-# Brunhilda Martillopétreo
+# Clérigo — Brunhilda Martillopétreo
 > Clérigo • Enana • Nivel 1
+
+**¿Por qué Rupert la llama?** Rupert salvó al clan Martillopétreo de una plaga sobrenatural sin aceptar pago. Su padre le dijo: *"Si ese hombre llama, respondemos sin preguntas."* Rupert ha llamado. Brunhilda viene a cumplir la deuda de su clan.
 
 ## Estadísticas básicas
 

@@ -19,8 +19,10 @@ sabiduria: 12
 carisma: 10
 ---
 
-# Lyra Brisaveloz
+# Mago — Lyra Brisaveloz
 > Mago • Elfa de los bosques • Nivel 1
+
+**¿Por qué Rupert la llama?** Lyra fue pupila de [[NPC/Marion Allen|Marion Allen]] cuando era joven. Marion le contó la historia de la entidad bajo la colina. Rupert lo sabe y la necesita: *"Marion ya no está. Si recuerdas lo que te contó, ven."*
 
 ## Estadísticas básicas
 

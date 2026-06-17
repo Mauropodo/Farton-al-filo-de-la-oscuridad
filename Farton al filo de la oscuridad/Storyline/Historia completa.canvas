@@ -1,6 +1,6 @@
 {
 	"nodes":[
-		{"id":"2e15ed3d3a1d47b7","type":"group","x":-4320,"y":-1760,"width":2190,"height":1240,"label":"GM"},
+		{"id":"2e15ed3d3a1d47b7","type":"group","x":-5600,"y":-5280,"width":2190,"height":1240,"label":"GM"},
 		{"id":"60a7d7e61f909b45","type":"file","file":"Sucesos/Derrota - El Ritual Fue Interrumpido.md","x":7440,"y":-600,"width":840,"height":400,"color":"#b500c2"},
 		{"id":"b28e28d0d4445a58","type":"file","file":"Sucesos/Victoria - La Entidad es Desterrada.md","x":7440,"y":-60,"width":840,"height":400,"color":"#b500c2"},
 		{"id":"db5d82f4a893d364","type":"file","file":"Sucesos/Derrota Total - La Entidad Queda Libre.md","x":7440,"y":-1120,"width":840,"height":400,"color":"#b500c2"},
@@ -86,15 +86,15 @@
 		{"id":"f4aa0ab3f7a54e6d","type":"file","file":"Secretos/Las Notas de Marion.md","x":5840,"y":-1400,"width":300,"height":60,"color":"#8c00ff"},
 		{"id":"72c4a0ecb0fc45d7","type":"file","file":"Secretos/Ritual de destierro.md","x":6200,"y":-1020,"width":400,"height":60,"color":"#8c00ff"},
 		{"id":"afa18dea5e1149a9","type":"file","file":"Secretos/La Muerte de Marion.md","x":1560,"y":-3040,"width":400,"height":60,"color":"#8c00ff"},
-		{"id":"ae2858fe61a1455a","type":"file","file":"Jugadores/Corbin Manoverde.md","x":-4290,"y":-1720,"width":400,"height":280,"color":"#a8dadc"},
-		{"id":"a8ec84b971b246ec","type":"file","file":"Sesiones/Sesión XX - Plantilla.md","x":-4290,"y":-1340,"width":830,"height":280,"color":"#8338ec"},
-		{"id":"9f89bd309db242d5","type":"file","file":"Resumen.md","x":-4290,"y":-960,"width":400,"height":280,"color":"#e9c46a"},
-		{"id":"757124a3d5a04b27","type":"file","file":"Jugadores/Brunhilda Martillopétreo.md","x":-3860,"y":-1720,"width":400,"height":280,"color":"#a8dadc"},
-		{"id":"4950236a30304ed9","type":"file","file":"CONTEXT.md","x":-3860,"y":-960,"width":400,"height":280,"color":"#e9c46a"},
-		{"id":"70bca4a7ca9e442a","type":"file","file":"Jugadores/Aldric Marrullero.md","x":-3430,"y":-1720,"width":400,"height":280,"color":"#a8dadc"},
-		{"id":"bf27fbd0ed8c4b10","type":"file","file":"Reglas/Cordura.md","x":-3430,"y":-1340,"width":1260,"height":660,"color":"5"},
-		{"id":"bae9044fac0b44f0","type":"file","file":"Jugadores/Lyra Brisaveloz.md","x":-3000,"y":-1720,"width":400,"height":280,"color":"#a8dadc"},
-		{"id":"de1218e4ae4c4b9a","type":"file","file":"Jugadores/Sílvido Hojaverde.md","x":-2570,"y":-1720,"width":400,"height":280,"color":"#a8dadc"}
+		{"id":"ae2858fe61a1455a","type":"file","file":"Jugadores/Corbin Manoverde.md","x":-5570,"y":-5240,"width":400,"height":280,"color":"#a8dadc"},
+		{"id":"a8ec84b971b246ec","type":"file","file":"Sesiones/Sesión XX - Plantilla.md","x":-5570,"y":-4860,"width":830,"height":280,"color":"#8338ec"},
+		{"id":"9f89bd309db242d5","type":"file","file":"Resumen.md","x":-5570,"y":-4480,"width":400,"height":280,"color":"#e9c46a"},
+		{"id":"757124a3d5a04b27","type":"file","file":"Jugadores/Brunhilda Martillopétreo.md","x":-5140,"y":-5240,"width":400,"height":280,"color":"#a8dadc"},
+		{"id":"4950236a30304ed9","type":"file","file":"CONTEXT.md","x":-5140,"y":-4480,"width":400,"height":280,"color":"#e9c46a"},
+		{"id":"de1218e4ae4c4b9a","type":"file","file":"Jugadores/Sílvido Hojaverde.md","x":-3850,"y":-5240,"width":400,"height":280,"color":"#a8dadc"},
+		{"id":"70bca4a7ca9e442a","type":"file","file":"Jugadores/Aldric Marrullero.md","x":-4710,"y":-5240,"width":400,"height":280,"color":"#a8dadc"},
+		{"id":"bf27fbd0ed8c4b10","type":"file","file":"Reglas/Cordura.md","x":-4710,"y":-4860,"width":1260,"height":660,"color":"5"},
+		{"id":"bae9044fac0b44f0","type":"file","file":"Jugadores/Lyra Brisaveloz.md","x":-4280,"y":-5240,"width":400,"height":280,"color":"#a8dadc"}
 	],
 	"edges":[
 		{
