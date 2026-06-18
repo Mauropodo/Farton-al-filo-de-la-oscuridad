@@ -30,18 +30,32 @@
               "state": {
                 "file": "Storyline/Historia Express.canvas",
                 "viewState": {
-                  "x": -1561.9008634426268,
-                  "y": -3636.8196156437425,
-                  "zoom": -3.6666666666666665
+                  "x": -730.3830155704463,
+                  "y": -5528.405613583763,
+                  "zoom": -4
                 }
               },
               "pinned": true,
               "icon": "lucide-layout-dashboard",
               "title": "Historia Express"
             }
+          },
+          {
+            "id": "a2059c02dc29b528",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Jugadores/Pícaro — Corbin Manoverde.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Pícaro — Corbin Manoverde"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -207,7 +221,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 433.5
+    "width": 829.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -223,48 +237,49 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "ec8f685ce17f9e83",
+  "active": "a2059c02dc29b528",
   "lastOpenFiles": [
-    "Dialogos/Jasinto (carretero)/Despedida.md",
+    "Jugadores/Mago — Lyra Brisaveloz.md",
+    "Jugadores/Pícaro — Corbin Manoverde.md",
+    "Jugadores/Guerrero — Aldric Marrullero.md",
+    "Jugadores/Explorador — Sílvido Hojaverde.md",
+    "Jugadores/Clérigo — Brunhilda Martillopétreo.md",
+    "Jugadores/Mago_-_Lyra_Brisaveloz.pdf",
     "Storyline/Historia Express.canvas",
+    "NPC/Jasinto (carretero).md",
+    "Creaturas/Presencia del Vacío.md",
+    "ChatGPT Image 18 jun 2026, 02_16_33.png",
+    "Sin confirmar 189450.crdownload",
+    "Combates/El Ritual Final.md",
+    "Jugadores/test_cb.pdf",
+    "tools/debug_cb3.py",
+    "Jugadores/test_checkbox.pdf",
+    "tools/debug_checkboxes2.py",
+    "tools/debug_checkboxes.py",
+    "tools/verify_pdf4.py",
+    "tools/verify_pdf3.py",
+    "tools/debug_pdf2.py",
+    "Resumen Comparativo.md",
+    "Dialogos/Saserdote Rocha/Mencionar a Marion.md",
+    "Dialogos/Saserdote Rocha/Saludo.md",
+    "Dialogos/Saserdote Rocha/Libros donados.md",
+    "Dialogos/Saserdote Rocha/Se Retira.md",
+    "Dialogos/Saserdote Rocha/Hostil.md",
+    "Dialogos/Saserdote Rocha/De Vermis Mysteriis.md",
+    "Dialogos/Saserdote Rocha/Despedida.md",
+    "Dialogos/Jasinto (carretero)/Despedida.md",
     "Sucesos/Jasinto los Lleva.md",
     "Sucesos/Llamado de Rupert.md",
     "Sucesos/Rupert los Recibe.md",
     "Storyline/Historia completa.canvas",
     "Jugadores/Corbin Manoverde.md",
-    "Jugadores/Guerrero — Aldric Marrullero.md",
-    "Jugadores/Explorador — Sílvido Hojaverde.md",
-    "Jugadores/Clérigo — Brunhilda Martillopétreo.md",
-    "Jugadores/Mago — Lyra Brisaveloz.md",
-    "Jugadores/Pícaro — Corbin Manoverde.md",
     "Jugadores/Brunhilda Martillopétreo.md",
     "Jugadores/Aldric Marrullero.md",
     "Combates/Combate en la Carreta.md",
     "Dialogos/Jasinto (carretero)/Post Combate.md",
-    "Dialogos/Jasinto (carretero)/Saludo.md",
-    "Guía Rápida (Express 2h).md",
-    "NPC/Jasinto (carretero).md",
-    "Creaturas/Lobo corrupto (Express 2h).md",
-    "Dialogos/Jasinto (carretero)",
-    "Secretos/El Sello de Contención.md",
-    "Combates/La Abominación.md",
-    "Creaturas/Abominación Guardiana.md",
-    "Ubicaciones/Mapa de la región.md",
-    "Combates/Ratas en el Complejo.md",
-    "Sesiones/Sesión XX - Plantilla.md",
-    "Sucesos/Cruzar el Río.md",
-    "DOC REFERENCIA/La_Bestia_de_Farton (1).pdf",
-    "DOC REFERENCIA/Book 4_Handouts.pdf",
-    "Reglas",
-    "DOC REFERENCIA/edge-of-darkness.pdf",
-    "DOC REFERENCIA/Sin confirmar 558041.crdownload",
-    "Characters",
-    "Personajes",
     "DOC REFERENCIA/Mapa farton.png",
     "Ubicaciones/Sin título.canvas",
     "Pasted image 20260612023234.png",
-    "tools/restore-graph.ps1",
-    "tools/test_readonly.txt",
     "Sin título.canvas"
   ]
 }

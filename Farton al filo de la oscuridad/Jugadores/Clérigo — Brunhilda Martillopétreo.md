@@ -1,7 +1,7 @@
 ---
 tags:
   - personaje
-raza: Enana
+raza: Enano
 clase: Clérigo
 nivel: 1
 alineamiento: Legal Bueno
@@ -17,12 +17,13 @@ constitucion: 14
 inteligencia: 8
 sabiduria: 17
 carisma: 13
+oro: 10
 ---
 
-# Clérigo — Brunhilda Martillopétreo
-> Clérigo • Enana • Nivel 1
+# Clérigo
+> Clérigo • Enano • Nivel 1
 
-**¿Por qué Rupert la llama?** Rupert salvó al clan Martillopétreo de una plaga sobrenatural sin aceptar pago. Su padre le dijo: *"Si ese hombre llama, respondemos sin preguntas."* Rupert ha llamado. Brunhilda viene a cumplir la deuda de su clan.
+**¿Por qué Rupert lo llama?** No fue llamado realmente. Llegó a Farton tras oír rumores de conocimiento profano en los alrededores de la colina. Alguien estaba desenterrando magia que debía seguir enterrada. Su deber es investigar, y si es necesario, purificar.
 
 ## Estadísticas básicas
 
@@ -68,15 +69,14 @@ carisma: 13
 **Herramientas:** Herramientas de herrero
 **Idiomas:** Común, Enano
 
-## Dominio: Forja
+## Trucos (3)
 
-**Canalizar divinidad (1/descanso).**
-**Bendición de la forja.** puede crear un objeto de metal simple o imbuir un arma/armadura con +1 durante 1 hora.
-**Conjuros de dominio.** *Encantar armadura, Súplica de ayuda*
+- Llama sagrada
+- Orientación
+- Taumaturgia
 
 ## Hechizos preparados (5)
 
-**Trucos (3):** Llama sagrada, Orientación, Taumaturgia
 **Nivel 1:** Curar heridas, Escudo de la fe, Palabra de curación, Protección contra el bien y el mal, Santuario
 
 ## Equipo
@@ -96,7 +96,7 @@ carisma: 13
 
 ## Rasgos y aptitudes
 
-### Raciales (Enana)
+### Raciales (Enano)
 
 **Visión en la oscuridad.** 60 pies (18 m).
 **Resistencia enana.** Ventaja contra envenenado. Resistencia al daño por veneno.
@@ -107,17 +107,16 @@ carisma: 13
 ### De clase (Clérigo)
 
 **Lanzamiento de conjuros.** CD de salvación 13, +5 a impactar.
-**Canalizar divinidad (1/descanso).**
+**Canalizar divinidad (1/descanso).** Usar *Canalizar divinidad* para activar **Bendición de la forja**: crea un objeto de metal simple o imbuye un arma/armadura con +1 durante 1 hora.
+**Conjuros de dominio.** *Encantar armadura, Súplica de ayuda*
 
-## Trasfondo: Deudora de Rupert
+## Trasfondo: Cazador de herejías
 
-Hace años, una plaga sobrenatural asoló el clan Martillopétreo. Los enanos morían con símbolos negros grabados en la piel. Rupert llegó sin ser llamado, realizó un ritual de purificación que casi lo mata, y se fue sin aceptar una sola moneda.
+En los templos de su orden corrieron rumores: alguien estaba practicando magia prohibida cerca de Farton. Invocaciones. Sellos rotos. Conocimiento que no debería existir. La orden no podía ignorarlo.
 
-Brunhilda era una enana joven, pero lo recuerda: un mago alto, de mirada cansada, que sonreía como si ya estuviera muerto. Su padre le dijo: *"Si ese hombre llama algún día, nosotros respondemos. Sin preguntas."*
+Este clérigo fue enviado a investigar. No sabe qué encontrará ni quién está involucrado. Solo sabe que ciertas puertas no deberían abrirse, y que si alguien las abrió, hay que cerrarlas — cueste lo que cueste.
 
-Rupert ha llamado.
-
-**Rasgo de trasfondo.** Brunhilda conoce los rituales de protección contra la corrupción sobrenatural. Reconoce cuando algo ha sido marcado o poseído.
+**Rasgo de trasfondo.** Conoce los rituales de protección contra la corrupción sobrenatural. Reconoce cuando algo ha sido marcado o poseído. Su orden le ha dado autoridad para actuar sin rendir cuentas hasta que el peligro termine.
 
 ## Ataques
 
@@ -165,7 +164,7 @@ Cada vez que ocurre **una** de estas situaciones, el personaje debe tirar **Salv
 
 ## Notas de interpretación
 
-Brunhilda es seria, leal y no habla por hablar. Cree en las deudas y en la palabra dada. No sabe qué quiere Rupert, pero no necesita saberlo — su padre le enseñó que algunas promesas se cumplen sin preguntas. Reza todas las mañanas a la forja. No le teme a la muerte, pero sí a fallar.
+Es de carácter serio, devoto y no habla por hablar. No vino por lealtad a Rupert sino por deber. Desconfía de la magia que no entiende, pero reconoce que no todo lo sobrenatural es maligno. Reza todas las mañanas a la forja. No le teme a la muerte, pero sí a fallar en su misión.
 
 Enlace a [[NPC/Rupert Merriweather|Rupert]].
 

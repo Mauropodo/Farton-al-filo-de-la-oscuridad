@@ -880,7 +880,6 @@
 		{"id":"c0ed3e3895d04961","type":"file","file":"NPC/Jasinto (carretero).md","x":-6215,"y":-3655,"width":300,"height":280,"color":"#ffffff"},
 		{"id":"ea3c2a7f22f80efc","type":"file","file":"Dialogos/Jasinto (carretero)/Despedida.md","x":-5120,"y":-3655,"width":400,"height":280,"color":"4"},
 		{"id":"824015b65ed27089","type":"file","file":"Dialogos/Podrik Wols/Despedida.md","x":-1040,"y":-1935,"width":400,"height":400,"color":"4"},
-		{"id":"c08b0c9db7e6a4bd","type":"file","file":"Objetos y pistas/Notas de Marion.md","x":-1360,"y":-5665,"width":2320,"height":400,"color":"3"},
 		{"id":"6a6734ab25613500","type":"file","file":"Dialogos/Rupert Merriweather/La Recompensa.md","x":-4240,"y":-1625,"width":400,"height":400,"color":"4"},
 		{"id":"f0951928fd043a35","type":"file","file":"Dialogos/Rupert Merriweather/Respuesta Hostil.md","x":-3840,"y":-945,"width":400,"height":400,"color":"4"},
 		{"id":"b2b54f5d732f4ac1","type":"file","file":"Dialogos/Rupert Merriweather/Quien Eres.md","x":-3780,"y":-2345,"width":400,"height":400,"color":"4"},
@@ -945,6 +944,7 @@
 		{"id":"20ddde41103bb57a","type":"file","file":"Sesiones/Sesión XX - Plantilla.md","x":-6210,"y":-6460,"width":830,"height":280,"color":"#8338ec"},
 		{"id":"6a4e315b9463c84f","type":"file","file":"Resumen.md","x":-6210,"y":-6080,"width":400,"height":280,"color":"#e9c46a"},
 		{"id":"6b0c613fda96572d","type":"file","file":"CONTEXT.md","x":-5780,"y":-6080,"width":400,"height":280,"color":"#e9c46a"},
-		{"id":"280e1b3c0d58aec7","type":"file","file":"Reglas/Cordura.md","x":-5350,"y":-6460,"width":1260,"height":660,"color":"5"}
+		{"id":"280e1b3c0d58aec7","type":"file","file":"Reglas/Cordura.md","x":-5350,"y":-6460,"width":1260,"height":660,"color":"5"},
+		{"id":"c08b0c9db7e6a4bd","type":"file","file":"Objetos y pistas/Notas de Marion.md","x":-1360,"y":-5185,"width":2320,"height":400,"color":"3"}
 	]
 }

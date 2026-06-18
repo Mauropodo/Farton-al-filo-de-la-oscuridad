@@ -17,12 +17,13 @@ constitucion: 14
 inteligencia: 10
 sabiduria: 13
 carisma: 8
+oro: 10
 ---
 
-# Explorador — Sílvido Hojaverde
+# Explorador
 > Explorador • Elfo de los bosques • Nivel 1
 
-**¿Por qué Rupert lo llama?** Sílvido vive en el bosque y fue el primero en notar que algo estaba podrido: animales sin corazón, lobos que no temen al fuego, silencio donde antes había vida. Rupert le envió un mensaje: *"Tú ves lo que otros no quieren ver. Yo también. Ven."*
+**¿Por qué Rupert lo llama?** Este explorador vive en el bosque y fue el primero en notar que algo estaba podrido: animales sin corazón, lobos que no temen al fuego, silencio donde antes había vida. Rupert le envió un mensaje: *"Tú ves lo que otros no quieren ver. Yo también. Ven."*
 
 ## Estadísticas básicas
 
@@ -66,6 +67,14 @@ carisma: 8
 **Armaduras:** Armaduras ligeras, armaduras intermedias, escudos
 **Idiomas:** Común, Élfico, Silvano
 
+## Trucos (3)
+
+No aplica
+
+## Hechizos preparados
+
+No aplica
+
 ## Equipo
 
 | Objeto | Cantidad |
@@ -101,11 +110,11 @@ carisma: 8
 
 ## Trasfondo: El bosque está enfermo
 
-Sílvido ha vivido en el bosque al este de Farton durante años. Nadie lo contrató; simplemente es su hogar. Las últimas semanas ha visto cosas que no puede explicar: un ciervo muerto de pie, sin una marca, sin sangre; lobos a los que no les importa el fuego; un tramo de bosque donde ni los insectos hacen ruido.
+Este explorador ha vivido en el bosque al este de Farton durante años. Nadie lo contrató; simplemente es su hogar. Las últimas semanas ha visto cosas que no puede explicar: un ciervo muerto de pie, sin una marca, sin sangre; lobos a los que no les importa el fuego; un tramo de bosque donde ni los insectos hacen ruido.
 
 Rastreó el origen de la perturbación hasta la colina. No se atrevió a acercarse. Pero alguien más lo notó: Rupert Merriweather, que le envió un mensaje con un niño del pueblo: *"Tú ves lo que otros no quieren ver. Yo también. Ven."*
 
-**Rasgo de trasfondo.** Sílvido conoce cada sendero, corriente y guarida del bosque de Farton. Nunca se pierde en terreno natural.
+**Rasgo de trasfondo.** Conoce cada sendero, corriente y guarida del bosque de Farton. Nunca se pierde en terreno natural.
 
 ## Ataques
 
@@ -152,7 +161,7 @@ Cada vez que ocurre **una** de estas situaciones, el personaje debe tirar **Salv
 
 ## Notas de interpretación
 
-Sílvido habla poco. Escucha mucho. Ha visto el bosque enfermar y sabe que hay algo mal, pero no tiene palabras para nombrarlo. No confía en la civilización — confía en los árboles y en los rastros. Rupert le resulta incómodo: demasiado sabio, demasiado roto. Pero cuando el bosque te pide ayuda, no la ignoras.
+Habla poco. Escucha mucho. Ha visto el bosque enfermar y sabe que hay algo mal, pero no tiene palabras para nombrarlo. No confía en la civilización — confía en los árboles y en los rastros. Rupert le resulta incómodo: demasiado sabio, demasiado roto. Pero cuando el bosque te pide ayuda, no la ignoras.
 
 Enlace a [[NPC/Rupert Merriweather|Rupert]] y [[Bosque|el bosque]].
 

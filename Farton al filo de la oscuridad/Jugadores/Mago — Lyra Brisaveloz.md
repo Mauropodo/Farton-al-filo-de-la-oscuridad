@@ -1,7 +1,7 @@
 ---
 tags:
   - personaje
-raza: Elfa de los bosques
+raza: Elfo de los bosques
 clase: Mago
 nivel: 1
 alineamiento: Neutral Bueno
@@ -17,12 +17,13 @@ constitucion: 13
 inteligencia: 17
 sabiduria: 12
 carisma: 10
+oro: 10
 ---
 
-# Mago — Lyra Brisaveloz
-> Mago • Elfa de los bosques • Nivel 1
+# Mago
+> Mago • Elfo de los bosques • Nivel 1
 
-**¿Por qué Rupert la llama?** Lyra fue pupila de [[NPC/Marion Allen|Marion Allen]] cuando era joven. Marion le contó la historia de la entidad bajo la colina. Rupert lo sabe y la necesita: *"Marion ya no está. Si recuerdas lo que te contó, ven."*
+**¿Por qué Rupert lo llama?** Este mago fue pupilo de [[NPC/Marion Allen|Marion Allen]] cuando era joven. Marion le contó la historia de la entidad bajo la colina. Rupert lo sabe y lo necesita: *"Marion ya no está. Si recuerdas lo que te contó, ven."*
 
 ## Estadísticas básicas
 
@@ -95,7 +96,7 @@ carisma: 10
 
 ## Rasgos y aptitudes
 
-### Raciales (Elfa de los bosques)
+### Raciales (Elfo de los bosques)
 
 **Visión en la oscuridad.** 60 pies (18 m).
 **Ascendencia feérica.** Ventaja contra hechizado. La magia no puede dormirla.
@@ -108,13 +109,13 @@ carisma: 10
 **Lanzamiento de conjuros.** CD de salvación 13, +5 a impactar.
 **Recuperación arcana.** Una vez al día, recupera hasta 1 nivel de espacios de conjuros tras un descanso breve.
 
-## Trasfondo: Pupila de Marion
+## Trasfondo: Pupilo de Marion
 
-Lyra era una joven elfa cuando Marion Allen pasó por su aldea buscando conocimiento antiguo. Marion pasó un verano estudiando con los eruditos elfos, y Lyra, fascinada, lo seguía a todas partes. Marion le enseñó los fundamentos de la magia arcana y, una noche, le habló de la entidad bajo la colina — del error que había cometido y de su promesa de arreglarlo.
+Este mago era joven cuando Marion Allen pasó por su aldea buscando conocimiento antiguo. Marion pasó un verano estudiando con los eruditos elfos, y quien luego sería mago, fascinado, lo seguía a todas partes. Marion le enseñó los fundamentos de la magia arcana y, una noche, le habló de la entidad bajo la colina — del error que había cometido y de su promesa de arreglarlo.
 
-Lyra nunca olvidó esa historia. Años después, recibió un mensaje de Rupert: *"Marion ya no está. Yo tampoco estaré pronto. Si recuerdas lo que te contó, ven."*
+Nunca olvidó esa historia. Años después, recibió un mensaje de Rupert: *"Marion ya no está. Yo tampoco estaré pronto. Si recuerdas lo que te contó, ven."*
 
-**Rasgo de trasfondo.** Lyra reconoce símbolos arcanos, sellos y lenguajes rituales con facilidad. Ha oído historias de la entidad desde joven.
+**Rasgo de trasfondo.** Reconoce símbolos arcanos, sellos y lenguajes rituales con facilidad. Ha oído historias de la entidad desde joven.
 
 ## Ataques
 
@@ -161,7 +162,7 @@ Cada vez que ocurre **una** de estas situaciones, el personaje debe tirar **Salv
 
 ## Notas de interpretación
 
-Lyra es curiosa, habladora, pero se pone seria cuando habla de Marion. Sabe más del misterio que los demás — pero solo fragmentos. No tuvo valor para buscar a Marion cuando desapareció. Rupert es su última oportunidad de honrar a su viejo maestro.
+Es curioso, hablador, pero se pone serio cuando habla de Marion. Sabe más del misterio que los demás — pero solo fragmentos. No tuvo valor para buscar a Marion cuando desapareció. Rupert es su última oportunidad de honrar a su viejo maestro.
 
 Enlace a [[NPC/Marion Allen|Marion]] y [[NPC/Rupert Merriweather|Rupert]].
 

@@ -17,12 +17,13 @@ constitucion: 14
 inteligencia: 10
 sabiduria: 12
 carisma: 14
+oro: 10
 ---
 
-# Pícaro — Corbin Manoverde
+# Pícaro
 > Pícaro • Mediano Piesligeros • Nivel 1
 
-**¿Por qué Rupert lo llama?** Corbin fue su aprendiz de niño. Rupert le enseñó a leer mapas, abrir cerraduras y moverse sin hacer ruido. Ahora necesita sus *"buenas manos y mejor cabeza"* para acceder a lo que está cerrado bajo la colina.
+**¿Por qué Rupert lo llama?** No fue llamado realmente. Oyó rumores de que Rupert Merriweather —el viejo mago ermitaño— había ocultado algo valioso en la colina. Un tesoro, un artefacto, algo que merecía ser encontrado. Vino a buscar su oportunidad.
 
 ## Estadísticas básicas
 
@@ -71,14 +72,13 @@ carisma: 14
 **Herramientas:** Herramientas de ladrón
 **Idiomas:** Común, Mediano
 
-## Monedas
+## Trucos (3)
 
-| Tipo | Cantidad |
-| --- | --- |
-| po | — |
-| mo | 10 |
-| mp | — |
-| mc | — |
+No aplica
+
+## Hechizos preparados
+
+No aplica
 
 ## Equipo
 
@@ -110,6 +110,14 @@ carisma: 14
 **Pericia.** Competencia duplicada en Sigilo y Juego de manos.
 **Ataque furtivo.** Una vez por turno, inflige +1d6 de daño si tiene ventaja en la tirada de ataque o si un aliado está a 1,5 m del objetivo.
 
+## Trasfondo: Cazador de tesoros
+
+Los rumores corrieron de boca en boca en las tabernas de los pueblos cercanos: Rupert Merriweather, el viejo mago que vivió en la cabaña del bosque, había estado yendo a la colina durante años. Alguien lo vio volver cargando algo. Otro juró haber oído golpes bajo tierra.
+
+Este pícaro no cree en tesoros sin dueño, pero sí en oportunidades. Rupert es viejo, está enfermo y ya no vigila como antes. Si hay algo valioso en esa colina, alguien tiene que sacarlo. ¿Por qué no él?
+
+**Rasgo de trasfondo:** Reconoce mapas, terrenos y ruinas con facilidad. Siempre recuerda una ruta después de recorrerla una vez. Tiene buen ojo para detectar objetos de valor y trampas.
+
 ## Ataques
 
 | Ataque       | Bonificador | Daño  | Tipo       |
@@ -117,14 +125,6 @@ carisma: 14
 | Espada corta | +5          | 1d6+3 | Perforante |
 | Daga         | +5          | 1d4+3 | Perforante |
 | Arco corto   | +5          | 1d6+3 | Perforante |
-
-## Trasfondo: Aprendiz de Rupert
-
-Corbin creció en Farton. De niño se escapaba a la cabaña de Rupert, donde el viejo mago le enseñaba a leer mapas, a moverse sin hacer ruido y a abrir cerraduras. Rupert decía que Corbin tenía "buenas manos y mejor cabeza".
-
-Cuando Rupert desapareció de la vida del pueblo, Corbin siguió entrenando por su cuenta. Ahora, años después, Rupert lo ha vuelto a llamar.
-
-**Rasgo de trasfondo:** Corbin reconoce mapas, terrenos y ruinas con facilidad. Siempre recuerda una ruta después de recorrerla una vez.
 
 ## Cordura
 
@@ -164,7 +164,7 @@ Cada vez que ocurre **una** de estas situaciones, el personaje debe tirar **Salv
 
 ## Notas de interpretación
 
-Corbin es callado, observador. Sonríe cuando está nervioso. Confía en Rupert sin entender del todo por qué lo ha llamado. Prefiere escuchar antes que hablar.
+Es callado, observador. Sonríe cuando está nervioso. No confía del todo en Rupert — los viejos magos nunca dan nada gratis. Pero si hay algo de valor en esa colina, piensa encontrarlo antes que los demás. Prefiere escuchar antes que hablar.
 
 Enlace a [[NPC/Rupert Merriweather|Rupert]].
 

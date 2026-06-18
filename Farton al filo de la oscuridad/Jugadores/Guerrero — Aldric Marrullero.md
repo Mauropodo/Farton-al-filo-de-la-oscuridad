@@ -17,12 +17,13 @@ constitucion: 15
 inteligencia: 10
 sabiduria: 8
 carisma: 12
+oro: 10
 ---
 
-# Guerrero — Aldric Marrullero
+# Guerrero
 > Guerrero • Humano • Nivel 1
 
-**¿Por qué Rupert lo llama?** Aldric y Rupert fueron aventureros hace veinte años. Rupert lo sacó a cuestas de una cueva cuando un golpe envenenado lo dejó ciego y agonizante. Ahora Rupert le escribe: *"No me queda nadie más. Si todavía guardas esa espada, ven."* Aldric no lo dudó.
+**¿Por qué Rupert lo llama?** Este guerrero y Rupert fueron aventureros hace veinte años. Rupert lo sacó a cuestas de una cueva cuando un golpe envenenado lo dejó sin vista y agonizante. Ahora Rupert le escribe: *"No me queda nadie más. Si todavía guardas esa espada, ven."* Quien recibe la carta no lo duda.
 
 ## Estadísticas básicas
 
@@ -67,9 +68,13 @@ carisma: 12
 **Armaduras:** Todas las armaduras, escudos
 **Idiomas:** Común, Enano
 
-## Estilo de combate: Protección
+## Trucos (3)
 
-Cuando una criatura que puede ver ataca a un objetivo a 1,5 m de ti, puedes usar tu reacción para imponer desventaja en la tirada de ataque. Debes llevar un escudo.
+No aplica
+
+## Hechizos preparados
+
+No aplica
 
 ## Equipo
 
@@ -98,20 +103,20 @@ Cuando una criatura que puede ver ataca a un objetivo a 1,5 m de ti, puedes usar
 
 ### De clase (Guerrero)
 
-**Estilo de combate:** Protección.
+**Estilo de combate: Protección.** Cuando una criatura que puedes ver ataca a un objetivo a 1,5 m de ti, puedes usar tu reacción para imponer desventaja en la tirada de ataque. Debes llevar un escudo.
 **Segundo aire.** Una vez por descanso, acción bonus para recuperar 1d10+1 PG.
 
 ## Trasfondo: Vieja deuda
 
-Aldric y Rupert fueron aventureros juntos hace veinte años. Nada de magia ni profecías — limpiaban cuevas de goblins, escoltaban caravanas, cobraban monedas. En una de esas cuevas, un golpe envenenado dejó a Aldric ciego y agonizando. Rupert lo sacó a cuestas y pasó tres días hirviendo vendas y escupiendo oraciones hasta que Aldric despertó.
+Este personaje y Rupert fueron aventureros juntos hace veinte años. Nada de magia ni profecías — limpiaban cuevas de goblins, escoltaban caravanas, cobraban monedas. En una de esas cuevas, un golpe envenenado lo dejó sin vista y agonizando. Rupert lo sacó a cuestas y pasó tres días hirviendo vendas y escupiendo oraciones hasta que despertó.
 
 Nunca hablaron de ello. Rupert se fue al día siguiente.
 
-Ahora, dos décadas después, Aldric recibe una nota arrugada con la caligrafía temblorosa de Rupert: *"No me queda nadie más. Si todavía guardas esa espada, ven."*
+Ahora, dos décadas después, quien carga esta espada recibe una nota arrugada con la caligrafía temblorosa de Rupert: *"No me queda nadie más. Si todavía guardas esa espada, ven."*
 
-Aldric no lo ha dudado ni un segundo.
+No lo duda ni un segundo.
 
-**Rasgo de trasfondo.** Aldric ha visto morir a compañeros. Sabe cuándo un encargo huele mal y cuándo un amigo está pidiendo ayuda antes de que las palabras salgan de su boca.
+**Rasgo de trasfondo.** Ha visto morir a compañeros. Sabe cuándo un encargo huele mal y cuándo un amigo está pidiendo ayuda antes de que las palabras salgan de su boca.
 
 ## Ataques
 
@@ -160,7 +165,7 @@ Cada vez que ocurre **una** de estas situaciones, el personaje debe tirar **Salv
 
 ## Notas de interpretación
 
-Aldric es un mercenario entrado en años que ha visto suficiente violencia como para saber que el mundo es feo, per también sabe cuándo alguien merece que lo saquen a cuestas de una cueva. No entiende de magia ni de entidades, pero entiende de deudas. Y de amigos. Esta es su última aventura antes de retirarse del todo — o así lo espera.
+Es un mercenario entrado en años que ha visto suficiente violencia como para saber que el mundo es feo, pero también sabe cuándo alguien merece que lo saquen a cuestas de una cueva. No entiende de magia ni de entidades, pero entiende de deudas. Y de amigos. Esta es su última aventura antes de retirarse del todo — o así lo espera.
 
 Enlace a [[NPC/Rupert Merriweather|Rupert]].
 
