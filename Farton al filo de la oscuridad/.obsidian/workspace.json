@@ -44,12 +44,14 @@
             "id": "a2059c02dc29b528",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "DOC REFERENCIA/Book 4_Handouts.pdf"
+                "file": "Hechizos/Santuario.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Book 4_Handouts"
+              "icon": "lucide-file",
+              "title": "Santuario"
             }
           }
         ],
@@ -237,6 +239,8 @@
   },
   "active": "a2059c02dc29b528",
   "lastOpenFiles": [
+    "Jugadores/Clérigo — Brunhilda Martillopétreo.md",
+    "DOC REFERENCIA/Book 4_Handouts.pdf",
     "Hechizos/Luz.md",
     "Hechizos/Taumaturgia.md",
     "Hechizos/Encantar armadura.md",
@@ -246,7 +250,6 @@
     "Jugadores/Mago — Lyra Brisaveloz.md",
     "Jugadores/Guerrero — Aldric Marrullero.md",
     "Jugadores/Explorador — Sílvido Hojaverde.md",
-    "Jugadores/Clérigo — Brunhilda Martillopétreo.md",
     "Jugadores/Mago_-_Lyra_Brisaveloz.pdf",
     "Storyline/Historia Express.canvas",
     "NPC/Jasinto (carretero).md",
@@ -261,7 +264,6 @@
     "tools/debug_checkboxes.py",
     "tools/verify_pdf4.py",
     "tools/verify_pdf3.py",
-    "tools/debug_pdf2.py",
     "Resumen Comparativo.md",
     "Dialogos/Saserdote Rocha/Mencionar a Marion.md",
     "Dialogos/Saserdote Rocha/Saludo.md",
@@ -275,7 +277,6 @@
     "Sucesos/Llamado de Rupert.md",
     "Sucesos/Rupert los Recibe.md",
     "Storyline/Historia completa.canvas",
-    "Jugadores/Corbin Manoverde.md",
     "DOC REFERENCIA/Mapa farton.png",
     "Ubicaciones/Sin título.canvas",
     "Pasted image 20260612023234.png",
