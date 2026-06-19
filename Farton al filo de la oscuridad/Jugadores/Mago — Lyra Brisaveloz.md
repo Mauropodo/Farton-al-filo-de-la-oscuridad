@@ -72,13 +72,13 @@ oro: 10
 
 ## Trucos (3)
 
-- Luz
-- Mano de mago
-- Mensaje
+- [[Hechizos/Luz]]
+- [[Hechizos/Mano de mago]]
+- [[Hechizos/Mensaje]]
 
 ## Hechizos preparados (4)
 
-**Nivel 1:** Detectar magia, Escudo, Proyectil mágico, Comprensión de idiomas
+**Nivel 1:** [[Hechizos/Detectar magia]], [[Hechizos/Escudo]], [[Hechizos/Proyectil mágico]], [[Hechizos/Comprensión de idiomas]]
 
 ## Equipo
 

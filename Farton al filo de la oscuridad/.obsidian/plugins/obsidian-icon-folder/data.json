@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiWand",
       "LiCheckSquare",
       "LiMap",
       "LiSparkle",
-      "LiBookMarked",
-      "LiDices"
+      "LiBookMarked"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -97,5 +97,9 @@
   "Dialogos/Podrik Wols/Rumores.md": "LiCheckSquare",
   "Dialogos/Podrik Wols/Despedida.md": "LiCheckSquare",
   "Dialogos/Podrik Wols": "LiCheckSquare",
-  "Objetos y pistas/diario incompleto de Rupert.md": "LiCheckSquare"
+  "Objetos y pistas/diario incompleto de Rupert.md": "LiCheckSquare",
+  "Hechizos": {
+    "iconName": "LiWand",
+    "iconColor": "#00a365"
+  }
 }

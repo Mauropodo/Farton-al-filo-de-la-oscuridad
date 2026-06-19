@@ -71,13 +71,13 @@ oro: 10
 
 ## Trucos (3)
 
-- Llama sagrada
-- Orientación
-- Taumaturgia
+- [[Hechizos/Llama sagrada]]
+- [[Hechizos/Orientación]]
+- [[Hechizos/Taumaturgia]]
 
 ## Hechizos preparados (5)
 
-**Nivel 1:** Curar heridas, Escudo de la fe, Palabra de curación, Protección contra el bien y el mal, Santuario
+**Nivel 1:** [[Hechizos/Curar heridas]], [[Hechizos/Escudo de la fe]], [[Hechizos/Palabra de curación]], [[Hechizos/Protección contra el bien y el mal]], [[Hechizos/Santuario]]
 
 ## Equipo
 
@@ -108,7 +108,7 @@ oro: 10
 
 **Lanzamiento de conjuros.** CD de salvación 13, +5 a impactar.
 **Canalizar divinidad (1/descanso).** Usar *Canalizar divinidad* para activar **Bendición de la forja**: crea un objeto de metal simple o imbuye un arma/armadura con +1 durante 1 hora.
-**Conjuros de dominio.** *Encantar armadura, Súplica de ayuda*
+**Conjuros de dominio.** [[Hechizos/Encantar armadura]], [[Hechizos/Súplica de ayuda]]
 
 ## Trasfondo: Cazador de herejías
 

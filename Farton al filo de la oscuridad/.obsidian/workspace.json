@@ -44,14 +44,12 @@
             "id": "a2059c02dc29b528",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Jugadores/Pícaro — Corbin Manoverde.md",
-                "mode": "source",
-                "source": false
+                "file": "DOC REFERENCIA/Book 4_Handouts.pdf"
               },
-              "icon": "lucide-file",
-              "title": "Pícaro — Corbin Manoverde"
+              "icon": "lucide-file-text",
+              "title": "Book 4_Handouts"
             }
           }
         ],
@@ -239,8 +237,13 @@
   },
   "active": "a2059c02dc29b528",
   "lastOpenFiles": [
-    "Jugadores/Mago — Lyra Brisaveloz.md",
+    "Hechizos/Luz.md",
+    "Hechizos/Taumaturgia.md",
+    "Hechizos/Encantar armadura.md",
+    "Hechizos/Curar heridas.md",
+    "Hechizos/Comprensión de idiomas.md",
     "Jugadores/Pícaro — Corbin Manoverde.md",
+    "Jugadores/Mago — Lyra Brisaveloz.md",
     "Jugadores/Guerrero — Aldric Marrullero.md",
     "Jugadores/Explorador — Sílvido Hojaverde.md",
     "Jugadores/Clérigo — Brunhilda Martillopétreo.md",
@@ -273,10 +276,6 @@
     "Sucesos/Rupert los Recibe.md",
     "Storyline/Historia completa.canvas",
     "Jugadores/Corbin Manoverde.md",
-    "Jugadores/Brunhilda Martillopétreo.md",
-    "Jugadores/Aldric Marrullero.md",
-    "Combates/Combate en la Carreta.md",
-    "Dialogos/Jasinto (carretero)/Post Combate.md",
     "DOC REFERENCIA/Mapa farton.png",
     "Ubicaciones/Sin título.canvas",
     "Pasted image 20260612023234.png",

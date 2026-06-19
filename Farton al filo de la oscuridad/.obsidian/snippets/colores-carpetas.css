@@ -70,6 +70,14 @@
   color: #ab06b7 !important;
 }
 
+/* Hechizos */
+.nav-folder-title[data-path^="Hechizos"],
+.nav-file-title[data-path^="Hechizos/"],
+.tree-item-self[data-path^="Hechizos"],
+.tree-item-self[data-path^="Hechizos/"] {
+  color: #00a365 !important;
+}
+
 /* Ubicaciones */
 .nav-folder-title[data-path^="Ubicaciones"],
 .nav-file-title[data-path^="Ubicaciones/"],
