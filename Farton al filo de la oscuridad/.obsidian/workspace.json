@@ -30,8 +30,8 @@
               "state": {
                 "file": "Storyline/Historia Express.canvas",
                 "viewState": {
-                  "x": -730.3830155704463,
-                  "y": -5528.405613583763,
+                  "x": -818.1847890688009,
+                  "y": -2388.881335053607,
                   "zoom": -4
                 }
               },
@@ -41,21 +41,77 @@
             }
           },
           {
+            "id": "9adee13fbaab7788",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dialogos/Rupert Merriweather/Respuesta Hostil.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Respuesta Hostil"
+            }
+          },
+          {
             "id": "a2059c02dc29b528",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hechizos/Santuario.md",
+                "file": "Creaturas/Araña gigante.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Santuario"
+              "title": "Araña gigante"
+            }
+          },
+          {
+            "id": "cad0c8aa2b9ebff3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NPC/Rupert Merriweather.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Rupert Merriweather"
+            }
+          },
+          {
+            "id": "a0cc21b3c21d5b72",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NPC/Rupert Merriweather.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Rupert Merriweather"
+            }
+          },
+          {
+            "id": "a6df7c863fe71576",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ubicaciones/Pueblo de Farton.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Pueblo de Farton"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -221,7 +277,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 829.5
+    "width": 407.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -237,26 +293,39 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "ec8f685ce17f9e83",
+  "active": "a6df7c863fe71576",
   "lastOpenFiles": [
-    "Jugadores/Clérigo — Brunhilda Martillopétreo.md",
-    "DOC REFERENCIA/Book 4_Handouts.pdf",
-    "Hechizos/Luz.md",
-    "Hechizos/Taumaturgia.md",
-    "Hechizos/Encantar armadura.md",
-    "Hechizos/Curar heridas.md",
-    "Hechizos/Comprensión de idiomas.md",
-    "Jugadores/Pícaro — Corbin Manoverde.md",
-    "Jugadores/Mago — Lyra Brisaveloz.md",
-    "Jugadores/Guerrero — Aldric Marrullero.md",
-    "Jugadores/Explorador — Sílvido Hojaverde.md",
-    "Jugadores/Mago_-_Lyra_Brisaveloz.pdf",
-    "Storyline/Historia Express.canvas",
-    "NPC/Jasinto (carretero).md",
-    "Creaturas/Presencia del Vacío.md",
+    "Ubicaciones/Mapa de la región.md",
+    "Ubicaciones/Bosque.md",
+    "Ubicaciones/Pueblo de Farton.md",
     "ChatGPT Image 18 jun 2026, 02_16_33.png",
+    "Storyline/Historia Express.canvas",
+    "Dialogos/Rupert Merriweather/Respuesta Hostil.md",
+    "NPC/Agnes Merriweather.md",
+    "NPC/Rupert Merriweather.md",
+    "NPC/Jasinto (carretero).md",
+    "Objetos y pistas/nota de Agnes.md",
+    "Dialogos/Sacerdote de Farton/Despedida.md",
+    "Creaturas/Araña gigante.md",
+    "Dialogos/Rupert Merriweather/La Recompensa.md",
+    "Dialogos/Rupert Merriweather/Bienvenida.md",
+    "Objetos y pistas/mapa del bosque.md",
+    "Secretos/Las Notas de Marion.md",
+    "Secretos/La Entidad Sellada.md",
+    "Secretos/El Ritual Original.md",
+    "Sucesos/Rupert los Recibe.md",
+    "Sucesos/Derrota - El Ritual Fue Interrumpido.md",
+    "Sucesos/Cruzar el Río.md",
+    "Ubicaciones/Iglesia.md",
+    "NPC/Sacerdote de Farton.md",
+    "NPC/Marion Allen.md",
+    "Resumen.md",
+    "Combates/Lobos Corruptos.md",
+    "Combates/Combate en la Carreta.md",
+    "Ubicaciones/Complejo Subterráneo.md",
+    "DOC REFERENCIA/Book 4_Handouts.pdf",
+    "Jugadores/Mago_-_Lyra_Brisaveloz.pdf",
     "Sin confirmar 189450.crdownload",
-    "Combates/El Ritual Final.md",
     "Jugadores/test_cb.pdf",
     "tools/debug_cb3.py",
     "Jugadores/test_checkbox.pdf",
@@ -264,18 +333,6 @@
     "tools/debug_checkboxes.py",
     "tools/verify_pdf4.py",
     "tools/verify_pdf3.py",
-    "Resumen Comparativo.md",
-    "Dialogos/Saserdote Rocha/Mencionar a Marion.md",
-    "Dialogos/Saserdote Rocha/Saludo.md",
-    "Dialogos/Saserdote Rocha/Libros donados.md",
-    "Dialogos/Saserdote Rocha/Se Retira.md",
-    "Dialogos/Saserdote Rocha/Hostil.md",
-    "Dialogos/Saserdote Rocha/De Vermis Mysteriis.md",
-    "Dialogos/Saserdote Rocha/Despedida.md",
-    "Dialogos/Jasinto (carretero)/Despedida.md",
-    "Sucesos/Jasinto los Lleva.md",
-    "Sucesos/Llamado de Rupert.md",
-    "Sucesos/Rupert los Recibe.md",
     "Storyline/Historia completa.canvas",
     "DOC REFERENCIA/Mapa farton.png",
     "Ubicaciones/Sin título.canvas",

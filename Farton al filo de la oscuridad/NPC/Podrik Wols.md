@@ -30,7 +30,7 @@ Podrik no sabe la verdad. Nadie la sabe. Pero ha oído fragmentos durante años:
 
 - Que Rupert no siempre fue un ermitaño
 - Que hace décadas pasó algo en la [[Ubicaciones/Colina|colina]]
-- Que [[NPC/Marion Allen|Marion Allen]] era una forastera que vino, organizó algo, y desapareció
+- Que [[NPC/Marion Allen|Marion Allen]] era un forastero que vino, organizó algo, y desapareció
 - Que hay animales muertos en el bosque sin una marca
 - Que desde hace unas semanas, el bosque está más callado de lo normal
 

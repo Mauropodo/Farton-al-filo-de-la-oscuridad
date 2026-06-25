@@ -16,7 +16,7 @@ tags:
 
 *Ustedes no me deben nada. Yo les debo todo.*
 
-*[[NPC/Marion Allen|Marion]] descubrió cómo devolverlo. Lo encontró en un libro — De Vermis Mysteriis — y en las notas que dejó antes de morir. El método está ahí, en el [[Ubicaciones/Complejo Subterráneo|complejo bajo la colina]], donde ella lo preparó todo. Yo nunca tuve la fuerza para completarlo. Pero ustedes... ustedes pueden.*
+*[[NPC/Marion Allen|Marion]] descubrió cómo devolverlo. Lo encontró en un libro — De Vermis Mysteriis. El método está ahí, en la colina, donde él lo preparó todo. Yo nunca tuve la fuerza para completarlo. Pero ustedes... ustedes pueden.*
 
 *Si logran encerrarlo de nuevo, quizás eso baste para salvar lo que queda de mí. No lo merezco, pero se los pido igual.*
 

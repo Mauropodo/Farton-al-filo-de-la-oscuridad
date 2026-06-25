@@ -171,7 +171,7 @@ El Director puede combinar situaciones para crear escenas más complejas:
 |---|---|
 | 7 + 9 | Los cadáveres animados usan las voces de los NPC para llamar a los PJ por su nombre |
 | 8 + 12 | Ácido cae del techo mientras la entidad ataca desde la invisibilidad entre las goteras |
-| 10 + 14 | La visión de Marion contiene un mensaje: ella también fue tentada, y por eso murió |
+| 10 + 14 | La visión de Marion contiene un mensaje: él también fue tentado, y por eso murió |
 | 5 + 13 | El hedor empeora cuando la máscara familiar habla; la voz vibra con dos tonos a la vez |
 | 11 + 16 | El sello parpadea justo cuando la entidad ataca el pentágrama; dos amenazas simultáneas |
 | 4 + 17 | Justo en el tirón final, el polvo ciego nubla la visión del Cantante |
